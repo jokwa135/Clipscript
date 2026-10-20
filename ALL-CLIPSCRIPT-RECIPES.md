@@ -9,9 +9,9 @@
 ---
 
 
-# 🌟 Section: Genjutsu (Video Multiplier & Replacement) (55 Recipes)
+# Section: Genjutsu (Video Multiplier & Replacement) (55 Recipes)
 
-## 🎬 Countryside Duo
+## Countryside Duo
 
 * **ID:** `genjutsu-27182599-2cee-4b27-be1a-d13e9d713d37` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -44,7 +44,7 @@ Replace the scene location with the environment from my references and change th
 
 ---
 
-## 🎬 Orange Jacket
+## Orange Jacket
 
 * **ID:** `genjutsu-735fdf1a-e36a-4f2c-be5e-eb3064f53ede` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -77,7 +77,7 @@ Replace the main character with the character from my references.
 
 ---
 
-## 🎬 Dance Duo
+## Dance Duo
 
 * **ID:** `genjutsu-f8112d7a-5f01-4752-bba7-dfffd3c5ef09` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -110,7 +110,7 @@ Replace the main characters with the characters from my references.
 
 ---
 
-## 🎬 Umbrella Transformation
+## Umbrella Transformation
 
 * **ID:** `genjutsu-93e97a97-d364-4682-816d-7e11697bb289` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -149,7 +149,7 @@ Swap a location and the character
 
 ---
 
-## 🎬 Selfie Walk
+## Selfie Walk
 
 * **ID:** `genjutsu-5fcd3deb-8a52-4a31-b660-14df5408b54a` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -182,7 +182,7 @@ Replace the video's main character
 
 ---
 
-## 🎬 Anime Times Square
+## Anime Times Square
 
 * **ID:** `genjutsu-c0709c7a-e057-401f-8a0f-ee9cfec4d8ed` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -215,7 +215,7 @@ Replace the main character with the character from my references.
 
 ---
 
-## 🎬 Couple Recast
+## Couple Recast
 
 * **ID:** `genjutsu-ea73209c-6010-41fd-b368-be9b515b47a6` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -248,7 +248,7 @@ Replace the main characters with the characters from my references.
 
 ---
 
-## 🎬 Magenta Routine
+## Magenta Routine
 
 * **ID:** `genjutsu-b4e5ab10-b5fa-469b-a7f9-4c8b17ad58a8` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -281,7 +281,7 @@ Explore this motion preset.
 
 ---
 
-## 🎬 Clone Recast
+## Clone Recast
 
 * **ID:** `genjutsu-24d7ae76-1bd8-46ff-b637-e1bb5b31d6b6` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -314,7 +314,7 @@ Explore this motion preset.
 
 ---
 
-## 🎬 Desert Duo
+## Desert Duo
 
 * **ID:** `genjutsu-14aeef88-284f-4a50-83b3-979893207ab6` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -347,7 +347,7 @@ Replace the main characters with the characters from my references.
 
 ---
 
-## 🎬 Handbag Slide
+## Handbag Slide
 
 * **ID:** `genjutsu-0086596a-f988-4aa7-9dcf-b4eb09ff4891` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -380,7 +380,7 @@ Replace the video's main character
 
 ---
 
-## 🎬 Golden Gown
+## Golden Gown
 
 * **ID:** `genjutsu-2749d6b3-863a-46cb-8ea2-24cb81357974` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -413,7 +413,7 @@ Explore this object replacement preset.
 
 ---
 
-## 🎬 Patchwork Runway
+## Patchwork Runway
 
 * **ID:** `genjutsu-09331738-7cbf-4231-a64c-c56ee80b16e7` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -446,7 +446,7 @@ Explore this motion preset.
 
 ---
 
-## 🎬 Pink Street Runway
+## Pink Street Runway
 
 * **ID:** `genjutsu-35533f73-a948-416a-8c40-9bcfc047bbe3` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -479,7 +479,7 @@ Explore this motion preset.
 
 ---
 
-## 🎬 Toronto Recast
+## Toronto Recast
 
 * **ID:** `genjutsu-132dfd2f-e05a-4643-9eae-df7bf5530b88` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -512,7 +512,7 @@ Replace the main character with the character from my references.
 
 ---
 
-## 🎬 Cat Performer
+## Cat Performer
 
 * **ID:** `genjutsu-c3bbb1b7-1e34-4210-a7fa-b03600a77543` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -545,7 +545,7 @@ Explore this motion preset.
 
 ---
 
-## 🎬 Playroom Recast
+## Playroom Recast
 
 * **ID:** `genjutsu-921847b5-ee14-4075-be9a-b3d6de70ba50` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -582,7 +582,7 @@ Replace the main character with the character from my references.
 
 ---
 
-## 🎬 Streetwear Recast
+## Streetwear Recast
 
 * **ID:** `genjutsu-2dd8d321-74f8-4ae2-8dcf-5ded711d7299` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this object replacement preset.
@@ -615,7 +615,7 @@ Replace the main character with the character from my references
 
 ---
 
-## 🎬 Urban Motion
+## Urban Motion
 
 * **ID:** `genjutsu-ffe99d9d-7211-4410-b764-94716a0caaec` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -678,7 +678,7 @@ Shot 2 (4.3-7.3s): Keep the hard cut to the rear tracking chase view. @image1 an
 
 ---
 
-## 🎬 Multi-Scene Recast
+## Multi-Scene Recast
 
 * **ID:** `genjutsu-db44da87-362b-48b9-b71a-28aa1b6a144d` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -751,7 +751,7 @@ The entire video takes place inside the grand golden ballroom from @image1. Keep
 
 ---
 
-## 🎬 Diner Recast
+## Diner Recast
 
 * **ID:** `genjutsu-5670a83d-cf1a-4038-9676-853e40279695` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -792,7 +792,7 @@ Everything else — the night drag-race footage, diner, background patrons, chih
 
 ---
 
-## 🎬 Character Recast
+## Character Recast
 
 * **ID:** `genjutsu-ca9ee0b7-5d88-444c-b562-e373a3be79eb` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -865,7 +865,7 @@ Shot 4 (3.1-4.4s): Keep the low, dynamic tra".
 
 ---
 
-## 🎬 Scene Recast
+## Scene Recast
 
 * **ID:** `genjutsu-8082f578-5d63-43c0-ae93-559e8e381880` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -934,7 +934,7 @@ From 5-8s, preserve the same close moving combat framing as @image1 advances fro
 
 ---
 
-## 🎬 House on Fire
+## House on Fire
 
 * **ID:** `genjutsu-e5f6fcc0-53dd-4c02-a172-57d37b2ca727` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1013,7 +1013,7 @@ Match @image2 naturally to the warm, low sunbeams and soft shadowed interior of 
 
 ---
 
-## 🎬 Commercial Recast
+## Commercial Recast
 
 * **ID:** `genjutsu-55840397-8f78-4df7-b6fc-1dd6da21d538` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1124,7 +1124,7 @@ Landscape 16:9, 10 seconds, real-time motion speed, native audio generation.".
 
 ---
 
-## 🎬 Infinite Zoom
+## Infinite Zoom
 
 * **ID:** `genjutsu-868e53b0-7093-4fe6-9dce-ec30f07e0009` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1265,7 +1265,7 @@ Exactly one person is visible per scene, each matching their reference exactly: 
 
 ---
 
-## 🎬 Ride Recast
+## Ride Recast
 
 * **ID:** `genjutsu-f93150c5-4018-43c4-b4fa-4bd83c0c62e0` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1378,7 +1378,7 @@ This video is one single continuous take filmed by a camera in uninterrupted fli
 
 ---
 
-## 🎬 World Shift
+## World Shift
 
 * **ID:** `genjutsu-84024aa7-f6df-42cf-b703-76057842aa87` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1457,7 +1457,7 @@ Shot 2 (7.7-10.1s): Keep the hard cut and the wide, symmetrical frontal composit
 
 ---
 
-## 🎬 Fight Recast
+## Fight Recast
 
 * **ID:** `genjutsu-aea2047f-e12f-4a30-ab3a-184bca69d777` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1526,7 +1526,7 @@ Keep @image1 focused and composed through the evasions and counter, then calm an
 
 ---
 
-## 🎬 Cats in Motion
+## Cats in Motion
 
 * **ID:** `genjutsu-38f851a5-3442-4e9b-924b-27df270cb36d` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1653,7 +1653,7 @@ Exactly two characters appear: the SWAT cat and the rogue cat; no other people o
 
 ---
 
-## 🎬 Waiter Recast
+## Waiter Recast
 
 * **ID:** `genjutsu-6cf7151e-4fd6-45f4-b7a8-7e5e5d3fb028` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1782,7 +1782,7 @@ Exactly one character in sharp focus: the waiter — all brawlers, mobsters, coo
 
 ---
 
-## 🎬 Outfit Swap
+## Outfit Swap
 
 * **ID:** `genjutsu-8f83d23c-23d1-43db-9794-e5ee075ecfb1` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1853,7 +1853,7 @@ Shot 5 (5.6-7.1s): Keep the hard cut to the medium-wide eye-level view tracking 
 
 ---
 
-## 🎬 Parkour Flow
+## Parkour Flow
 
 * **ID:** `genjutsu-69ab11fa-d5cb-4a73-a172-fccf12e50978` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -1932,7 +1932,7 @@ Integrate @image1 into the cool urban rooftop daylight of @image2. Match his ski
 
 ---
 
-## 🎬 Fantasy Rider
+## Fantasy Rider
 
 * **ID:** `genjutsu-50ec927b-bdb0-46f8-8da1-6b4ffc1d524d` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -2017,7 +2017,7 @@ Match @image1’s face, scale armor, black clothing, purple fabric accents, an".
 
 ---
 
-## 🎬 Street Flow
+## Street Flow
 
 * **ID:** `genjutsu-70c37652-58ae-41d0-9a72-d2877cd0a2d3` | **Subcategory:** *Curated Multiplier Presets*
 * **Visible Effect:** Explore this motion preset.
@@ -2094,7 +2094,7 @@ Shot 1 (0-8s): Keep the continuous wide tracking shot behind the lead acrobat, i
 
 ---
 
-## 🎬 Hand-Painted Cel Animation
+## Hand-Painted Cel Animation
 
 * **ID:** `genjutsu-style-067b27d4-8d8f-44d1-a24b-0f4c28012e4b` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Hand-Painted Cel Animation
@@ -2126,7 +2126,7 @@ Transform input video into Hand-Painted Cel Animation aesthetic. Maintain facial
 
 ---
 
-## 🎬 Knitted Yarn World
+## Knitted Yarn World
 
 * **ID:** `genjutsu-style-2b5b68c4-9253-4d79-9d05-81e7718d8d7a` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Knitted Yarn World
@@ -2158,7 +2158,7 @@ Transform input video into Knitted Yarn World aesthetic. Maintain facial perform
 
 ---
 
-## 🎬 Expressive 2D Animation
+## Expressive 2D Animation
 
 * **ID:** `genjutsu-style-368c6a65-4a48-4e3a-80c7-c460455b5e17` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Expressive 2D Animation
@@ -2190,7 +2190,7 @@ Transform input video into Expressive 2D Animation aesthetic. Maintain facial pe
 
 ---
 
-## 🎬 Rounded Toy CGI
+## Rounded Toy CGI
 
 * **ID:** `genjutsu-style-6bce8e75-df92-487f-a4f0-a324a6a297f3` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Rounded Toy CGI
@@ -2222,7 +2222,7 @@ Transform input video into Rounded Toy CGI aesthetic. Maintain facial performanc
 
 ---
 
-## 🎬 Felt Puppet Stop Motion
+## Felt Puppet Stop Motion
 
 * **ID:** `genjutsu-style-bf6aee41-83a8-433c-b5a5-2309c7bd5b26` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Felt Puppet Stop Motion
@@ -2254,7 +2254,7 @@ Transform input video into Felt Puppet Stop Motion aesthetic. Maintain facial pe
 
 ---
 
-## 🎬 Grotesque Street CGI
+## Grotesque Street CGI
 
 * **ID:** `genjutsu-style-c3268f8d-4cc0-423c-975d-ca1bf7df385a` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Grotesque Street CGI
@@ -2286,7 +2286,7 @@ Transform input video into Grotesque Street CGI aesthetic. Maintain facial perfo
 
 ---
 
-## 🎬 Warm Painterly 3D Animation
+## Warm Painterly 3D Animation
 
 * **ID:** `genjutsu-style-e82b7bbb-c8bf-4d70-a866-e7b15e744a2b` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Warm Painterly 3D Animation
@@ -2318,7 +2318,7 @@ Transform input video into Warm Painterly 3D Animation aesthetic. Maintain facia
 
 ---
 
-## 🎬 Graphic Cel
+## Graphic Cel
 
 * **ID:** `genjutsu-style-523cf5be-67fc-46d6-bfdb-56ccc3e2a8f6` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Graphic Cel
@@ -2350,7 +2350,7 @@ Transform input video into Graphic Cel aesthetic. Maintain facial performance, m
 
 ---
 
-## 🎬 Expressive Gouache Fashion
+## Expressive Gouache Fashion
 
 * **ID:** `genjutsu-style-89484749-e1b9-40c9-979e-fc578c3aad6d` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Expressive Gouache Fashion
@@ -2382,7 +2382,7 @@ swap the video's main characters to the attached characters
 
 ---
 
-## 🎬 Sculptural 3D Fashion
+## Sculptural 3D Fashion
 
 * **ID:** `genjutsu-style-f7786536-123b-47b8-ab65-ee0647df1509` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Sculptural 3D Fashion
@@ -2414,7 +2414,7 @@ Transform input video into Sculptural 3D Fashion aesthetic. Maintain facial perf
 
 ---
 
-## 🎬 Chunky Textured Low-Poly
+## Chunky Textured Low-Poly
 
 * **ID:** `genjutsu-style-f1d0c30d-a2ec-4c33-a892-d8d158e2d093` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Chunky Textured Low-Poly
@@ -2446,7 +2446,7 @@ Transform input video into Chunky Textured Low-Poly aesthetic. Maintain facial p
 
 ---
 
-## 🎬 Cel-Shaded CG Anime
+## Cel-Shaded CG Anime
 
 * **ID:** `genjutsu-style-c2143317-f28d-4c3c-a0b8-39bd547e08a7` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Cel-Shaded CG Anime
@@ -2478,7 +2478,7 @@ Transform input video into Cel-Shaded CG Anime aesthetic. Maintain facial perfor
 
 ---
 
-## 🎬 Painterly Cinematic 3D
+## Painterly Cinematic 3D
 
 * **ID:** `genjutsu-style-85bc9e2c-f896-41d7-b280-53f2f5e321ac` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Painterly Cinematic 3D
@@ -2510,7 +2510,7 @@ Transform input video into Painterly Cinematic 3D aesthetic. Maintain facial per
 
 ---
 
-## 🎬 Outline-free Cel
+## Outline-free Cel
 
 * **ID:** `genjutsu-style-55aee79b-bb36-40e3-b957-205e6867a3d9` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Outline-free Cel
@@ -2542,7 +2542,7 @@ Transform input video into Outline-free Cel aesthetic. Maintain facial performan
 
 ---
 
-## 🎬 Painterly Sculpted Animation
+## Painterly Sculpted Animation
 
 * **ID:** `genjutsu-style-083abd05-afbd-4cda-857f-7f2d2082e9b2` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Painterly Sculpted Animation
@@ -2574,7 +2574,7 @@ Transform input video into Painterly Sculpted Animation aesthetic. Maintain faci
 
 ---
 
-## 🎬 Neon Graphic Cinematic 3D
+## Neon Graphic Cinematic 3D
 
 * **ID:** `genjutsu-style-41d02f6d-1d5d-4efa-9942-9fe71de9429b` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Neon Graphic Cinematic 3D
@@ -2606,7 +2606,7 @@ Transform input video into Neon Graphic Cinematic 3D aesthetic. Maintain facial 
 
 ---
 
-## 🎬 Textured Gouache Character Illustration
+## Textured Gouache Character Illustration
 
 * **ID:** `genjutsu-style-f2b4e920-3b1e-4931-8a86-b06566005145` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Textured Gouache Character Illustration
@@ -2638,7 +2638,7 @@ Transform input video into Textured Gouache Character Illustration aesthetic. Ma
 
 ---
 
-## 🎬 Comic 3D
+## Comic 3D
 
 * **ID:** `genjutsu-style-3dc6d454-808d-4e27-8a4e-4751da818324` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Comic 3D
@@ -2670,7 +2670,7 @@ Transform input video into Comic 3D aesthetic. Maintain facial performance, moti
 
 ---
 
-## 🎬 Retro Game 3D
+## Retro Game 3D
 
 * **ID:** `genjutsu-style-255f5244-b43d-43fc-9c28-7138f8c12984` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Retro Game 3D
@@ -2702,7 +2702,7 @@ Transform input video into Retro Game 3D aesthetic. Maintain facial performance,
 
 ---
 
-## 🎬 Nighttime Anime Pixel Art
+## Nighttime Anime Pixel Art
 
 * **ID:** `genjutsu-style-e54beac7-ca48-4034-856b-0a6f2b05081a` | **Subcategory:** *Official Style Presets*
 * **Visible Effect:** Artistic visual style transfer: Nighttime Anime Pixel Art
@@ -2735,9 +2735,9 @@ Transform input video into Nighttime Anime Pixel Art aesthetic. Maintain facial 
 ---
 
 
-# 🌟 Section: Katana (Commercial & Product Presets) (88 Recipes)
+# Section: Katana (Commercial & Product Presets) (88 Recipes)
 
-## 🎬 Katana preset: Aesthetic Menu Outfit Swap
+## Katana preset: Aesthetic Menu Outfit Swap
 
 * **ID:** `katana-aesthetic-menu-outfit-swap` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2772,7 +2772,7 @@ Replace the girl with the user's character in every shot, keep identity consiste
 
 ---
 
-## 🎬 Katana preset: Anime Concert Star
+## Katana preset: Anime Concert Star
 
 * **ID:** `katana-anime-concert-star` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2807,7 +2807,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Aura Fast
+## Katana preset: Aura Fast
 
 * **ID:** `katana-aura-fast` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2842,7 +2842,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Black and White Boxing Montage
+## Katana preset: Black and White Boxing Montage
 
 * **ID:** `katana-black-and-white-boxing-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2887,7 +2887,7 @@ Tips:
 
 ---
 
-## 🎬 Katana preset: Blue Eyes
+## Katana preset: Blue Eyes
 
 * **ID:** `katana-blue-eyes` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2922,7 +2922,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Camera Shots
+## Katana preset: Camera Shots
 
 * **ID:** `katana-camera-shots` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2957,7 +2957,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: candy-pop
+## Katana preset: candy-pop
 
 * **ID:** `katana-candy-pop` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -2992,7 +2992,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Car Edit
+## Katana preset: Car Edit
 
 * **ID:** `katana-car-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3027,7 +3027,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Cartoon Edit
+## Katana preset: Cartoon Edit
 
 * **ID:** `katana-cartoon-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3062,7 +3062,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Chrome Noir Style Edit
+## Katana preset: Chrome Noir Style Edit
 
 * **ID:** `katana-chrome-noir-style-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3097,7 +3097,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Clone Squad
+## Katana preset: Clone Squad
 
 * **ID:** `katana-clone-squad` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3132,7 +3132,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Color Palette Outfit Showcase
+## Katana preset: Color Palette Outfit Showcase
 
 * **ID:** `katana-color-palette-outfit-showcase` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3167,7 +3167,7 @@ Replace the girl with the user's character in every shot, keep identity consiste
 
 ---
 
-## 🎬 Katana preset: comic
+## Katana preset: comic
 
 * **ID:** `katana-comic` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3202,7 +3202,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Creative Collage Runway
+## Katana preset: Creative Collage Runway
 
 * **ID:** `katana-creative-collage-runway` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3247,7 +3247,7 @@ No on-screen text, captions, logos or watermarks. No black or empty frames, no r
 
 ---
 
-## 🎬 Katana preset: Creative Stylized Montage
+## Katana preset: Creative Stylized Montage
 
 * **ID:** `katana-creative-stylized-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3315,7 +3315,7 @@ For each variant: 16:9 1080p, 9:16 1080x1920 and 16:9 without audio. Then tell m
 
 ---
 
-## 🎬 Katana preset: Cyberpunk Scan Analysis
+## Katana preset: Cyberpunk Scan Analysis
 
 * **ID:** `katana-cyberpunk-scan-analysis` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3350,7 +3350,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Dark and Moody
+## Katana preset: Dark and Moody
 
 * **ID:** `katana-dark-and-moody` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3385,7 +3385,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Dark Aura
+## Katana preset: Dark Aura
 
 * **ID:** `katana-dark-aura` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3420,7 +3420,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Dark Geometric Animation
+## Katana preset: Dark Geometric Animation
 
 * **ID:** `katana-dark-geometric-animation` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3455,7 +3455,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Daytona Drift
+## Katana preset: Daytona Drift
 
 * **ID:** `katana-daytona-drift` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3490,7 +3490,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Desert Sunrise Lookbook
+## Katana preset: Desert Sunrise Lookbook
 
 * **ID:** `katana-desert-sunrise-lookbook` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3525,7 +3525,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Dramatic Melodrama Vibe
+## Katana preset: Dramatic Melodrama Vibe
 
 * **ID:** `katana-dramatic-melodrama-vibe` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3560,7 +3560,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Dreamy Idol Aesthetic Montage
+## Katana preset: Dreamy Idol Aesthetic Montage
 
 * **ID:** `katana-dreamy-idol-aesthetic-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3595,7 +3595,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Dreamy Streetwear
+## Katana preset: Dreamy Streetwear
 
 * **ID:** `katana-dreamy-streetwear` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3630,7 +3630,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Drowned Sun Motion Edit
+## Katana preset: Drowned Sun Motion Edit
 
 * **ID:** `katana-drowned-sun-motion-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3665,7 +3665,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Edgy Streetstyle Montage
+## Katana preset: Edgy Streetstyle Montage
 
 * **ID:** `katana-edgy-streetstyle-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3735,7 +3735,7 @@ SOURCE CLEAN-UP
 
 ---
 
-## 🎬 Katana preset: Editing My GF
+## Katana preset: Editing My GF
 
 * **ID:** `katana-editing-my-gf` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3770,7 +3770,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Epic Rocker Vibes
+## Katana preset: Epic Rocker Vibes
 
 * **ID:** `katana-epic-rocker-vibes` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3822,7 +3822,7 @@ Allowed: media_import_url, media_upload_widget, generate_video_batch (model hf_m
 
 ---
 
-## 🎬 Katana preset: face-edit-1
+## Katana preset: face-edit-1
 
 * **ID:** `katana-face-edit-1` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3857,7 +3857,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: face-edit-2
+## Katana preset: face-edit-2
 
 * **ID:** `katana-face-edit-2` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3892,7 +3892,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Frame Dance
+## Katana preset: Frame Dance
 
 * **ID:** `katana-frame-dance` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3927,7 +3927,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Frutiger Aero
+## Katana preset: Frutiger Aero
 
 * **ID:** `katana-fruiteger-aero` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3962,7 +3962,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Futuristic 3D Motion Scan
+## Katana preset: Futuristic 3D Motion Scan
 
 * **ID:** `katana-futuristic-3d-motion-scan` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -3997,7 +3997,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: FW26 Style Lookbook
+## Katana preset: FW26 Style Lookbook
 
 * **ID:** `katana-fw26-style-lookbook` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4032,7 +4032,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Gentleman Driver Style
+## Katana preset: Gentleman Driver Style
 
 * **ID:** `katana-gentleman-driver-style` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4067,7 +4067,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Glow & Groove Pop Edit
+## Katana preset: Glow & Groove Pop Edit
 
 * **ID:** `katana-glow-groove-pop-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4102,7 +4102,7 @@ Replace the girl with the user's character in every shot, keep identity consiste
 
 ---
 
-## 🎬 Katana preset: Greek Island Aesthetic
+## Katana preset: Greek Island Aesthetic
 
 * **ID:** `katana-greek-island-aesthetic` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4137,7 +4137,7 @@ Remix this edit for the user's character: keep its style and editing, invent new
 
 ---
 
-## 🎬 Katana preset: Gritty Action Anti-Hero Edit
+## Katana preset: Gritty Action Anti-Hero Edit
 
 * **ID:** `katana-gritty-action-anti-hero-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4172,7 +4172,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: High Octane Turbo Sprint
+## Katana preset: High Octane Turbo Sprint
 
 * **ID:** `katana-high-octane-turbo-sprint` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4218,7 +4218,7 @@ Optional note: add a hair or beard detail to keep your look right (e.g. \
 
 ---
 
-## 🎬 Katana preset: Industrial Style Lookbook
+## Katana preset: Industrial Style Lookbook
 
 * **ID:** `katana-industrial-style-lookbook` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4253,7 +4253,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Katana preset
+## Katana preset: Katana preset
 
 * **ID:** `katana-katana-preset-3myu4q` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4288,7 +4288,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Kinetic Graphic Photo Edit
+## Katana preset: Kinetic Graphic Photo Edit
 
 * **ID:** `katana-kinetic-graphic-photo-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4323,7 +4323,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Kinetic Tech Edit
+## Katana preset: Kinetic Tech Edit
 
 * **ID:** `katana-kinetic-tech-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4358,7 +4358,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: K-pop Scrapbook
+## Katana preset: K-pop Scrapbook
 
 * **ID:** `katana-kpop-scrapbook` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4393,7 +4393,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Kpop Style Dance Montage
+## Katana preset: Kpop Style Dance Montage
 
 * **ID:** `katana-kpop-style-dance-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4440,7 +4440,7 @@ No celebrities, idols or well-known characters.
 
 ---
 
-## 🎬 Katana preset: Luxury Car Beat Montage
+## Katana preset: Luxury Car Beat Montage
 
 * **ID:** `katana-luxury-car-beat-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4475,7 +4475,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Main Character Energy Edit
+## Katana preset: Main Character Energy Edit
 
 * **ID:** `katana-main-character-energy-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4510,7 +4510,7 @@ Replace the girl with the user's character in every shot, keep identity consiste
 
 ---
 
-## 🎬 Katana preset: Mentality
+## Katana preset: Mentality
 
 * **ID:** `katana-mentality` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4545,7 +4545,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Monochrome 1-Bit Anime
+## Katana preset: Monochrome 1-Bit Anime
 
 * **ID:** `katana-monochrome-1-bit-anime` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4580,7 +4580,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Monochrome Glitch Montage
+## Katana preset: Monochrome Glitch Montage
 
 * **ID:** `katana-monochrome-glitch-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4615,7 +4615,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: monochrome
+## Katana preset: monochrome
 
 * **ID:** `katana-monochrome` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4650,7 +4650,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: monolith
+## Katana preset: monolith
 
 * **ID:** `katana-monolith` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4685,7 +4685,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Moody Vintage Film Edit
+## Katana preset: Moody Vintage Film Edit
 
 * **ID:** `katana-moody-vintage-film-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4720,7 +4720,7 @@ Upload a character sheet or reference video featuring your character.
 
 ---
 
-## 🎬 Katana preset: Mountain Edge Noir
+## Katana preset: Mountain Edge Noir
 
 * **ID:** `katana-mountain-edge-noir` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4769,7 +4769,7 @@ NEVER: titles, captions, logos, brand marks, numbers, end cards or watermarks; m
 
 ---
 
-## 🎬 Katana preset: Neon Monolith
+## Katana preset: Neon Monolith
 
 * **ID:** `katana-neon-monolith` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4804,7 +4804,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Newspaper Cover Fashion Edit
+## Katana preset: Newspaper Cover Fashion Edit
 
 * **ID:** `katana-newspaper-cover-fashion-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4839,7 +4839,7 @@ Newspaper Outfit Collage. Recreate this 10-second vertical fashion collage using
 
 ---
 
-## 🎬 Katana preset: Nocturne
+## Katana preset: Nocturne
 
 * **ID:** `katana-nocturne` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4874,7 +4874,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Noir Mystery Thriller
+## Katana preset: Noir Mystery Thriller
 
 * **ID:** `katana-noir-mystery-thriller` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4909,7 +4909,7 @@ Replace the girl with the user's character in every shot, keep identity consiste
 
 ---
 
-## 🎬 Katana preset: Outfit Check
+## Katana preset: Outfit Check
 
 * **ID:** `katana-outfit-check` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4944,7 +4944,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Painting Flow
+## Katana preset: Painting Flow
 
 * **ID:** `katana-painting-flow` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -4979,7 +4979,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Paper Cutout Fit Check
+## Katana preset: Paper Cutout Fit Check
 
 * **ID:** `katana-paper-cutout-fit-check` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5014,7 +5014,7 @@ Torn Paper Outfit. Recreate this 10-second vertical fashion edit using the suppl
 
 ---
 
-## 🎬 Katana preset: Parisian Luxury Vibe
+## Katana preset: Parisian Luxury Vibe
 
 * **ID:** `katana-parisian-luxury-vibe` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5049,7 +5049,7 @@ Subject & Product Replacement:
 
 ---
 
-## 🎬 Katana preset: Parisian Night Vibe
+## Katana preset: Parisian Night Vibe
 
 * **ID:** `katana-parisian-night-vibe` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5084,7 +5084,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Pink Protocol Car Edit
+## Katana preset: Pink Protocol Car Edit
 
 * **ID:** `katana-pink-protocol-car-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5119,7 +5119,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Pop Art Comic Edit
+## Katana preset: Pop Art Comic Edit
 
 * **ID:** `katana-pop-art-comic-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5154,7 +5154,7 @@ Remix this edit for the user's character: keep its style and editing, invent new
 
 ---
 
-## 🎬 Katana preset: Pop Cutout Fashion Edit
+## Katana preset: Pop Cutout Fashion Edit
 
 * **ID:** `katana-pop-cutout-fashion-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5189,7 +5189,7 @@ Paper Fashion Editorial. Recreate this 15-second landscape editorial using the s
 
 ---
 
-## 🎬 Katana preset: Purple Grunge Music Video
+## Katana preset: Purple Grunge Music Video
 
 * **ID:** `katana-purple-grunge-music-video` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5269,7 +5269,7 @@ Stills (Seedream 5 Pro):
 
 ---
 
-## 🎬 Katana preset: Retro Aesthetic Lookbook
+## Katana preset: Retro Aesthetic Lookbook
 
 * **ID:** `katana-retro-aesthetic-lookbook` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5304,7 +5304,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Scrapbook Fashion Montage
+## Katana preset: Scrapbook Fashion Montage
 
 * **ID:** `katana-scrapbook-fashion-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5339,7 +5339,7 @@ Mixed Media Fashion. Recreate this 27-second vertical fashion edit using the sup
 
 ---
 
-## 🎬 Katana preset: Silhouette Eyes & Lips Beat Edit
+## Katana preset: Silhouette Eyes & Lips Beat Edit
 
 * **ID:** `katana-silhouette-eyes-lips-beat-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5374,7 +5374,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Star
+## Katana preset: Star
 
 * **ID:** `katana-star` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5409,7 +5409,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Suit Up Basketball Montage
+## Katana preset: Suit Up Basketball Montage
 
 * **ID:** `katana-suit-up-basketball-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5444,7 +5444,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Summer Tapes Scrapbook
+## Katana preset: Summer Tapes Scrapbook
 
 * **ID:** `katana-summer-tapes-scrapbook` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5479,7 +5479,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Superhero Beat Montage
+## Katana preset: Superhero Beat Montage
 
 * **ID:** `katana-superhero-beat-montage` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5514,7 +5514,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Surreal Collage Vibe
+## Katana preset: Surreal Collage Vibe
 
 * **ID:** `katana-surreal-collage-vibe` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5549,7 +5549,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Surreal Multi-Hand Edit
+## Katana preset: Surreal Multi-Hand Edit
 
 * **ID:** `katana-surreal-multi-hand-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5584,7 +5584,7 @@ Replace the person with the user's character, keep identity consistent. Keep the
 
 ---
 
-## 🎬 Katana preset: Tiger Eyes
+## Katana preset: Tiger Eyes
 
 * **ID:** `katana-tiger-eyes` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5619,7 +5619,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Tokyo Bloom
+## Katana preset: Tokyo Bloom
 
 * **ID:** `katana-tokyo-bloom` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5654,7 +5654,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Track Day Showcase
+## Katana preset: Track Day Showcase
 
 * **ID:** `katana-track-day-showcase` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5689,7 +5689,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: UFO Specimen Collection
+## Katana preset: UFO Specimen Collection
 
 * **ID:** `katana-ufo-specimen-collection` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5724,7 +5724,7 @@ Replace the girl with the user's character in every shot and keep her identity c
 
 ---
 
-## 🎬 Katana preset: Urban Edge Skater Style
+## Katana preset: Urban Edge Skater Style
 
 * **ID:** `katana-urban-edge-skater-style` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5777,7 +5777,7 @@ Rules: the product keeps its exact shape, colours and markings in every shot. No
 
 ---
 
-## 🎬 Katana preset: Urban Elf Aesthetic Edit
+## Katana preset: Urban Elf Aesthetic Edit
 
 * **ID:** `katana-urban-elf-aesthetic-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5812,7 +5812,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: VHS Don't Forget
+## Katana preset: VHS Don't Forget
 
 * **ID:** `katana-vhs-dont-forget` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5847,7 +5847,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Xerox 1
+## Katana preset: Xerox 1
 
 * **ID:** `katana-xerox-1` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5882,7 +5882,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Xerox 2
+## Katana preset: Xerox 2
 
 * **ID:** `katana-xerox-2` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5917,7 +5917,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Xerox 3
+## Katana preset: Xerox 3
 
 * **ID:** `katana-xerox-3` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5952,7 +5952,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Y2K Edit
+## Katana preset: Y2K Edit
 
 * **ID:** `katana-y2k-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -5987,7 +5987,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Y2K Sticker Scrapbook Edit
+## Katana preset: Y2K Sticker Scrapbook Edit
 
 * **ID:** `katana-y2k-sticker-scrapbook-edit` | **Subcategory:** *Katana Product & Commercial Remakes*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -6023,9 +6023,9 @@ recreate the preset's reference video below with the user's inputs, following th
 ---
 
 
-# 🌟 Section: Marketing Studio & Ads (UGC, E-commerce, TV) (40 Recipes)
+# Section: Marketing Studio & Ads (UGC, E-commerce, TV) (40 Recipes)
 
-## 🎬 Unboxing Virtual Try-On (Red Skeleton Print Hoodie)
+## Unboxing Virtual Try-On (Red Skeleton Print Hoodie)
 
 * **ID:** `mkt-ugc_unboxing_virtual_try_on` | **Subcategory:** *UGC Try-On Ads*
 * **Visible Effect:** Unboxing Virtual Try-On: a creator smashes a glass 'NEW DROP' box and tries on the red skeleton sherpa jacket.
@@ -6064,7 +6064,7 @@ Unboxing Virtual Try-On: a creator smashes a glass 'NEW DROP' box and tries on t
 
 ---
 
-## 🎬 UGC Virtual Try On (Burgundy leather bowling bag)
+## UGC Virtual Try On (Burgundy leather bowling bag)
 
 * **ID:** `mkt-ugc_virtual_try_on` | **Subcategory:** *UGC Try-On Ads*
 * **Visible Effect:** UGC Virtual Try On: fast-cut street style building a wine-toned outfit around a burgundy leather bowling bag.
@@ -6103,7 +6103,7 @@ UGC Virtual Try On: fast-cut street style building a wine-toned outfit around a 
 
 ---
 
-## 🎬 Giant Figure (Spiky Vine Table Lamp)
+## Giant Figure (Spiky Vine Table Lamp)
 
 * **ID:** `mkt-ugc_giant_figure` | **Subcategory:** *Commercial Surreal Video*
 * **Visible Effect:** Giant Figure: an avatar poses beside an oversized glossy green thorny-vine table lamp.
@@ -6142,7 +6142,7 @@ Giant Figure: an avatar poses beside an oversized glossy green thorny-vine table
 
 ---
 
-## 🎬 This Gadget Saved Me (Pink Handheld Mini Fan on Volcano)
+## This Gadget Saved Me (Pink Handheld Mini Fan on Volcano)
 
 * **ID:** `mkt-ugc_gadget_saved_me` | **Subcategory:** *TikTok Viral Ads*
 * **Visible Effect:** This Gadget Saved Me: a Y2K creator on a volcano ledge is rescued from the heat by a pastel-pink mini fan.
@@ -6181,7 +6181,7 @@ This Gadget Saved Me: a Y2K creator on a volcano ledge is rescued from the heat 
 
 ---
 
-## 🎬 This Gadget Saved Me (Lavender Umbrella in City Rain)
+## This Gadget Saved Me (Lavender Umbrella in City Rain)
 
 * **ID:** `mkt-ugc_gadget_saved_me_umbrella` | **Subcategory:** *TikTok Viral Ads*
 * **Visible Effect:** This Gadget Saved Me: caught in city rain, a creator's lavender tote unfolds into a full umbrella.
@@ -6220,7 +6220,7 @@ This Gadget Saved Me: caught in city rain, a creator's lavender tote unfolds int
 
 ---
 
-## 🎬 Couple Sharing At Home (JUSS Kids Handheld Console)
+## Couple Sharing At Home (JUSS Kids Handheld Console)
 
 * **ID:** `mkt-couple_sharing_home` | **Subcategory:** *UGC Lifestyle Ads*
 * **Visible Effect:** Couple Sharing At Home: a couple in a sunny kitchen share and cheers over the JUSS handheld console.
@@ -6259,7 +6259,7 @@ Couple Sharing At Home: a couple in a sunny kitchen share and cheers over the JU
 
 ---
 
-## 🎬 Virtual Try-On Sneakers (Pet Dog Denim Sneakers)
+## Virtual Try-On Sneakers (Pet Dog Denim Sneakers)
 
 * **ID:** `mkt-ugc_virtual_try_on_sneakers` | **Subcategory:** *UGC Try-On Ads*
 * **Visible Effect:** Virtual Try-On Sneakers: an avatar fits denim high-top sneakers onto a cavalier dog.
@@ -6298,7 +6298,7 @@ Virtual Try-On Sneakers: an avatar fits denim high-top sneakers onto a cavalier 
 
 ---
 
-## 🎬 Pro Virtual Try On (Advanced Outfit Try-On)
+## Pro Virtual Try On (Advanced Outfit Try-On)
 
 * **ID:** `mkt-virtual_try_on` | **Subcategory:** *UGC Try-On Ads*
 * **Visible Effect:** Pro Virtual Try On: an avatar wears a full clothing set on location in a clean advanced try-on.
@@ -6337,7 +6337,7 @@ Pro Virtual Try On: an avatar wears a full clothing set on location in a clean a
 
 ---
 
-## 🎬 Before and After
+## Before and After
 
 * **ID:** `mkt-3728af13-8efa-4703-a10f-69b142c2df52` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Before and After
@@ -6372,7 +6372,7 @@ Commercial Marketing Video for Before and After: Dynamic direct-response video f
 
 ---
 
-## 🎬 Classic Unboxing
+## Classic Unboxing
 
 * **ID:** `mkt-bcd3706f-b2ee-43c5-a89b-ec9acd294e8b` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Classic Unboxing
@@ -6407,7 +6407,7 @@ Commercial Marketing Video for Classic Unboxing: Dynamic direct-response video f
 
 ---
 
-## 🎬 UGC Addiction
+## UGC Addiction
 
 * **ID:** `mkt-63ee88b6-f03f-4f7d-b172-85556c9959f1` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: UGC Addiction
@@ -6442,7 +6442,7 @@ Commercial Marketing Video for UGC Addiction: Dynamic direct-response video form
 
 ---
 
-## 🎬 Mystery Box
+## Mystery Box
 
 * **ID:** `mkt-d0fba758-1830-49db-b879-f91c913a0055` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Mystery Box
@@ -6477,7 +6477,7 @@ Commercial Marketing Video for Mystery Box: Dynamic direct-response video format
 
 ---
 
-## 🎬 Unboxing ASMR
+## Unboxing ASMR
 
 * **ID:** `mkt-109d5cef-9e70-46ac-ad42-f235ccce7840` | **Subcategory:** *UGC_UNBOXING_ASMR*
 * **Visible Effect:** High-converting commercial template: Unboxing ASMR
@@ -6512,7 +6512,7 @@ Commercial Marketing Video for Unboxing ASMR: Dynamic direct-response video form
 
 ---
 
-## 🎬 How-To
+## How-To
 
 * **ID:** `mkt-7e4884cc-4dec-4e45-8703-bdfa4fe11606` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: How-To
@@ -6547,7 +6547,7 @@ Commercial Marketing Video for How-To: Dynamic direct-response video format. Foc
 
 ---
 
-## 🎬 Secret Hack Reveal
+## Secret Hack Reveal
 
 * **ID:** `mkt-f2553b9d-b667-4203-a2ec-27f7299f2781` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Secret Hack Reveal
@@ -6582,7 +6582,7 @@ Commercial Marketing Video for Secret Hack Reveal: Dynamic direct-response video
 
 ---
 
-## 🎬 Direct-to-Camera
+## Direct-to-Camera
 
 * **ID:** `mkt-b350db5b-0952-481e-a7b0-18b3c7870d83` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Direct-to-Camera
@@ -6617,7 +6617,7 @@ Commercial Marketing Video for Direct-to-Camera: Dynamic direct-response video f
 
 ---
 
-## 🎬 Product Hit
+## Product Hit
 
 * **ID:** `mkt-cf06d577-6df8-4f7b-ba84-f73204e032b8` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Product Hit
@@ -6652,7 +6652,7 @@ Commercial Marketing Video for Product Hit: Dynamic direct-response video format
 
 ---
 
-## 🎬 Crush Test
+## Crush Test
 
 * **ID:** `mkt-51abda56-a0dc-4f20-821a-68af7d55ca84` | **Subcategory:** *CRUSH_TEST*
 * **Visible Effect:** High-converting commercial template: Crush Test
@@ -6687,7 +6687,7 @@ Commercial Marketing Video for Crush Test: Dynamic direct-response video format.
 
 ---
 
-## 🎬 Selfie Testimonial
+## Selfie Testimonial
 
 * **ID:** `mkt-d9e3944a-e221-4f28-9a95-2af9536f2ee4` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Selfie Testimonial
@@ -6722,7 +6722,7 @@ Commercial Marketing Video for Selfie Testimonial: Dynamic direct-response video
 
 ---
 
-## 🎬 Spicy
+## Spicy
 
 * **ID:** `mkt-ca76b218-ce2e-49c3-a917-4fc0722db778` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Spicy
@@ -6757,7 +6757,7 @@ Commercial Marketing Video for Spicy: Dynamic direct-response video format. Focu
 
 ---
 
-## 🎬 Reboxing
+## Reboxing
 
 * **ID:** `mkt-fa59cefc-551a-4671-b9f4-82baf84dbb15` | **Subcategory:** *REBOXING*
 * **Visible Effect:** High-converting commercial template: Reboxing
@@ -6792,7 +6792,7 @@ Commercial Marketing Video for Reboxing: Dynamic direct-response video format. F
 
 ---
 
-## 🎬 Interview
+## Interview
 
 * **ID:** `mkt-55c55169-81b8-410c-9110-a9dd9ef49555` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Interview
@@ -6827,7 +6827,7 @@ Commercial Marketing Video for Interview: Dynamic direct-response video format. 
 
 ---
 
-## 🎬 Random Object Mic
+## Random Object Mic
 
 * **ID:** `mkt-19e967a7-c0ba-4af8-ac21-35b9a6c3c401` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Random Object Mic
@@ -6862,7 +6862,7 @@ Commercial Marketing Video for Random Object Mic: Dynamic direct-response video 
 
 ---
 
-## 🎬 TV Spot
+## TV Spot
 
 * **ID:** `mkt-0627403d-b57c-47aa-a47b-7f10447be69c` | **Subcategory:** *TV_SPOT*
 * **Visible Effect:** High-converting commercial template: TV Spot
@@ -6897,7 +6897,7 @@ Commercial Marketing Video for TV Spot: Dynamic direct-response video format. Fo
 
 ---
 
-## 🎬 Product Crash
+## Product Crash
 
 * **ID:** `mkt-ace95ae6-8839-4fe3-8063-f5a4dfa70803` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Product Crash
@@ -6932,7 +6932,7 @@ Commercial Marketing Video for Product Crash: Dynamic direct-response video form
 
 ---
 
-## 🎬 Blizzard
+## Blizzard
 
 * **ID:** `mkt-70869380-2c35-4795-a274-ad2eb0f0f8c7` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Blizzard
@@ -6967,7 +6967,7 @@ Commercial Marketing Video for Blizzard: Dynamic direct-response video format. F
 
 ---
 
-## 🎬 Camera Bump
+## Camera Bump
 
 * **ID:** `mkt-55955837-4f05-4751-a94e-de02b847f7f8` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Camera Bump
@@ -7002,7 +7002,7 @@ Commercial Marketing Video for Camera Bump: Dynamic direct-response video format
 
 ---
 
-## 🎬 Product Dodge
+## Product Dodge
 
 * **ID:** `mkt-0fc1a676-9f0f-4c9a-8c87-3213ef3c5c35` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Product Dodge
@@ -7037,7 +7037,7 @@ Commercial Marketing Video for Product Dodge: Dynamic direct-response video form
 
 ---
 
-## 🎬 Epic Fail
+## Epic Fail
 
 * **ID:** `mkt-eb5fd5cf-e3b0-40b8-9faf-66d16e1eb6de` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Epic Fail
@@ -7072,7 +7072,7 @@ Commercial Marketing Video for Epic Fail: Dynamic direct-response video format. 
 
 ---
 
-## 🎬 Wild Card
+## Wild Card
 
 * **ID:** `mkt-3787dd10-0ef2-4645-86ba-1ddd02400b8a` | **Subcategory:** *WILD_CARD*
 * **Visible Effect:** High-converting commercial template: Wild Card
@@ -7107,7 +7107,7 @@ Commercial Marketing Video for Wild Card: Dynamic direct-response video format. 
 
 ---
 
-## 🎬 UGC
+## UGC
 
 * **ID:** `mkt-6c1b9706-1834-4db8-9287-7a66ad3e0286` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: UGC
@@ -7142,7 +7142,7 @@ Commercial Marketing Video for UGC: Dynamic direct-response video format. Focus 
 
 ---
 
-## 🎬 Green Tea Macro
+## Green Tea Macro
 
 * **ID:** `mkt-6089a97b-4e49-43ed-9338-09a9c63e2783` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Green Tea Macro
@@ -7177,7 +7177,7 @@ Commercial Marketing Video for Green Tea Macro: Dynamic direct-response video fo
 
 ---
 
-## 🎬 Pixel Block Yard
+## Pixel Block Yard
 
 * **ID:** `mkt-000b690e-7f6d-4a7c-9196-a90f15494bb6` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Pixel Block Yard
@@ -7212,7 +7212,7 @@ Commercial Marketing Video for Pixel Block Yard: Dynamic direct-response video f
 
 ---
 
-## 🎬 Pastel Shape Choreography
+## Pastel Shape Choreography
 
 * **ID:** `mkt-3a97fb7e-b95b-45f7-b19b-73cdabeaf0b9` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Pastel Shape Choreography
@@ -7247,7 +7247,7 @@ Commercial Marketing Video for Pastel Shape Choreography: Dynamic direct-respons
 
 ---
 
-## 🎬 Paper Carousel
+## Paper Carousel
 
 * **ID:** `mkt-23e9ae3d-cebe-4368-86d4-006db25e68b1` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Paper Carousel
@@ -7282,7 +7282,7 @@ Commercial Marketing Video for Paper Carousel: Dynamic direct-response video for
 
 ---
 
-## 🎬 Monospace Callouts
+## Monospace Callouts
 
 * **ID:** `mkt-46406130-acc3-43f0-b6fe-554a22cad279` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Monospace Callouts
@@ -7317,7 +7317,7 @@ Commercial Marketing Video for Monospace Callouts: Dynamic direct-response video
 
 ---
 
-## 🎬 Pastel Float
+## Pastel Float
 
 * **ID:** `mkt-188e5892-3e76-4285-9f7f-54edc3bac199` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Pastel Float
@@ -7352,7 +7352,7 @@ Commercial Marketing Video for Pastel Float: Dynamic direct-response video forma
 
 ---
 
-## 🎬 Wheatpaste Wall
+## Wheatpaste Wall
 
 * **ID:** `mkt-5e72e301-8f7a-4cc8-b0ae-2b8e888746ca` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Wheatpaste Wall
@@ -7387,7 +7387,7 @@ Commercial Marketing Video for Wheatpaste Wall: Dynamic direct-response video fo
 
 ---
 
-## 🎬 Retro Starburst Orbit
+## Retro Starburst Orbit
 
 * **ID:** `mkt-52207b4e-54fe-4a5f-8f24-a2952c12dd54` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Retro Starburst Orbit
@@ -7422,7 +7422,7 @@ Commercial Marketing Video for Retro Starburst Orbit: Dynamic direct-response vi
 
 ---
 
-## 🎬 Color Wipes
+## Color Wipes
 
 * **ID:** `mkt-f746d55a-c490-4dda-b4cd-90bfc8530204` | **Subcategory:** *Commercial Product Ad*
 * **Visible Effect:** High-converting commercial template: Color Wipes
@@ -7458,9 +7458,9 @@ Commercial Marketing Video for Color Wipes: Dynamic direct-response video format
 ---
 
 
-# 🌟 Section: Viral & Effects (Camera Moves, Hub Effects) (87 Recipes)
+# Section: Viral & Effects (Camera Moves, Hub Effects) (87 Recipes)
 
-## 🎬 Floating fall
+## Floating fall
 
 * **ID:** `viral-floating-fall` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Falls backward as their belongings float in midair, with the camera moving through crisp product close-ups before the fall resumes. Built for playful product reveals, dynamic lifestyle ads, and surreal slow-motion edits.
@@ -7493,7 +7493,7 @@ Floating fall: Falls backward as their belongings float in midair, with the came
 
 ---
 
-## 🎬 Vanish
+## Vanish
 
 * **ID:** `viral-vanish` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The subject's body instantly disappears, leaving their empty clothing to suddenly collapse and fall flat onto the ground. Built for viral hooks, comedic reveals, and surreal visual effects.
@@ -7526,7 +7526,7 @@ Vanish: The subject's body instantly disappears, leaving their empty clothing to
 
 ---
 
-## 🎬 Eyes in
+## Eyes in
 
 * **ID:** `viral-eyes-in` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The camera dives directly into the subject’s eye, seamlessly passing through the dark void of the pupil to transport the viewer into an entirely new scene. Built for surreal narratives, psychological aesthetics, and mesmerizing visual flow.
@@ -7559,7 +7559,7 @@ Eyes in: The camera dives directly into the subject’s eye, seamlessly passing 
 
 ---
 
-## 🎬 Cutout
+## Cutout
 
 * **ID:** `viral-cutout` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The surroundings break apart into floating cutout layers, revealing a clean white void around the subject before snapping back into place. Built for surreal fashion edits, mixed-media visuals, and playful architectural transitions.
@@ -7592,7 +7592,7 @@ Cutout: The surroundings break apart into floating cutout layers, revealing a cl
 
 ---
 
-## 🎬 Wild ride
+## Wild ride
 
 * **ID:** `viral-wild-ride` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A high-speed, dynamic camera orbit that aggressively sweeps around a rapidly spinning or drifting subject. The camera executes precise, controlled movements, smoothly shifting from high overhead angles to low ground-level perspectives while keeping the central action perfectly locked in frame. Built for action sequences, automotive edits, and high-energy music videos. 
@@ -7625,7 +7625,7 @@ Wild ride: A high-speed, dynamic camera orbit that aggressively sweeps around a 
 
 ---
 
-## 🎬 Lidar transition
+## Lidar transition
 
 * **ID:** `viral-lidar` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The world tilts around the subject, sending loose objects sliding and tumbling past while they remain calmly in place. Built for surreal fashion edits, playful gravity distortions, and offbeat music videos.
@@ -7658,7 +7658,7 @@ Lidar transition: The world tilts around the subject, sending loose objects slid
 
 ---
 
-## 🎬 Smash and grab
+## Smash and grab
 
 * **ID:** `viral-smash-and-grab` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The camera frames the product through a car window as the subject shatters the glass and snatches it, then cuts to a fast tracking shot of their getaway. Built for bold product reveals, playful action edits, and dynamic lifestyle ads.
@@ -7691,7 +7691,7 @@ Smash and grab: The camera frames the product through a car window as the subjec
 
 ---
 
-## 🎬 Incline
+## Incline
 
 * **ID:** `viral-incline` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The world tilts around the subject, sending loose objects sliding and tumbling past while they remain calmly in place. Built for surreal fashion edits, playful gravity distortions, and offbeat music videos.
@@ -7724,7 +7724,7 @@ Incline: The world tilts around the subject, sending loose objects sliding and t
 
 ---
 
-## 🎬 Clones
+## Clones
 
 * **ID:** `viral-clones` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Identical clones appear throughout the scene, mirroring the subject’s movements as the original steps toward the camera. Built for surreal fashion edits, synchronized performances, and playful music videos.
@@ -7757,7 +7757,7 @@ Clones: Identical clones appear throughout the scene, mirroring the subject’s 
 
 ---
 
-## 🎬 Infinite clones
+## Infinite clones
 
 * **ID:** `viral-infinite-clones` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A static wide-angle shot where a person and their identical clones continuously get out of a small car and run away in all directions. Built for surreal effects, comedy, and music videos.
@@ -7790,7 +7790,7 @@ Infinite clones: A static wide-angle shot where a person and their identical clo
 
 ---
 
-## 🎬 Selfception
+## Selfception
 
 * **ID:** `viral-selfception` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Endless versions of the subject repeat inside one another as the camera continuously zooms into the miniature figure held in their hands. Built for recursive illusions, seamless zoom loops, and mind-bending character edits.
@@ -7823,7 +7823,7 @@ Selfception: Endless versions of the subject repeat inside one another as the ca
 
 ---
 
-## 🎬 Act natural
+## Act natural
 
 * **ID:** `viral-act-natural` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A cinematic time-manipulation effect that completely suspends your subject and surrounding objects mid-action while the rest of the world continues to move in real-time. Built for surreal visual storytelling, dramatic pauses, and scroll-stopping creative edits.
@@ -7856,7 +7856,7 @@ Act natural: A cinematic time-manipulation effect that completely suspends your 
 
 ---
 
-## 🎬 Monster dab
+## Monster dab
 
 * **ID:** `viral-monster-dab` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A colossal fantasy creature drops from the sky behind the subject, seamlessly matching their visual style. Built for cinematic creature reveals, dark fantasy scenes, and dramatic character moments.
@@ -7889,7 +7889,7 @@ Monster dab: A colossal fantasy creature drops from the sky behind the subject, 
 
 ---
 
-## 🎬 Street colossus
+## Street colossus
 
 * **ID:** `viral-street-colossus` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A cinematic scale-shifting effect that transforms you into a towering giant seamlessly integrated into a sprawling cityscape. Built for surreal urban edits, colossal creature aesthetics storytelling, and epic visual impact.
@@ -7922,7 +7922,7 @@ Street colossus: A cinematic scale-shifting effect that transforms you into a to
 
 ---
 
-## 🎬 World morphing
+## World morphing
 
 * **ID:** `viral-world-morphing` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The entire background environment lifts and folds inward around a stationary central subject, dramatically morphing the landscape into a massive, gravity-defying enclosure. Built for surreal visual effects and mind-bending scene shifts.
@@ -7955,7 +7955,7 @@ World morphing: The entire background environment lifts and folds inward around 
 
 ---
 
-## 🎬 Studio slide
+## Studio slide
 
 * **ID:** `viral-studio-slide` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Multiple copies of a single person appear simultaneously at varying scales, angles, and depths within the same frame. The figures smoothly slide past one another, creating a dynamic 3D layering effect against a solid background. Built for fashion reels, lookbooks, and stylized edits.
@@ -7988,7 +7988,7 @@ Studio slide: Multiple copies of a single person appear simultaneously at varyin
 
 ---
 
-## 🎬 High flip
+## High flip
 
 * **ID:** `viral-high-flip` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The camera rises above the subject and flips overhead, seamlessly revealing a new character and location on the other side. Built for cinematic scene switches, dramatic character reveals, and fluid music video transitions.
@@ -8021,7 +8021,7 @@ High flip: The camera rises above the subject and flips overhead, seamlessly rev
 
 ---
 
-## 🎬 Lacewalker
+## Lacewalker
 
 * **ID:** `viral-lacewalker` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A miniature version of the subject strolls past their giant counterpart before balancing on a thin strap stretched between oversized handbags. Built for playful scale illusions, surreal fashion campaigns, and imaginative product showcases.
@@ -8054,7 +8054,7 @@ Lacewalker: A miniature version of the subject strolls past their giant counterp
 
 ---
 
-## 🎬 Burning man
+## Burning man
 
 * **ID:** `viral-burning-man` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A flaming double appears before the subject and reaches out for a handshake, bringing them face-to-face with their burning counterpart. Built for surreal character reveals, cinematic music videos, and dramatic visual storytelling.
@@ -8087,7 +8087,7 @@ Burning man: A flaming double appears before the subject and reaches out for a h
 
 ---
 
-## 🎬 Melting
+## Melting
 
 * **ID:** `viral-melting` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The subject slowly melts into a glossy puddle, with their clothing and accessories stretching into liquid trails before pooling on the ground. Built for surreal transformations, experimental fashion edits, and playful disappearing acts.
@@ -8120,7 +8120,7 @@ Melting: The subject slowly melts into a glossy puddle, with their clothing and 
 
 ---
 
-## 🎬 boarding pass
+## boarding pass
 
 * **ID:** `viral-boarding-pass` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A dynamic travel transition that turns your walk into a global runway, seamlessly changing your outfit and scenic backdrop with every giant flight ticket you cross. Built for travel vlogs, fashion lookbooks, and stylish lifestyle edits.
@@ -8153,7 +8153,7 @@ boarding pass: A dynamic travel transition that turns your walk into a global ru
 
 ---
 
-## 🎬 Frozen in motion
+## Frozen in motion
 
 * **ID:** `viral-frozen-in-motion` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The subject freezes in midair while pedestrians and traffic continue moving naturally around them. Built for surreal street scenes, striking fashion edits, and cinematic moments suspended in time.
@@ -8186,7 +8186,7 @@ Frozen in motion: The subject freezes in midair while pedestrians and traffic co
 
 ---
 
-## 🎬 Architecture wave
+## Architecture wave
 
 * **ID:** `viral-architecture-wave` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A massive architectural reality warp. While the subject moves naturally in the foreground, towering buildings behind them bend, fold, and ripple as if made of liquid. Built for surreal city scenes, cinematic scale reveals, and mind-bending transitions.
@@ -8219,7 +8219,7 @@ Architecture wave: A massive architectural reality warp. While the subject moves
 
 ---
 
-## 🎬 Scrapbook collage
+## Scrapbook collage
 
 * **ID:** `viral-scrapbook-collage` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A dynamic, multi-panel layout where a central full-body shot is displayed alongside smaller inset frames showing simultaneous close-up details of the subject. Built for fashion videos, lookbooks, and stylized edits.
@@ -8252,7 +8252,7 @@ Scrapbook collage: A dynamic, multi-panel layout where a central full-body shot 
 
 ---
 
-## 🎬 Stop world
+## Stop world
 
 * **ID:** `viral-stop-world` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** 
@@ -8285,7 +8285,7 @@ Stop world: . Camera trajectory: stop-world. Smooth kinetic transition with auth
 
 ---
 
-## 🎬 Agamemnon
+## Agamemnon
 
 * **ID:** `viral-agamemnon` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Agamemnon steps out of the screen as armored warriors storm the theater. Larger-than-life and perfect for bold reveals or transitions.
@@ -8318,7 +8318,7 @@ Agamemnon: Agamemnon steps out of the screen as armored warriors storm the theat
 
 ---
 
-## 🎬 Earth zoom
+## Earth zoom
 
 * **ID:** `viral-earth-zoom-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The camera plunges from orbit — through clouds, past the city grid — and lands at street level in one unbroken move. Built for scale, transitions, and dramatic reveals.
@@ -8351,7 +8351,7 @@ Earth zoom: The camera plunges from orbit — through clouds, past the city grid
 
 ---
 
-## 🎬 Ink Riot
+## Ink Riot
 
 * **ID:** `viral-ink-riot` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Stacked mixed-media composition
@@ -8384,7 +8384,7 @@ Ink Riot: Stacked mixed-media composition. Camera trajectory: ink-riot. Smooth k
 
 ---
 
-## 🎬 Fallen angel
+## Fallen angel
 
 * **ID:** `viral-fallen-angel` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Cabanel’s original "The Fallen Angel" below, your cinematic version of the portrait above. Defiant and instantly recognizable—a split-screen format built to go viral.
@@ -8417,7 +8417,7 @@ Fallen angel: Cabanel’s original "The Fallen Angel" below, your cinematic vers
 
 ---
 
-## 🎬 Bullet time
+## Bullet time
 
 * **ID:** `viral-bullet-time` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A waitress trips, sending coffee and plates flying as time freezes for a sweeping 360° camera move. Everything snaps back into place, ending on her knowing smirk. Slick and cinematic—perfect for high-impact reveals.
@@ -8450,7 +8450,7 @@ Bullet time: A waitress trips, sending coffee and plates flying as time freezes 
 
 ---
 
-## 🎬 Fairytale castle
+## Fairytale castle
 
 * **ID:** `viral-fairytale-castle-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** An empty field at dusk leads to a glowing castle, with a winding stream and fireworks overhead. Dreamlike and cinematic—built for fantasy intros, magical reveals, or storybook worlds.
@@ -8483,7 +8483,7 @@ Fairytale castle: An empty field at dusk leads to a glowing castle, with a windi
 
 ---
 
-## 🎬 Comic
+## Comic
 
 * **ID:** `viral-comic` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Graphic illustrated comic look
@@ -8516,7 +8516,7 @@ Comic: Graphic illustrated comic look. Camera trajectory: comic. Smooth kinetic 
 
 ---
 
-## 🎬 Cold vision
+## Cold vision
 
 * **ID:** `viral-cold-vision` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Cold neon shadow lighting
@@ -8549,7 +8549,7 @@ Cold vision: Cold neon shadow lighting. Camera trajectory: cold-vision. Smooth k
 
 ---
 
-## 🎬 Cyclope
+## Cyclope
 
 * **ID:** `viral-cyclope` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Redon’s original "The Cyclops" below, an animated recreation starring you above. Surreal and instantly recognizable—a split-screen format built to go viral.
@@ -8582,7 +8582,7 @@ Cyclope: Redon’s original "The Cyclops" below, an animated recreation starring
 
 ---
 
-## 🎬 Particles
+## Particles
 
 * **ID:** `viral-particles` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Luminous particles in motion
@@ -8615,7 +8615,7 @@ Particles: Luminous particles in motion. Camera trajectory: particles. Smooth ki
 
 ---
 
-## 🎬 Mighty fighter
+## Mighty fighter
 
 * **ID:** `viral-mighty-fighter-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Become a battle-worn knight in a misty field of red poppies. Melancholic and cinematic—perfect for fallen-hero portraits or dark fantasy storytelling.
@@ -8648,7 +8648,7 @@ Mighty fighter: Become a battle-worn knight in a misty field of red poppies. Mel
 
 ---
 
-## 🎬 Windows
+## Windows
 
 * **ID:** `viral-windows` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Overlapping digital interface windows
@@ -8681,7 +8681,7 @@ Windows: Overlapping digital interface windows. Camera trajectory: windows. Smoo
 
 ---
 
-## 🎬 Canvas
+## Canvas
 
 * **ID:** `viral-canvas` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Hand-drawn canvas-style artwork
@@ -8714,7 +8714,7 @@ Canvas: Hand-drawn canvas-style artwork. Camera trajectory: canvas. Smooth kinet
 
 ---
 
-## 🎬 Pigeons
+## Pigeons
 
 * **ID:** `viral-pigeons` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A rider glides through the city on pigeons like roller skates, hovering above the street. Absurd and hilarious — a trend-ready visual built to stop the scroll.
@@ -8747,7 +8747,7 @@ Pigeons: A rider glides through the city on pigeons like roller skates, hovering
 
 ---
 
-## 🎬 Tracking
+## Tracking
 
 * **ID:** `viral-tracking` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Dynamic object tracking lines
@@ -8780,7 +8780,7 @@ Tracking: Dynamic object tracking lines. Camera trajectory: tracking. Smooth kin
 
 ---
 
-## 🎬 Superstar
+## Superstar
 
 * **ID:** `viral-superstar` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Stadium lights, a sea of raised phones, and a face taking over the jumbotron—all seen from deep inside the crowd. Raw and charged—an instant hook for high-energy intros
@@ -8813,7 +8813,7 @@ Superstar: Stadium lights, a sea of raised phones, and a face taking over the ju
 
 ---
 
-## 🎬 Pearl earring
+## Pearl earring
 
 * **ID:** `viral-pearl-earring` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Vermeer’s original "Girl with a Pearl Earring" below, a personalized animated recreation starring you above. Timeless and instantly recognizable—a split-screen format built to go viral.
@@ -8846,7 +8846,7 @@ Pearl earring: Vermeer’s original "Girl with a Pearl Earring" below, a persona
 
 ---
 
-## 🎬 LSD
+## LSD
 
 * **ID:** `viral-lsd` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Hallucinogenic color waves
@@ -8879,7 +8879,7 @@ LSD: Hallucinogenic color waves. Camera trajectory: lsd. Smooth kinetic transiti
 
 ---
 
-## 🎬 Blue depth
+## Blue depth
 
 * **ID:** `viral-blue-depth-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A wall of dark water fills the frame as fish drift past in slow motion and everything else holds perfectly still. Moody and hypnotic—perfect for transitions or storytelling.
@@ -8912,7 +8912,7 @@ Blue depth: A wall of dark water fills the frame as fish drift past in slow moti
 
 ---
 
-## 🎬 Palette
+## Palette
 
 * **ID:** `viral-palette` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Hand-painted color composition
@@ -8945,7 +8945,7 @@ Palette: Hand-painted color composition. Camera trajectory: palette. Smooth kine
 
 ---
 
-## 🎬 Moonwalk
+## Moonwalk
 
 * **ID:** `viral-moonwalk-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Journey across the Moon, Sun, and Earth as a crowned cosmic wanderer. Whimsical and surreal—perfect for dreamy, viral-ready edits.
@@ -8978,7 +8978,7 @@ Moonwalk: Journey across the Moon, Sun, and Earth as a crowned cosmic wanderer. 
 
 ---
 
-## 🎬 Knight's diary
+## Knight's diary
 
 * **ID:** `viral-knight-s-diary` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** An off-duty knight lounges above the Alps with a diary and a cat. Epic and cinematic — perfect for fantasy portraits and character reveals.
@@ -9011,7 +9011,7 @@ Knight's diary: An off-duty knight lounges above the Alps with a diary and a cat
 
 ---
 
-## 🎬 Argus
+## Argus
 
 * **ID:** `viral-argus` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Briton Rivière’s "Ulysses and Argus" below, with you entering its most emotional moment above. Tender, cinematic, and made for a shareable split-screen format.
@@ -9044,7 +9044,7 @@ Argus: Briton Rivière’s "Ulysses and Argus" below, with you entering its most
 
 ---
 
-## 🎬 Fragments
+## Fragments
 
 * **ID:** `viral-fragments` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Layered abstract visual fragments
@@ -9077,7 +9077,7 @@ Fragments: Layered abstract visual fragments. Camera trajectory: fragments. Smoo
 
 ---
 
-## 🎬 2000's paparazzi
+## 2000's paparazzi
 
 * **ID:** `viral-2000-s-paparazzi-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A retro VHS paparazzi clip — Y2K celebrity in graphic tee and low-rise jeans exits a luxury hotel through a golden revolving door, walks past flashing cameras into a black car.
@@ -9110,7 +9110,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 
 ---
 
-## 🎬 Overexposed
+## Overexposed
 
 * **ID:** `viral-overexposed` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Extreme light exposure effect
@@ -9143,7 +9143,7 @@ Overexposed: Extreme light exposure effect. Camera trajectory: overexposed. Smoo
 
 ---
 
-## 🎬 Dolphin ride
+## Dolphin ride
 
 * **ID:** `viral-dolphin-ride` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A rider surfs on a dolphin as if it were a board. Surreal and absurd—built for visual comedy or a scroll-stopping hook.
@@ -9176,7 +9176,7 @@ Dolphin ride: A rider surfs on a dolphin as if it were a board. Surreal and absu
 
 ---
 
-## 🎬 Sticker peel
+## Sticker peel
 
 * **ID:** `viral-sticker-peel-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A giant hand reaches in and peels the figure off the wall like a sticker, leaving blank surface behind, then presses it back down. Tactile and graphic—perfect for transitions or reveals.
@@ -9209,7 +9209,7 @@ Sticker peel: A giant hand reaches in and peels the figure off the wall like a s
 
 ---
 
-## 🎬 Multiverse
+## Multiverse
 
 * **ID:** `viral-multiverse` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Layered reality collision effect
@@ -9242,7 +9242,7 @@ Multiverse: Layered reality collision effect. Camera trajectory: multiverse. Smo
 
 ---
 
-## 🎬 Skatedog
+## Skatedog
 
 * **ID:** `viral-skatedog` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A rider tears through the streets on a dachshund like a skateboard, pulling off tricks along the way. Perfect for viral videos and visual comedy.
@@ -9275,7 +9275,7 @@ Skatedog: A rider tears through the streets on a dachshund like a skateboard, pu
 
 ---
 
-## 🎬 Noir
+## Noir
 
 * **ID:** `viral-noir` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Cinematic noir lighting
@@ -9308,7 +9308,7 @@ Noir: Cinematic noir lighting. Camera trajectory: noir. Smooth kinetic transitio
 
 ---
 
-## 🎬 Casual monster slayer
+## Casual monster slayer
 
 * **ID:** `viral-casual-monster-slayer-seedance-2` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** You transform into a cybernetic battle suit as a flaming giant crashes into the laundromat, then snap back to normal. Perfect for action edits, comic twists, and bold transformations.
@@ -9341,7 +9341,7 @@ Casual monster slayer: You transform into a cybernetic battle suit as a flaming 
 
 ---
 
-## 🎬 Ocean
+## Ocean
 
 * **ID:** `viral-ocean` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Liquid sea color overlay
@@ -9374,7 +9374,7 @@ Ocean: Liquid sea color overlay. Camera trajectory: ocean. Smooth kinetic transi
 
 ---
 
-## 🎬 Selfie twin
+## Selfie twin
 
 * **ID:** `viral-selfie-twin-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A second, identical version walks in, sits down, takes a selfie, and vanishes. Uncanny and playful—perfect for transitions or humor.
@@ -9407,7 +9407,7 @@ Selfie twin: A second, identical version walks in, sits down, takes a selfie, an
 
 ---
 
-## 🎬 Sketch
+## Sketch
 
 * **ID:** `viral-sketch` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Hand-drawn textured linework
@@ -9440,7 +9440,7 @@ Sketch: Hand-drawn textured linework. Camera trajectory: sketch. Smooth kinetic 
 
 ---
 
-## 🎬 Monet muse
+## Monet muse
 
 * **ID:** `viral-monet-muse` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Step into Monet’s world as a modern-day muse beneath an endless sky. Dreamy and painterly—perfect for poetic portraits or artful edits.
@@ -9473,7 +9473,7 @@ Monet muse: Step into Monet’s world as a modern-day muse beneath an endless sk
 
 ---
 
-## 🎬 Akrill
+## Akrill
 
 * **ID:** `viral-akrill` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Layered acrylic color blocks
@@ -9506,7 +9506,7 @@ Akrill: Layered acrylic color blocks. Camera trajectory: akrill. Smooth kinetic 
 
 ---
 
-## 🎬 Magazine
+## Magazine
 
 * **ID:** `viral-magazine` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Printed magazine visual look
@@ -9539,7 +9539,7 @@ Magazine: Printed magazine visual look. Camera trajectory: magazine. Smooth kine
 
 ---
 
-## 🎬 Lost in a book
+## Lost in a book
 
 * **ID:** `viral-lost-in-a-book` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** 
@@ -9572,7 +9572,7 @@ Lost in a book: . Camera trajectory: lost-in-a-book. Smooth kinetic transition w
 
 ---
 
-## 🎬 Penguin ride
+## Penguin ride
 
 * **ID:** `viral-penguin-ride` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** 
@@ -9605,7 +9605,7 @@ Penguin ride: . Camera trajectory: penguin-ride. Smooth kinetic transition with 
 
 ---
 
-## 🎬 Cannabis
+## Cannabis
 
 * **ID:** `viral-cannabis` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Smoky psychedelic poster look
@@ -9638,7 +9638,7 @@ Cannabis: Smoky psychedelic poster look. Camera trajectory: cannabis. Smooth kin
 
 ---
 
-## 🎬 3D render
+## 3D render
 
 * **ID:** `viral-3d-render-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Clean 3D software reveal — camera orbiting a hyper-detailed character model, fast zooms, rotating lights, mouse clicks only.
@@ -9671,7 +9671,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 
 ---
 
-## 🎬 Action figure
+## Action figure
 
 * **ID:** `viral-action-figure-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A hand lifts you out of the scene like a rigid plastic action figure and rotates you for a toy-review showcase — same pose, same expression, completely stiff.
@@ -9704,7 +9704,7 @@ Action figure: A hand lifts you out of the scene like a rigid plastic action fig
 
 ---
 
-## 🎬 Bubbles
+## Bubbles
 
 * **ID:** `viral-bubbles` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Dreamy soap bubble texture
@@ -9737,7 +9737,7 @@ Bubbles: Dreamy soap bubble texture. Camera trajectory: bubbles. Smooth kinetic 
 
 ---
 
-## 🎬 Orbit 360
+## Orbit 360
 
 * **ID:** `viral-orbit-360-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** The camera circles around you in a smooth 360° motion, turning any photo into a cinematic video. Perfect for bold reveals, dynamic edits, and stylish transitions.
@@ -9770,7 +9770,7 @@ Orbit 360: The camera circles around you in a smooth 360° motion, turning any p
 
 ---
 
-## 🎬 Orbital presence
+## Orbital presence
 
 * **ID:** `viral-orbital-presence-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** You become a cosmic giant, smoothing hurricanes with your fingertips before sitting on Earth beneath the stars. Perfect for surreal reveals, dreamlike edits, and cosmic transitions.
@@ -9803,7 +9803,7 @@ Orbital presence: You become a cosmic giant, smoothing hurricanes with your fing
 
 ---
 
-## 🎬 Acid
+## Acid
 
 * **ID:** `viral-acid` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Psychedelic neon color distortion
@@ -9836,7 +9836,7 @@ Acid: Psychedelic neon color distortion. Camera trajectory: acid. Smooth kinetic
 
 ---
 
-## 🎬 Race track
+## Race track
 
 * **ID:** `viral-race-track-exported` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Confident selfie walk on a sunlit race track while cars blast past at full speed — hair and clothes whipping violently from every shockwave, camera shaking, all smiles.
@@ -9869,7 +9869,7 @@ Race track: Confident selfie walk on a sunlit race track while cars blast past a
 
 ---
 
-## 🎬 Flash comic
+## Flash comic
 
 * **ID:** `viral-flash-comic` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** High-energy comic visuals
@@ -9902,7 +9902,7 @@ Flash comic: High-energy comic visuals. Camera trajectory: flash-comic. Smooth k
 
 ---
 
-## 🎬 Paper
+## Paper
 
 * **ID:** `viral-paper` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Handcrafted paper texture
@@ -9935,7 +9935,7 @@ Paper: Handcrafted paper texture. Camera trajectory: paper. Smooth kinetic trans
 
 ---
 
-## 🎬 Random Glow
+## Random Glow
 
 * **ID:** `viral-random-glow` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** random glow
@@ -9968,7 +9968,7 @@ Random Glow: random glow. Camera trajectory: random-glow. Smooth kinetic transit
 
 ---
 
-## 🎬 Toxic
+## Toxic
 
 * **ID:** `viral-toxic` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Radioactive neon color blast
@@ -10001,7 +10001,7 @@ Toxic: Radioactive neon color blast. Camera trajectory: toxic. Smooth kinetic tr
 
 ---
 
-## 🎬 Broken mirror
+## Broken mirror
 
 * **ID:** `viral-broken-mirror` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Broken glass reflection effect
@@ -10034,7 +10034,7 @@ Broken mirror: Broken glass reflection effect. Camera trajectory: broken-mirror.
 
 ---
 
-## 🎬 Hand paint
+## Hand paint
 
 * **ID:** `viral-hand-paint` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Freeform hand-painted brushwork
@@ -10067,7 +10067,7 @@ Hand paint: Freeform hand-painted brushwork. Camera trajectory: hand-paint. Smoo
 
 ---
 
-## 🎬 Lava
+## Lava
 
 * **ID:** `viral-lava` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Liquid lava color motion
@@ -10100,7 +10100,7 @@ Lava: Liquid lava color motion. Camera trajectory: lava. Smooth kinetic transiti
 
 ---
 
-## 🎬 Marble
+## Marble
 
 * **ID:** `viral-marble` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Sculpted marble visual style
@@ -10133,7 +10133,7 @@ Marble: Sculpted marble visual style. Camera trajectory: marble. Smooth kinetic 
 
 ---
 
-## 🎬 Modern
+## Modern
 
 * **ID:** `viral-modern` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Clean geometric minimalism
@@ -10166,7 +10166,7 @@ Modern: Clean geometric minimalism. Camera trajectory: modern. Smooth kinetic tr
 
 ---
 
-## 🎬 Puffin ride
+## Puffin ride
 
 * **ID:** `viral-puffin-ride` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** A rider glides through the city on puffins like roller skates, hovering two meters above the street. Absurd and hilarious—a trend-ready visual built to stop the scroll.
@@ -10199,7 +10199,7 @@ Puffin ride: A rider glides through the city on puffins like roller skates, hove
 
 ---
 
-## 🎬 Origami
+## Origami
 
 * **ID:** `viral-origami` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Crisp origami-style geometr
@@ -10232,7 +10232,7 @@ Origami: Crisp origami-style geometr. Camera trajectory: origami. Smooth kinetic
 
 ---
 
-## 🎬 Two color
+## Two color
 
 * **ID:** `viral-two-color` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** High-contrast two-tone style
@@ -10265,7 +10265,7 @@ Two color: High-contrast two-tone style. Camera trajectory: two-color. Smooth ki
 
 ---
 
-## 🎬 Ultraviolet
+## Ultraviolet
 
 * **ID:** `viral-ultraviolet` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Neon ultraviolet glow effect
@@ -10298,7 +10298,7 @@ Ultraviolet: Neon ultraviolet glow effect. Camera trajectory: ultraviolet. Smoot
 
 ---
 
-## 🎬 Vintage
+## Vintage
 
 * **ID:** `viral-vintage` | **Subcategory:** *CHAIN Effects*
 * **Visible Effect:** Hand-inked illustrated style
@@ -10332,9 +10332,9 @@ Vintage: Hand-inked illustrated style. Camera trajectory: vintage. Smooth kineti
 ---
 
 
-# 🌟 Section: AI Influencer & Character System (39 Recipes)
+# Section: AI Influencer & Character System (39 Recipes)
 
-## 🎬 AI Influencer 38
+## AI Influencer 38
 
 * **ID:** `influencer-9fe66e84-a354-41e8-92ae-b13183ea0a02` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10362,7 +10362,7 @@ Photorealistic fashion portrait of AI Influencer 38, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 52
+## AI Influencer 52
 
 * **ID:** `influencer-ea7885fc-8739-4817-ae2d-3f430a980f4e` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10390,7 +10390,7 @@ Photorealistic fashion portrait of AI Influencer 52, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 35
+## AI Influencer 35
 
 * **ID:** `influencer-f1754b73-119c-4959-af7c-45dd1ec9ba64` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10418,7 +10418,7 @@ Photorealistic fashion portrait of AI Influencer 35, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 50
+## AI Influencer 50
 
 * **ID:** `influencer-b6ecfaa9-9a2f-4755-892d-1c959bb4608f` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10446,7 +10446,7 @@ Photorealistic fashion portrait of AI Influencer 50, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 18
+## AI Influencer 18
 
 * **ID:** `influencer-94e7114c-4162-44e3-9d2e-016909c00641` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10474,7 +10474,7 @@ Photorealistic fashion portrait of AI Influencer 18, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 36
+## AI Influencer 36
 
 * **ID:** `influencer-2b943a92-d112-49cb-9524-36e0ec3094aa` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10502,7 +10502,7 @@ Photorealistic fashion portrait of AI Influencer 36, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 41
+## AI Influencer 41
 
 * **ID:** `influencer-4d1a3816-271c-4a5a-979e-29643e042600` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10530,7 +10530,7 @@ Photorealistic fashion portrait of AI Influencer 41, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 43
+## AI Influencer 43
 
 * **ID:** `influencer-0805b749-9fee-4734-9736-2065f4e64567` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10558,7 +10558,7 @@ Photorealistic fashion portrait of AI Influencer 43, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 10
+## AI Influencer 10
 
 * **ID:** `influencer-d112cf02-f51a-4650-8178-9f7890e4a251` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10586,7 +10586,7 @@ Photorealistic fashion portrait of AI Influencer 10, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 47
+## AI Influencer 47
 
 * **ID:** `influencer-7ab45ed9-0722-4ee2-a985-2f69590a5c2e` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10614,7 +10614,7 @@ Photorealistic fashion portrait of AI Influencer 47, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 04
+## AI Influencer 04
 
 * **ID:** `influencer-552eb0bc-688c-4913-8fc7-cb35bc242fbd` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10642,7 +10642,7 @@ Photorealistic fashion portrait of AI Influencer 04, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 13
+## AI Influencer 13
 
 * **ID:** `influencer-8b492a5f-032c-4639-a6da-c9d315c95d51` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10670,7 +10670,7 @@ Photorealistic fashion portrait of AI Influencer 13, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 42
+## AI Influencer 42
 
 * **ID:** `influencer-8dc7c2e4-b9b4-4c20-a1bb-50cebc9c13a8` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10698,7 +10698,7 @@ Photorealistic fashion portrait of AI Influencer 42, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 44
+## AI Influencer 44
 
 * **ID:** `influencer-a617c588-67be-4816-a111-bbcb371ff6c4` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10726,7 +10726,7 @@ Photorealistic fashion portrait of AI Influencer 44, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 07
+## AI Influencer 07
 
 * **ID:** `influencer-9aeccf46-6600-4ab0-bf17-b9b93e019031` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10754,7 +10754,7 @@ Photorealistic fashion portrait of AI Influencer 07, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 01
+## AI Influencer 01
 
 * **ID:** `influencer-15ae2b44-44d5-4b95-b942-e74fd2c54bd5` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10782,7 +10782,7 @@ Photorealistic fashion portrait of AI Influencer 01, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 12
+## AI Influencer 12
 
 * **ID:** `influencer-778bc86d-e2d8-4951-8a82-7d9f30f65d72` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10810,7 +10810,7 @@ Photorealistic fashion portrait of AI Influencer 12, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 16
+## AI Influencer 16
 
 * **ID:** `influencer-9d62f679-faf2-46e7-9736-1a6de5e2de89` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10838,7 +10838,7 @@ Photorealistic fashion portrait of AI Influencer 16, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 17
+## AI Influencer 17
 
 * **ID:** `influencer-c6c24c39-b010-41d5-a5cf-aa2310b961f3` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10866,7 +10866,7 @@ Photorealistic fashion portrait of AI Influencer 17, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 19
+## AI Influencer 19
 
 * **ID:** `influencer-ca20a74c-7c73-46b4-ac8a-293cba50cbc5` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10894,7 +10894,7 @@ Photorealistic fashion portrait of AI Influencer 19, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 20
+## AI Influencer 20
 
 * **ID:** `influencer-36e03d67-ed7e-4847-b695-fdc46862867b` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10922,7 +10922,7 @@ Photorealistic fashion portrait of AI Influencer 20, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 21
+## AI Influencer 21
 
 * **ID:** `influencer-9dc6f315-a9ee-485f-83fd-096f22ba6e1d` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10950,7 +10950,7 @@ Photorealistic fashion portrait of AI Influencer 21, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 22
+## AI Influencer 22
 
 * **ID:** `influencer-4bec30e5-b6cc-40ae-9e0b-c6aed99b78bd` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -10978,7 +10978,7 @@ Photorealistic fashion portrait of AI Influencer 22, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 23
+## AI Influencer 23
 
 * **ID:** `influencer-ac6d3d09-a269-4df5-8aa7-a5b238f36efb` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11006,7 +11006,7 @@ Photorealistic fashion portrait of AI Influencer 23, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 24
+## AI Influencer 24
 
 * **ID:** `influencer-5f0238e6-6c35-437d-8ee8-355a93ed79e3` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11034,7 +11034,7 @@ Photorealistic fashion portrait of AI Influencer 24, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 25
+## AI Influencer 25
 
 * **ID:** `influencer-b28a9d78-a606-4b71-bfda-b5fd039e699c` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11062,7 +11062,7 @@ Photorealistic fashion portrait of AI Influencer 25, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 26
+## AI Influencer 26
 
 * **ID:** `influencer-5d0d20e3-34ed-40df-94f6-aeb53ee3eac4` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11090,7 +11090,7 @@ Photorealistic fashion portrait of AI Influencer 26, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 27
+## AI Influencer 27
 
 * **ID:** `influencer-b42d827e-5a16-4c24-b36f-428c48de98fb` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11118,7 +11118,7 @@ Photorealistic fashion portrait of AI Influencer 27, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 28
+## AI Influencer 28
 
 * **ID:** `influencer-4a9e6a43-4ba0-4499-870b-982e29a46dc7` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11146,7 +11146,7 @@ Photorealistic fashion portrait of AI Influencer 28, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 29
+## AI Influencer 29
 
 * **ID:** `influencer-536d5d37-f733-44db-919c-bab6dc1949f0` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11174,7 +11174,7 @@ Photorealistic fashion portrait of AI Influencer 29, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 31
+## AI Influencer 31
 
 * **ID:** `influencer-3a5f4720-07a7-49e6-97a1-1e42825613d9` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11202,7 +11202,7 @@ Photorealistic fashion portrait of AI Influencer 31, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 33
+## AI Influencer 33
 
 * **ID:** `influencer-9345a815-307c-47a3-b40b-4eeec2f3ed6c` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11230,7 +11230,7 @@ Photorealistic fashion portrait of AI Influencer 33, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 34
+## AI Influencer 34
 
 * **ID:** `influencer-8f4f9241-6512-41a4-ae40-27ac5b463a17` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11258,7 +11258,7 @@ Photorealistic fashion portrait of AI Influencer 34, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 37
+## AI Influencer 37
 
 * **ID:** `influencer-ff979de7-59cc-4381-b81c-00a87279f735` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11286,7 +11286,7 @@ Photorealistic fashion portrait of AI Influencer 37, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 40
+## AI Influencer 40
 
 * **ID:** `influencer-8331fd61-3c79-4abb-9b66-dd69b67137dd` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11314,7 +11314,7 @@ Photorealistic fashion portrait of AI Influencer 40, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 48
+## AI Influencer 48
 
 * **ID:** `influencer-ea178c56-9f05-4937-8ecc-92bde34ad267` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11342,7 +11342,7 @@ Photorealistic fashion portrait of AI Influencer 48, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 49
+## AI Influencer 49
 
 * **ID:** `influencer-48e07401-6814-407b-a5f4-820f67556725` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11370,7 +11370,7 @@ Photorealistic fashion portrait of AI Influencer 49, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 51
+## AI Influencer 51
 
 * **ID:** `influencer-f53eef28-c592-428b-aa05-dcb7685067d2` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11398,7 +11398,7 @@ Photorealistic fashion portrait of AI Influencer 51, digital human creator, auth
 
 ---
 
-## 🎬 AI Influencer 53
+## AI Influencer 53
 
 * **ID:** `influencer-3f278510-725e-4ef4-bffa-515edf379bb3` | **Subcategory:** *Character Consistency Presets*
 * **Visible Effect:** Ultra-realistic digital human influencer persona with locked facial features and lifestyle aesthetics.
@@ -11427,9 +11427,9 @@ Photorealistic fashion portrait of AI Influencer 53, digital human creator, auth
 ---
 
 
-# 🌟 Section: Explainer & Animation Styles (9 Recipes)
+# Section: Explainer & Animation Styles (9 Recipes)
 
-## 🎬 Pixel Art (8-Bit / 16-Bit)
+## Pixel Art (8-Bit / 16-Bit)
 
 * **ID:** `pixel-art` | **Subcategory:** *Retro Gaming & Pixel Styles*
 * **Visible Effect:** Chunky pixelated sprites, dithered shading, colorful grid backgrounds, stepped retro animation
@@ -11458,7 +11458,7 @@ An explainer video in retro 8-bit pixel-art style, chunky pixelated characters a
 
 ---
 
-## 🎬 Claymotion / Stop-Motion
+## Claymotion / Stop-Motion
 
 * **ID:** `claymotion` | **Subcategory:** *Physical & Stop-Motion Styles*
 * **Visible Effect:** Tactile handmade clay characters with soft fingerprint textures, tactile molded shapes and playful frame-by-frame movement
@@ -11486,7 +11486,7 @@ An explainer video in claymation stop-motion style, handmade clay characters wit
 
 ---
 
-## 🎬 Mixed Media & Collage
+## Mixed Media & Collage
 
 * **ID:** `mixed-media` | **Subcategory:** *Artistic & Editorial Styles*
 * **Visible Effect:** Layered paper cutouts, photo scraps, hand-drawn marks and textured backgrounds combined into lively animated scenes
@@ -11514,7 +11514,7 @@ An explainer video in mixed-media collage style, layered paper cutouts, photo sc
 
 ---
 
-## 🎬 2D Flat Vector Illustrator
+## 2D Flat Vector Illustrator
 
 * **ID:** `2d-flat-illustrator` | **Subcategory:** *Modern Vector Styles*
 * **Visible Effect:** Clean 2D flat-illustration style, bold outlines, bright modern color palette and smooth vector characters with simple friendly motion
@@ -11542,7 +11542,7 @@ An explainer video in clean 2D flat-illustration style, bold outlines, bright mo
 
 ---
 
-## 🎬 Whiteboard Doodle
+## Whiteboard Doodle
 
 * **ID:** `whiteboard-doodle` | **Subcategory:** *Hand-Drawn & Sketch Styles*
 * **Visible Effect:** Hand-drawn whiteboard doodle style, black marker sketches drawn live on a white board, simple line icons and playful animated annotations
@@ -11570,7 +11570,7 @@ An explainer video in hand-drawn whiteboard doodle style, black marker sketches 
 
 ---
 
-## 🎬 Low Poly 3D
+## Low Poly 3D
 
 * **ID:** `low-poly-3d` | **Subcategory:** *3D Geometric Styles*
 * **Visible Effect:** Low-poly 3D style, faceted geometric characters and environments with flat shaded triangles, clean soft lighting and minimal color gradients
@@ -11598,7 +11598,7 @@ An explainer video in low-poly 3D style, faceted geometric characters and enviro
 
 ---
 
-## 🎬 3D Mix & Glossy Toy
+## 3D Mix & Glossy Toy
 
 * **ID:** `3d-mix-polished` | **Subcategory:** *Polished 3D CGI Styles*
 * **Visible Effect:** Polished 3D-rendered style, glossy rounded characters and objects with realistic materials, soft studio lighting and smooth cinematic camera moves
@@ -11626,7 +11626,7 @@ An explainer video in polished 3D-rendered style, glossy rounded characters and 
 
 ---
 
-## 🎬 Isometric Flat Vector
+## Isometric Flat Vector
 
 * **ID:** `isometric-flat-vector` | **Subcategory:** *Architectural & Diagrammatic Styles*
 * **Visible Effect:** Isometric flat-vector style, tidy 2.5D scenes and diagrams at a fixed isometric angle, crisp geometry, muted modern palette and orderly motion
@@ -11654,7 +11654,7 @@ An explainer video in isometric flat-vector style, tidy 2.5D scenes and diagrams
 
 ---
 
-## 🎬 Fluffy Toy / Plushie
+## Fluffy Toy / Plushie
 
 * **ID:** `fluffy-toy-plush` | **Subcategory:** *Tactile Fabric Styles*
 * **Visible Effect:** Fluffy plush-toy style, soft felt and fuzzy fabric characters with stitched details and button eyes, cozy pastel scenes and cute bouncy movement
@@ -11683,9 +11683,9 @@ An explainer video in fluffy plush-toy style, soft felt and fuzzy fabric charact
 ---
 
 
-# 🌟 Section: Cinema Studio (Directorial & Cinematic Sequences) (18 Recipes)
+# Section: Cinema Studio (Directorial & Cinematic Sequences) (18 Recipes)
 
-## 🎬 Katana preset: Cinematic Film Look
+## Katana preset: Cinematic Film Look
 
 * **ID:** `katana-cinematic-film-look` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11739,7 +11739,7 @@ No text, captions, logos or watermark. No real people unless the user supplies t
 
 ---
 
-## 🎬 Katana preset: Cinematic Glitch Action
+## Katana preset: Cinematic Glitch Action
 
 * **ID:** `katana-cinematic-glitch-action` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11774,7 +11774,7 @@ Replace the girl with the user's character in every shot, keep identity consiste
 
 ---
 
-## 🎬 Katana preset: Cinematic Mystery Noir
+## Katana preset: Cinematic Mystery Noir
 
 * **ID:** `katana-cinematic-mystery-noir` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11809,7 +11809,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Cinematic Noir Glitch Edit
+## Katana preset: Cinematic Noir Glitch Edit
 
 * **ID:** `katana-cinematic-noir-glitch-edit` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11844,7 +11844,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Cinematic Perfume Commercial
+## Katana preset: Cinematic Perfume Commercial
 
 * **ID:** `katana-cinematic-perfume-commercial` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11879,7 +11879,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Gritty Noir Cinematic Montage
+## Katana preset: Gritty Noir Cinematic Montage
 
 * **ID:** `katana-gritty-noir-cinematic-montage` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11917,7 +11917,7 @@ Never speed up footage (real time, the final shot slightly slowed). No text, tit
 
 ---
 
-## 🎬 Katana preset: Nocturne Cinematic Fashion Vibe
+## Katana preset: Nocturne Cinematic Fashion Vibe
 
 * **ID:** `katana-nocturne-cinematic-fashion-vibe` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -11952,7 +11952,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Noir Crowned Fashion Montage
+## Katana preset: Noir Crowned Fashion Montage
 
 * **ID:** `katana-noir-crowned-fashion-montage` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -12005,7 +12005,7 @@ STEPS
 
 ---
 
-## 🎬 Katana preset: Swole Cinema Aesthetic
+## Katana preset: Swole Cinema Aesthetic
 
 * **ID:** `katana-swole-cinema-aesthetic` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -12040,7 +12040,7 @@ recreate the preset's reference video below with the user's inputs, following th
 
 ---
 
-## 🎬 Katana preset: Vintage Cinematic Rap Video
+## Katana preset: Vintage Cinematic Rap Video
 
 * **ID:** `katana-vintage-cinematic-rap-video` | **Subcategory:** *Cinematic Film & Noir Sequences*
 * **Visible Effect:** This preset is a reference remake: recreate the preset's reference video below with the user's inputs, following the Katana instructions below. Do not substitute another preset, wo...
@@ -12081,7 +12081,7 @@ Quality rules: faces must clearly be the uploaded people, with realistic skin, n
 
 ---
 
-## 🎬 Painterly Cinematic 3D Sequence
+## Painterly Cinematic 3D Sequence
 
 * **ID:** `cinema-painterly-cinematic-3d-sequence` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Painterly Cinematic 3D motion picture still of an epic scene, dramatic chiaroscuro key lighting, atmospheric volumetric god rays, authentic Kodak 5219 film stock grain, color graded with cool teal shadows and warm amber skin tones.
@@ -12110,7 +12110,7 @@ Painterly Cinematic 3D motion picture still of an epic scene, dramatic chiaroscu
 
 ---
 
-## 🎬 Neon Graphic Cinematic 3D
+## Neon Graphic Cinematic 3D
 
 * **ID:** `cinema-neon-graphic-cinematic-3d` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** High-octane neon graphic cinematic action sequence, dynamic low-angle wide shot, realistic motion blur streaks, high contrast cinematic grade, practical atmospheric neon glow and embers.
@@ -12138,7 +12138,7 @@ High-octane neon graphic cinematic action sequence, dynamic low-angle wide shot,
 
 ---
 
-## 🎬 Cinematic Rooftop Sunset Tracking
+## Cinematic Rooftop Sunset Tracking
 
 * **ID:** `cinema-cinematic-rooftop-sunset-tracking` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Cinematic rooftop sunset scene with a silhouetted character standing still against a glowing city skyline. Handheld camera slowly walks forward toward the subject, subtle natural shake, smooth gradual push-in.
@@ -12166,7 +12166,7 @@ Cinematic rooftop sunset scene with a silhouetted character standing still again
 
 ---
 
-## 🎬 Cinematic Subway Doorway Moody Urban Night
+## Cinematic Subway Doorway Moody Urban Night
 
 * **ID:** `cinema-cinematic-subway-doorway-moody-urban-night` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Cinematic shot of a silhouetted person in a subway doorway at night, facing a train across the platform. Cool green fluorescent lighting, soft motion blur inside the carriage, moody urban tone. Slow forward track.
@@ -12194,7 +12194,7 @@ Cinematic shot of a silhouetted person in a subway doorway at night, facing a tr
 
 ---
 
-## 🎬 Cinematic Culinary Kitchen Chiaroscuro
+## Cinematic Culinary Kitchen Chiaroscuro
 
 * **ID:** `cinema-cinematic-culinary-kitchen-chiaroscuro` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Cinematic shot of a professional chef in a stainless-steel kitchen at night, chopping fresh herbs and garlic on a wooden board. Dramatic steam rising behind him, teal and warm tungsten lighting, moody film contrast.
@@ -12222,7 +12222,7 @@ Cinematic shot of a professional chef in a stainless-steel kitchen at night, cho
 
 ---
 
-## 🎬 Harsh Snowstorm Frozen Landscape Action
+## Harsh Snowstorm Frozen Landscape Action
 
 * **ID:** `cinema-harsh-snowstorm-frozen-landscape-action` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Commercial shot of a man in a harsh snowstorm on an open frozen landscape, wearing a black puffer jacket and reflective goggles. Strong wind drives snow across the frame, cold blue-gray tones, dramatic high-contrast lighting.
@@ -12250,7 +12250,7 @@ Commercial shot of a man in a harsh snowstorm on an open frozen landscape, weari
 
 ---
 
-## 🎬 Performance Car Anamorphic City Sequence
+## Performance Car Anamorphic City Sequence
 
 * **ID:** `cinema-performance-car-anamorphic-city-sequence` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Create a cinematic city sequence centered on a performance car, with atmospheric lighting, controlled camera movement, and an editorial film look.
@@ -12278,7 +12278,7 @@ Create a cinematic city sequence centered on a performance car, with atmospheric
 
 ---
 
-## 🎬 Dramatic Short-Form Film: Tense Encounter
+## Dramatic Short-Form Film: Tense Encounter
 
 * **ID:** `cinema-dramatic-short-form-film-tense-encounter` | **Subcategory:** *Directorial Narrative Sequences*
 * **Visible Effect:** Create a short-form drama set in a quiet library, with a tense encounter, an emotional reveal, and a cinematic ending.
