@@ -1,4 +1,4 @@
-# JSX CLIPSCRIPT
+# CLIPSCRIPT
 
 > **Production-Grade Generative AI Video Prompt Scripts & Formulas**  
 > Reverse-engineered, copy-ready prompt recipes for Kling 1.5, Wan2.1, Seedance, and ComfyUI.  
@@ -8,7 +8,7 @@
 
 ## Overview
 
-**JSX Clipscript** is a curated prompt engineering engine and recipe library developed by **[JSX Creatives](https://www.jsxcreatives.com)**. It houses **336 verified prompt formulas** across 7 specialized studios, reverse-engineered from world-class generative video platforms.
+**Clipscript** is a curated prompt engineering engine and recipe library developed by **[JSX Creatives](https://www.jsxcreatives.com)**. It houses **336 verified prompt formulas** across 7 specialized studios, reverse-engineered from world-class generative video platforms.
 
 Each recipe features **copy-ready bracketed replacement hooks** (e.g. `(the character from the reference image)`, `(the product from the reference image)`), direct sample video downloads, and reference videos for video-to-video replacement.
 
