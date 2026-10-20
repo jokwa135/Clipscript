@@ -50,3 +50,9 @@ npm run deploy # or netlify deploy --prod
 
 - **Live Platform:** [https://clipscript.jsxcreatives.com](https://clipscript.jsxcreatives.com)  
 - **Studio Portfolio:** [https://www.jsxcreatives.com](https://www.jsxcreatives.com)
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
