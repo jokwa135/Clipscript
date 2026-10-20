@@ -30,12 +30,8 @@ Each recipe features **copy-ready bracketed replacement hooks** (e.g. `(the char
 
 ## ⚡ Features
 
-- **Pricedown GTA Styling:** Iconic Grand Theft Auto typographic lockup on **JSX**.
-- **Color-Coded Ticker:** Animated `Copy.` (Red) → `Paste.` (Orange) → `Generate.` (Green).
-- **Persistent Favorites (❤️ Likes):** Click the heart on any card to save recipes to your personal **❤️ Favorites** collection (persisted across sessions via `localStorage`).
-- **Single-Audio Exclusivity:** Clicking `Sound` plays audio on that video only, muting all others automatically.
-- **1-Click Direct Downloads:** Immediate download links for Preview MP4s and original Input Reference Videos.
-- **Self-Contained & Blazing Fast:** Zero external runtime dependencies; deploys anywhere in seconds.
+- **Audio Playback:** Single-audio playback muting other videos automatically.
+- **Direct Downloads:** Immediate download links for preview clips and input reference files.
 
 ---
 
