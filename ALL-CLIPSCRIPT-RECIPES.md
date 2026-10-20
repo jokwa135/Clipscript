@@ -1,6 +1,6 @@
-# Complete Higgsfield Production Recipe Playbook (Copy-Ready Prompt Library)
+# Complete JSX Clipscript Production Recipe Playbook (Copy-Ready Prompt Library)
 
-> **The Definitive Engineering Recipe Book for Re-Producing Higgsfield Templates & Styles**  
+> **The Definitive Engineering Recipe Book for Generative AI Video Prompt Recipes & Formulas**  
 > Total Recipes: **336** across **7 Major Sections**  
 > Every recipe contains:
 > 1. **Copy-Ready Prompt:** Exact prompt format using `(the character from the reference image)`, `(the product from the reference image)`, etc., ready to feed straight into your video generator.
