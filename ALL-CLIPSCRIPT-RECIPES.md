@@ -29,7 +29,7 @@
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `14s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/90d01517-46a5-467d-a37e-b2e18b401386.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/90d01517-46a5-467d-a37e-b2e18b401386.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/baed0aeb-20d0-54f8-99c5-b4b0cb3a2f66.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/54b6f52b-08b2-5acf-9557-2e599560acd8.webp
 
@@ -47,7 +47,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/76933ec2-b002-4446-8713-180f60286ad7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/76933ec2-b002-4446-8713-180f60286ad7.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/000f949b-2131-4fd7-b64e-d6547b9bb722.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/c045b52b-ab93-5d96-8e2b-72115697cb50.webp
 
@@ -65,7 +65,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `13s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/91e73b88-b2e6-48cb-964c-e8e9cd208c3d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/91e73b88-b2e6-48cb-964c-e8e9cd208c3d.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/fa1bacd5-1229-5dd4-bdc2-181573b7d922.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/9650072f-7ed8-5c91-bc2f-edc3a30ba02e.webp
 
@@ -83,7 +83,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f4031d7d-2d6a-4883-b1c4-1300b6e2611e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f4031d7d-2d6a-4883-b1c4-1300b6e2611e.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/4380f3a5-c5a9-5876-bd0b-a6415108fc05.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/e1db4f4b-3101-5151-91bf-a06be7a8a316.webp
 
@@ -101,7 +101,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/7f762557-d6d2-456d-9041-d4972d7c3928.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/7f762557-d6d2-456d-9041-d4972d7c3928.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/fcffb22c-cbf8-43d0-b9b6-351815063c73.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/1bc47dfd-2af0-509b-bd76-3896ec07bf3d.webp
 
@@ -119,7 +119,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `6s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/cdf35c08-c873-4853-b752-bc2e347db74d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/cdf35c08-c873-4853-b752-bc2e347db74d.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/e00d85ab-fd35-52a6-80fd-bac7b262b408.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/067a9f92-94b2-5e63-accf-2c57fe1a0cdf.webp
 
@@ -137,7 +137,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `11s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/fd9d42a8-2d1d-494f-8116-787f86aa21e6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/fd9d42a8-2d1d-494f-8116-787f86aa21e6.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/11a42a29-a28d-53c4-be16-11b10e0115cb.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/f0ad452c-2254-54cb-932e-d85d0b06dca7.webp
 
@@ -155,7 +155,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `22s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f1469b50-adf3-44a5-b9f2-fa974feb269a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f1469b50-adf3-44a5-b9f2-fa974feb269a.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/bc92d258-1b65-5ff0-9c1c-ab73bde1ba58.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/d34e684b-0ed7-50fa-befb-d550e7a43881.webp
 
@@ -173,7 +173,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `17s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/06964c76-f916-46de-bdeb-b71cbd534404.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/06964c76-f916-46de-bdeb-b71cbd534404.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/baa09269-dfe6-50eb-a7f6-af306a0130a6.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/24daa737-06d4-530d-b2ff-18f0eeb2c289.webp
 
@@ -191,7 +191,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/415c0af7-f119-4caa-8a75-f5f18ba930ce.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/415c0af7-f119-4caa-8a75-f5f18ba930ce.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/b865cef0-0fb4-543b-bb53-a7f81b97f24d.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/08edcef0-2205-5490-a4e3-014f32e77587.webp
 
@@ -209,7 +209,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/c7ec54ee-5d28-443b-b739-7ae9eed1c6b0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/c7ec54ee-5d28-443b-b739-7ae9eed1c6b0.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/138dfbfc-e5fd-5393-be7f-8e337590ce28.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/f32779dd-b4be-5f1d-ac1f-71f59b92d476.webp
 
@@ -227,7 +227,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/b7b23650-16b2-4f6f-bebc-9fe02d89ade9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/b7b23650-16b2-4f6f-bebc-9fe02d89ade9.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/042ca354-7a8e-583c-889e-472b65ea6a39.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/167113f5-32ca-5c5f-ae3f-7f8e7599e964.webp
 
@@ -245,7 +245,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `13s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/717aa444-7588-4e7a-b36c-22811309da25.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/717aa444-7588-4e7a-b36c-22811309da25.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/188a7a57-3e17-5313-9c1a-95f12e0ff2a3.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/80918ab3-d0cf-5c86-af99-29d53184edf0.webp
 
@@ -263,7 +263,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `12s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/c72a39c1-324d-443e-af18-5e940520e63a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/c72a39c1-324d-443e-af18-5e940520e63a.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/53792492-24fe-5e9b-83e8-6a05946b9236.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/33ab59ac-cee3-57eb-95ce-5e754de9f021.webp
 
@@ -281,7 +281,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `14s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f26996f6-73d4-44b0-a91c-1d0f01b20c14.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f26996f6-73d4-44b0-a91c-1d0f01b20c14.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/dbc43364-fbef-528a-8511-20e3ddc46057.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/06aaeffd-33c0-5add-a61c-eacf299154fa.webp
 
@@ -299,7 +299,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `17s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/0d5ccefc-4f1b-4d09-bc37-84a70dad123a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/0d5ccefc-4f1b-4d09-bc37-84a70dad123a.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/01075d0b-ce45-5a53-853c-6bf1feb96635.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/a3177c9f-c068-54bb-96b2-abc85054ef9b.webp
 
@@ -317,7 +317,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `28s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/bc744e57-b2a6-45fb-bf26-bd72c3d523bb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/bc744e57-b2a6-45fb-bf26-bd72c3d523bb.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/ef6d5426-400d-5dad-94d0-cd5ba44c3061.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/56475b81-bfc4-5cf1-ace4-902c5c0797e3.webp
 
@@ -335,7 +335,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `19s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/dfdb144c-de5e-47e8-b1d8-c50ca69dedca.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/dfdb144c-de5e-47e8-b1d8-c50ca69dedca.mp4 (Silent)
 - **Input Reference Video:** https://d2ol7oe51mr4n9.cloudfront.net/content_user_id/ef223cc5-177f-5b15-ba9c-ed62197b3b1f.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/03252833-d6bb-5a61-95df-a199d9fe2a5d.webp
 
@@ -353,7 +353,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/5c33ea0b-81e0-4e9e-9138-87a648d35ad9.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/f7447605-c2c1-43ad-9a7a-9ed5062cb2da/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3Bu5JuVtOLeUf9Tqr2GbRxGUfPp/669e3847-eac1-4c3c-bc24-8537b4fc5599.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/01/edit/c2394654-9775-4512-af95-d60250cfaabf.webp
 
@@ -371,7 +371,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `23s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/1eab1a56-2e44-4bb6-bf9a-af78e243b4eb/generation-genjutsu-h264-600-v1.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/1eab1a56-2e44-4bb6-bf9a-af78e243b4eb/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/higgsfield_multiplier_how_it_works_reference/64da789f-02bf-4554-b357-9f53a1c74126.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/4a716a67-a71a-4496-9df6-d6d337b996d1.webp
 
@@ -389,7 +389,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/74137e06-a512-4804-a00a-d4df696662a1/generation-genjutsu-h264-600-v1.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/74137e06-a512-4804-a00a-d4df696662a1/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/higgsfield_multiplier_how_it_works_reference/7bfcce87-1550-4ecc-9aa2-a6f5db70614d.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/cd4a1d48-8b82-41a5-9df0-532e5e32c170.webp
 
@@ -407,7 +407,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/f47db038-5bb2-4219-9ae5-840f48747e64.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/4e1fefb8-158d-445e-b2bc-f0ff81602ac6/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3HBBqUL3N7zkGsMu9UdbSI5yqe4/eae4e07e-ddd5-489b-86ad-5f26b9397309.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/03/edit/27ee6ea4-78ab-445f-b5c0-15083c969a95.webp
 
@@ -425,7 +425,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/9c8a1d33-12e1-4fbd-a799-7cfe121f06b9.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/51557f39-39f3-4700-a4e3-802a0f05b76e/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3HBBqUL3N7zkGsMu9UdbSI5yqe4/d24dbd44-892c-4326-9c22-be9b4fe4a478.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/04/edit/29cd2db0-0173-4e02-a0a0-9f3cf98f6934.webp
 
@@ -443,7 +443,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/a410e77e-126a-43a7-ac29-79290d169f81.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/90118d5c-91a2-489b-bc37-bcea96929ebc/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3Bu5JuVtOLeUf9Tqr2GbRxGUfPp/b6e81d09-2cab-47f5-a2bf-989053df37cd.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/06/edit/0f28d1e3-fc59-4990-a4c7-d20a8003f207.webp
 
@@ -461,7 +461,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/0e4b5630-3231-4ba8-898d-567552d22344.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/3a7928f9-e230-4dd7-89d6-3875bf34c1b2/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/genjutsu/video-explore/07/original/323f67ab-86c2-4eb2-bdfe-3b5dd2c7ced4.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/07/edit/79ea82de-3cb9-437c-af71-a59c239873f2.webp
 
@@ -479,7 +479,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/1a88da35-b73b-4822-9497-9436b331d532.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/a82b930d-fc38-42bd-a126-7d302eac60fb/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/genjutsu/video-explore/08/original/d31572da-5f1b-48cf-a086-b96aa2b5a109.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/08/edit/9c76dbd0-6ae5-4566-8c32-9c09c5a57186.webp
 
@@ -497,7 +497,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/3f2e20d2-684b-4902-bd97-a7653d43b73a.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/c13f47cc-b815-456e-81f0-66064cba1eaa/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/genjutsu/video-explore/09/original/5f635a87-11cf-4b9d-b6e4-9075f4474a94.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/09/edit/08e0eba9-4a81-410b-b65d-a55f55509d0a.webp
 
@@ -515,7 +515,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/4f0494b8-c06d-4c92-b5fb-c90a4474a06d/generation-genjutsu-h264-600-v1.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/4f0494b8-c06d-4c92-b5fb-c90a4474a06d/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3HBBqUL3N7zkGsMu9UdbSI5yqe4/a8104dea-8a8d-4f44-81ad-93fbcc3a27ab.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/user_3HBBqUL3N7zkGsMu9UdbSI5yqe4/hf_20260829_231228_7f44830d-46b4-409b-b017-29768875ed93_thumbnail.webp
 
@@ -533,7 +533,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/8e919928-0027-4ba1-8ceb-e8b23dd83a44.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/4a851056-9565-4196-b588-7395af67e0f3/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3HBBqUL3N7zkGsMu9UdbSI5yqe4/734e9262-fe54-474c-bc7e-b685ef22179e.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/11/edit/58825ba0-5778-4402-80af-b8c1bc71db2b.webp
 
@@ -551,7 +551,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/2f1cfbbc-13c0-42fe-ba99-0a23b68c9177.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/58fae5c9-3658-4396-957c-09f0c9062055/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/genjutsu/video-explore/12/original/1d1158e9-a8d0-4265-9d16-0840ae06c8ab.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/12/edit/8a402c2d-0963-4434-b6a7-3ea5d14d39b7.webp
 
@@ -569,7 +569,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/28090a1f-5717-48b8-84af-01a67428e3d3.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/76860a18-4757-4080-a6d5-584909fe832c/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/genjutsu/video-explore/13/original/a8f18d5b-451a-4639-890e-6b978da41ece.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/13/edit/2de540dc-8285-4a13-a59b-cd07f2820294.webp
 
@@ -587,7 +587,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/c77be113-e0ce-46be-bd4f-d3b7b886102d.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/aed132b9-d866-4714-aee6-b6d8f6d314dc/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3Bu5JuVtOLeUf9Tqr2GbRxGUfPp/a1367368-7a0f-4d2c-870c-6e0a8bdd8745.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/14/edit/dc6576f8-5e6e-4eba-8841-cb51ad6193f0.webp
 
@@ -605,7 +605,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/1fe2bb91-3821-4d9e-a2c3-02640a8792d6.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/edfa8d7a-2d33-4feb-a6a3-151d0aac8597/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3Bu5JuVtOLeUf9Tqr2GbRxGUfPp/6521c553-8b71-4ebc-a995-e0f5e479beae.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/15/edit/8a112815-9349-47ee-8035-7ef6352eb4ad.webp
 
@@ -623,7 +623,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `10s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/772b02e5-1f26-4ae7-8957-30c9fd17eb18/generation-genjutsu-h264-600-v1.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/772b02e5-1f26-4ae7-8957-30c9fd17eb18/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://cdn.higgsfield.ai/higgsfield_multiplier_how_it_works_reference/712a0949-11d2-4125-b3a1-7f7a8d271e11.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/higgsfield_multiplier_video_explore_variant/f3188f06-018f-436f-a7b6-c77f449e0b34.webp
 
@@ -641,7 +641,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Video Multiplier / Soul 2.0
 - **Video Model:** Seedance / Video Diffusion I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/genjutsu/preview/genjutsu-h264-600-v1/dfd17324-1b04-4956-bced-7ec3bacc5c1d.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/community-presets/9269394e-3205-4603-860c-9ca939d80cb6/generation-genjutsu-h264-600-v1.mp4 (Audio Included)
 - **Input Reference Video:** https://d20rwh69pn04qo.cloudfront.net/user_3Bu5JuVtOLeUf9Tqr2GbRxGUfPp/fd3020ff-87eb-47c5-a4ba-b0a7d0ed9f92.mp4
 - **Preview Image:** https://cdn.higgsfield.ai/genjutsu/video-explore/02/edit/9445ce67-4691-477c-ba27-f2dd7d9eafee.webp
 
@@ -659,7 +659,7 @@ Video-to-video replacement: Maintain original video optical flow, camera perspec
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/c2dd113d-b498-4537-9f98-7456e1de84cb.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/c2dd113d-b498-4537-9f98-7456e1de84cb.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/d052915c-6de3-4798-83c5-f8e87c56c1bd.webp
 
 ```text
@@ -675,7 +675,7 @@ Apply characteristic Hand-Painted Cel Animation shading, stylized lighting, colo
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/62263e78-3254-4d27-9f3a-f177a702deee.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/62263e78-3254-4d27-9f3a-f177a702deee.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/91bc1a97-e7d4-462a-b858-d4fd4628c819.webp
 
 ```text
@@ -691,7 +691,7 @@ Apply characteristic Knitted Yarn World shading, stylized lighting, color palett
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/e0bf8f82-a1da-49be-a307-1b3d8d46a3c2.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/e0bf8f82-a1da-49be-a307-1b3d8d46a3c2.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/d442563c-7ed6-46fc-b5da-13a0e673aa8d.webp
 
 ```text
@@ -707,7 +707,7 @@ Apply characteristic Expressive 2D Animation shading, stylized lighting, color p
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/9de0470d-edb5-4a81-8b02-9da16e851398.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/9de0470d-edb5-4a81-8b02-9da16e851398.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/1d306062-8ab8-495f-a54d-c3b92409ee82.webp
 
 ```text
@@ -723,7 +723,7 @@ Apply characteristic Rounded Toy CGI shading, stylized lighting, color palette, 
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/6f37a87f-13da-452d-9281-806838779e98.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/6f37a87f-13da-452d-9281-806838779e98.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/13417b4c-0382-4e72-8e57-b6c5d5359406.webp
 
 ```text
@@ -739,7 +739,7 @@ Apply characteristic Felt Puppet Stop Motion shading, stylized lighting, color p
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/d5802da5-c81f-44ac-99a3-37f3f78da387.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/d5802da5-c81f-44ac-99a3-37f3f78da387.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/27f74e1c-a896-4612-b831-ffac9c804fb2.webp
 
 ```text
@@ -755,7 +755,7 @@ Apply characteristic Grotesque Street CGI shading, stylized lighting, color pale
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/63651f73-30e5-4ac1-a396-f543d73cfab2.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/63651f73-30e5-4ac1-a396-f543d73cfab2.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/00869c2b-cd8a-4000-91ce-ebb59718708f.webp
 
 ```text
@@ -771,7 +771,7 @@ Apply characteristic Warm Painterly 3D Animation shading, stylized lighting, col
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/da434dac-8c00-46cd-a796-55b3be330e3d.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/da434dac-8c00-46cd-a796-55b3be330e3d.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/7ba5f3b3-3bcd-4029-a63d-4a9b97694bcc.webp
 
 ```text
@@ -787,7 +787,7 @@ Apply characteristic Graphic Cel shading, stylized lighting, color palette, and 
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/80d43cfe-18b9-4f7e-a814-965ba2516cb3.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/80d43cfe-18b9-4f7e-a814-965ba2516cb3.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/5841a203-60d7-48c5-aff2-3b5cbe006dbf.webp
 
 ```text
@@ -803,7 +803,7 @@ Apply characteristic Expressive Gouache Fashion shading, stylized lighting, colo
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/276cb25f-6a87-4a19-a759-b17019df17b5.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/276cb25f-6a87-4a19-a759-b17019df17b5.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/7699761b-aa46-4f05-b69d-f2127f8eb9e6.webp
 
 ```text
@@ -819,7 +819,7 @@ Apply characteristic Sculptural 3D Fashion shading, stylized lighting, color pal
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/3f70c883-fddc-4f37-aed5-5573cabfe8d4.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/3f70c883-fddc-4f37-aed5-5573cabfe8d4.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/672defbe-bb9f-4d66-8061-9cf632ff03e9.webp
 
 ```text
@@ -835,7 +835,7 @@ Apply characteristic Chunky Textured Low-Poly shading, stylized lighting, color 
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/0e7e35a1-c836-4537-8f58-6d3f74d3051f.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/0e7e35a1-c836-4537-8f58-6d3f74d3051f.mp4 (Silent)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/81f25936-3a78-42a7-a246-b1f07ed539e7.webp
 
 ```text
@@ -851,7 +851,7 @@ Apply characteristic Cel-Shaded CG Anime shading, stylized lighting, color palet
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/17edbd00-1d8f-4d5f-96af-6eabeeb3c27f.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/17edbd00-1d8f-4d5f-96af-6eabeeb3c27f.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/277a0519-bab5-4588-a5d8-90a4b6892b24.webp
 
 ```text
@@ -867,7 +867,7 @@ Apply characteristic Painterly Cinematic 3D shading, stylized lighting, color pa
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/e2121e46-843e-4e5a-a67c-0e0a343e79e2.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/e2121e46-843e-4e5a-a67c-0e0a343e79e2.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/73ca16f5-0dce-4bf2-a9c7-dc09f898ee2d.webp
 
 ```text
@@ -883,7 +883,7 @@ Apply characteristic Outline-free Cel shading, stylized lighting, color palette,
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/dc5761e7-bd40-4604-995c-78b53856fcd9.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/dc5761e7-bd40-4604-995c-78b53856fcd9.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/70a3fb85-4e52-4d2f-9516-9bfc490d996e.webp
 
 ```text
@@ -899,7 +899,7 @@ Apply characteristic Painterly Sculpted Animation shading, stylized lighting, co
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/0f224e6b-c737-4251-9311-c942d668367a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/0f224e6b-c737-4251-9311-c942d668367a.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/61a1bdf8-e1af-484e-98cd-cca2c0b155e1.webp
 
 ```text
@@ -915,7 +915,7 @@ Apply characteristic Neon Graphic Cinematic 3D shading, stylized lighting, color
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/e0e79814-2e9f-4e8c-8852-ce52eee7612c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/e0e79814-2e9f-4e8c-8852-ce52eee7612c.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/8ea0807a-ef89-4d78-9b52-be5937c8c89b.webp
 
 ```text
@@ -931,7 +931,7 @@ Apply characteristic Textured Gouache Character Illustration shading, stylized l
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/8c22bc6d-2250-49bb-9f9e-92abfa9faaf1.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/8c22bc6d-2250-49bb-9f9e-92abfa9faaf1.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/bbf6efb5-b9a7-4d5c-a9dc-06b6eee8cb6f.webp
 
 ```text
@@ -947,7 +947,7 @@ Apply characteristic Comic 3D shading, stylized lighting, color palette, and tex
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/15d1907b-9524-47ec-b043-6cdb4c5374d0.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/15d1907b-9524-47ec-b043-6cdb4c5374d0.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/6d39b98a-27a5-41a8-b747-897d2985778c.webp
 
 ```text
@@ -963,7 +963,7 @@ Apply characteristic Retro Game 3D shading, stylized lighting, color palette, an
 - **Image Model:** Soul Cinema / Multiplier Style Adapter
 - **Video Model:** Seedance Video Engine
 - **Settings:** Aspect Ratio `Original Video Ratio` | Duration `5s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/98f5a790-ed66-4675-ba25-b9b639512530.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/98f5a790-ed66-4675-ba25-b9b639512530.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/7c7ef165-05cf-4664-8d5d-a11dff579ffe.webp
 
 ```text
@@ -1009,7 +1009,7 @@ Resolve `/genjutsu` first, then use the current request and its supplied context
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/51e0cab1-555b-43ee-9464-66ff391b0799.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/51e0cab1-555b-43ee-9464-66ff391b0799.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/51e0cab1-555b-43ee-9464-66ff391b0799.mp4
 
 ```text
@@ -1029,7 +1029,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/25d7debe-c294-45d7-ae00-c223cd17dbbb.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/25d7debe-c294-45d7-ae00-c223cd17dbbb.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/25d7debe-c294-45d7-ae00-c223cd17dbbb.mp4
 
 ```text
@@ -1049,7 +1049,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/8ec26d06-e5bf-4d72-987d-ab200570cc87.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/8ec26d06-e5bf-4d72-987d-ab200570cc87.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/8ec26d06-e5bf-4d72-987d-ab200570cc87.mp4
 
 ```text
@@ -1069,7 +1069,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/2e8a3caa-9cfd-444a-ab96-3ae296d1328a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/2e8a3caa-9cfd-444a-ab96-3ae296d1328a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/2e8a3caa-9cfd-444a-ab96-3ae296d1328a.mp4
 
 ```text
@@ -1091,7 +1091,7 @@ Your character becomes the hero of a black-and-white noir boxing film. He trains
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/53cf8640-34b7-437c-8075-2ec9e914783a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/53cf8640-34b7-437c-8075-2ec9e914783a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/53cf8640-34b7-437c-8075-2ec9e914783a.mp4
 
 ```text
@@ -1111,7 +1111,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/faa5cbc7dc7187017439b6b2dbf6ebf7a69e69fc99535193aee125bd248d6e06
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/faa5cbc7dc7187017439b6b2dbf6ebf7a69e69fc99535193aee125bd248d6e06 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1130,7 +1130,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/585df7c613ef40cff1569d34009ffbdc48ecca0bc07039c96f5623a18e52e8cf
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/585df7c613ef40cff1569d34009ffbdc48ecca0bc07039c96f5623a18e52e8cf (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1149,7 +1149,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/ab4d2a58-1e39-4b7c-807d-e7edf036adc1.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/ab4d2a58-1e39-4b7c-807d-e7edf036adc1.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/ab4d2a58-1e39-4b7c-807d-e7edf036adc1.mp4
 
 ```text
@@ -1169,7 +1169,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/a2b6ef27587844b66d09b526764850e8f79ad080b7907d7cb46b2a769c9dd612
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/a2b6ef27587844b66d09b526764850e8f79ad080b7907d7cb46b2a769c9dd612 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1188,7 +1188,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9e653229-cce5-4354-9c9d-c062cfa8b337.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9e653229-cce5-4354-9c9d-c062cfa8b337.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/9e653229-cce5-4354-9c9d-c062cfa8b337.mp4
 
 ```text
@@ -1208,7 +1208,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/0fa48c7c5aa7022b3311f6aef84623722688288fb1dac85f9c278a948facea12
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/0fa48c7c5aa7022b3311f6aef84623722688288fb1dac85f9c278a948facea12 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1227,7 +1227,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/326c512a-ee04-417d-bb2a-faa3f2d1c6d1.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/326c512a-ee04-417d-bb2a-faa3f2d1c6d1.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/326c512a-ee04-417d-bb2a-faa3f2d1c6d1.mp4
 
 ```text
@@ -1247,7 +1247,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/7d67700d733d815f5c6d3ed32510ff1af893f191aa6ce6b74d5c4069db2ac8a0
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/7d67700d733d815f5c6d3ed32510ff1af893f191aa6ce6b74d5c4069db2ac8a0 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1266,7 +1266,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/28a2db5f-e425-4078-be17-4b21a51d7bdf.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/28a2db5f-e425-4078-be17-4b21a51d7bdf.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/28a2db5f-e425-4078-be17-4b21a51d7bdf.mp4
 
 ```text
@@ -1288,7 +1288,7 @@ Keep every shot's camera move, timing, framing and collage trick: magazine cut-o
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/95b1329a-118d-47bb-946b-14984c33e74d.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/95b1329a-118d-47bb-946b-14984c33e74d.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/95b1329a-118d-47bb-946b-14984c33e74d.mp4
 
 ```text
@@ -1313,7 +1313,7 @@ MY CHARACTER
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/bb64552c-6da0-4edc-b7b8-3e02612a2779.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/bb64552c-6da0-4edc-b7b8-3e02612a2779.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/bb64552c-6da0-4edc-b7b8-3e02612a2779.mp4
 
 ```text
@@ -1333,7 +1333,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3d808c8a-799b-4de7-a936-9ce6ebc499d3.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3d808c8a-799b-4de7-a936-9ce6ebc499d3.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/3d808c8a-799b-4de7-a936-9ce6ebc499d3.mp4
 
 ```text
@@ -1353,7 +1353,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/ca11c5a5-0a59-4d64-a363-a3c228a905d8.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/ca11c5a5-0a59-4d64-a363-a3c228a905d8.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/ca11c5a5-0a59-4d64-a363-a3c228a905d8.mp4
 
 ```text
@@ -1373,7 +1373,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9bebf76a-84f3-4592-9a7c-47847230a9ca.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9bebf76a-84f3-4592-9a7c-47847230a9ca.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/9bebf76a-84f3-4592-9a7c-47847230a9ca.mp4
 
 ```text
@@ -1393,7 +1393,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/5c73e282-c534-47aa-afcb-35364aa21e0d.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/5c73e282-c534-47aa-afcb-35364aa21e0d.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/5c73e282-c534-47aa-afcb-35364aa21e0d.mp4
 
 ```text
@@ -1413,7 +1413,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/8e8379d5-c2a5-4926-b00b-aa4fa061807a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/8e8379d5-c2a5-4926-b00b-aa4fa061807a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/8e8379d5-c2a5-4926-b00b-aa4fa061807a.mp4
 
 ```text
@@ -1433,7 +1433,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6b78ace1-1c22-4195-ba8d-f67eb6dc9b4c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6b78ace1-1c22-4195-ba8d-f67eb6dc9b4c.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/6b78ace1-1c22-4195-ba8d-f67eb6dc9b4c.mp4
 
 ```text
@@ -1453,7 +1453,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/cef8c532-b733-43f2-8bc0-3ad0930865d0.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/cef8c532-b733-43f2-8bc0-3ad0930865d0.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/cef8c532-b733-43f2-8bc0-3ad0930865d0.mp4
 
 ```text
@@ -1473,7 +1473,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/641fc2de-b72a-4e3d-8dde-aa1ae8e94578.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/641fc2de-b72a-4e3d-8dde-aa1ae8e94578.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/641fc2de-b72a-4e3d-8dde-aa1ae8e94578.mp4
 
 ```text
@@ -1493,7 +1493,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/855ca2df-e455-42af-8f0c-ea9523c821bd.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/855ca2df-e455-42af-8f0c-ea9523c821bd.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/855ca2df-e455-42af-8f0c-ea9523c821bd.mp4
 
 ```text
@@ -1513,7 +1513,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/7d876b68-a77b-4da5-b510-0285181c6a39.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/7d876b68-a77b-4da5-b510-0285181c6a39.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/7d876b68-a77b-4da5-b510-0285181c6a39.mp4
 
 ```text
@@ -1533,7 +1533,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/94283593d386b25e8ea28a0ad055573ce5bd0389b9b02d87b9178d92bbb0fe4f
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/94283593d386b25e8ea28a0ad055573ce5bd0389b9b02d87b9178d92bbb0fe4f (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1552,7 +1552,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6dcead8a-bd1e-4de3-813c-a4a67417a547.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6dcead8a-bd1e-4de3-813c-a4a67417a547.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/6dcead8a-bd1e-4de3-813c-a4a67417a547.mp4
 
 ```text
@@ -1574,7 +1574,7 @@ You are the Main Character edit agent of Katana Studio. The user gives ONE photo
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/ae8059c55b7801cf9093256f977f2d5f1c0ccd1ef73c390a9c50e900de1bb682
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/ae8059c55b7801cf9093256f977f2d5f1c0ccd1ef73c390a9c50e900de1bb682 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1593,7 +1593,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2ac31c233ffedac58af1ac5923269802b79d86a76c68aa4b2388e22be9573d0c
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2ac31c233ffedac58af1ac5923269802b79d86a76c68aa4b2388e22be9573d0c (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1612,7 +1612,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2d62b7adae19369b1bb267b2a1e1a1b15857eaa3e6090c67b8aeea2bab5b0dda
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2d62b7adae19369b1bb267b2a1e1a1b15857eaa3e6090c67b8aeea2bab5b0dda (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1631,7 +1631,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/7101a5e08c91f01bfb49733a0a326ab4a1b0b4f448af4ee6ba3dced1ee6843d6
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/7101a5e08c91f01bfb49733a0a326ab4a1b0b4f448af4ee6ba3dced1ee6843d6 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1650,7 +1650,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/0724d962-236f-43bb-8fe0-59c630908bfb.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/0724d962-236f-43bb-8fe0-59c630908bfb.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/0724d962-236f-43bb-8fe0-59c630908bfb.mp4
 
 ```text
@@ -1670,7 +1670,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/2c37c9c5-9fb7-4b5f-865f-a7346df01af4.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/2c37c9c5-9fb7-4b5f-865f-a7346df01af4.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/2c37c9c5-9fb7-4b5f-865f-a7346df01af4.mp4
 
 ```text
@@ -1690,7 +1690,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/dc15f08a-4aec-42b0-89fd-82e880a7c720.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/dc15f08a-4aec-42b0-89fd-82e880a7c720.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/dc15f08a-4aec-42b0-89fd-82e880a7c720.mp4
 
 ```text
@@ -1710,7 +1710,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/28c51a30-0608-4287-bacc-7b6e0a0783e2.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/28c51a30-0608-4287-bacc-7b6e0a0783e2.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/28c51a30-0608-4287-bacc-7b6e0a0783e2.mp4
 
 ```text
@@ -1730,7 +1730,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/7243e2db-c004-48a1-b19f-600ae5b25aef.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/7243e2db-c004-48a1-b19f-600ae5b25aef.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/7243e2db-c004-48a1-b19f-600ae5b25aef.mp4
 
 ```text
@@ -1750,7 +1750,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/739ce084-152c-4f9c-b823-4ef33547d3c4.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/739ce084-152c-4f9c-b823-4ef33547d3c4.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/739ce084-152c-4f9c-b823-4ef33547d3c4.mp4
 
 ```text
@@ -1770,7 +1770,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/719167f1-5027-4e66-b36d-9c511564d228.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/719167f1-5027-4e66-b36d-9c511564d228.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/719167f1-5027-4e66-b36d-9c511564d228.mp4
 
 ```text
@@ -1793,7 +1793,7 @@ What you get:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/68303bce-5293-4880-8a80-cacf13aa6ce4.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/68303bce-5293-4880-8a80-cacf13aa6ce4.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/68303bce-5293-4880-8a80-cacf13aa6ce4.mp4
 
 ```text
@@ -1813,7 +1813,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f78fc764-0175-448b-99e2-8f932c5f353a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f78fc764-0175-448b-99e2-8f932c5f353a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/f78fc764-0175-448b-99e2-8f932c5f353a.mp4
 
 ```text
@@ -1833,7 +1833,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/7c972057-b9bd-466b-877d-14cb57824f76.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/7c972057-b9bd-466b-877d-14cb57824f76.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/7c972057-b9bd-466b-877d-14cb57824f76.mp4
 
 ```text
@@ -1853,7 +1853,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3e885cc0-f75b-42fd-aa17-57fb5cacb1fa.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3e885cc0-f75b-42fd-aa17-57fb5cacb1fa.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/3e885cc0-f75b-42fd-aa17-57fb5cacb1fa.mp4
 
 ```text
@@ -1873,7 +1873,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2ba407dd132a3c13e43da270eb0d6040fbfdc61efe51c5408bee19e449722b1e
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2ba407dd132a3c13e43da270eb0d6040fbfdc61efe51c5408bee19e449722b1e (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1892,7 +1892,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/1a1de048-5bd1-45bb-8f80-31a7f3d2e5ce.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/1a1de048-5bd1-45bb-8f80-31a7f3d2e5ce.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/1a1de048-5bd1-45bb-8f80-31a7f3d2e5ce.mp4
 
 ```text
@@ -1916,7 +1916,7 @@ Every ido...
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/66f736a3-d965-4989-8b8b-69fc2ccc00b5.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/66f736a3-d965-4989-8b8b-69fc2ccc00b5.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/66f736a3-d965-4989-8b8b-69fc2ccc00b5.mp4
 
 ```text
@@ -1936,7 +1936,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/57a7b80e-eb0e-44e7-ab95-d7be47999128.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/57a7b80e-eb0e-44e7-ab95-d7be47999128.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/57a7b80e-eb0e-44e7-ab95-d7be47999128.mp4
 
 ```text
@@ -1956,7 +1956,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2c121c0ae6bc85229c511f0a3537cf0bed6823ff0de058305b1f48ac1497733f
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/2c121c0ae6bc85229c511f0a3537cf0bed6823ff0de058305b1f48ac1497733f (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -1975,7 +1975,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/a5bfdcb5-25d8-4a11-ba45-8cd8ee803d17.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/a5bfdcb5-25d8-4a11-ba45-8cd8ee803d17.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/a5bfdcb5-25d8-4a11-ba45-8cd8ee803d17.mp4
 
 ```text
@@ -1995,7 +1995,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/66c09734-44da-4f57-94b0-84e38f59c272.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/66c09734-44da-4f57-94b0-84e38f59c272.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/66c09734-44da-4f57-94b0-84e38f59c272.mp4
 
 ```text
@@ -2015,7 +2015,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/398c563787d5b3579a995d512628db372271b68eb23c366415ddee79841d2b49
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/398c563787d5b3579a995d512628db372271b68eb23c366415ddee79841d2b49 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -2034,7 +2034,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/e51ada30db40adcd3fa1e2befb438ec9f68cece1f8416b3b466522e3f563d823
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/e51ada30db40adcd3fa1e2befb438ec9f68cece1f8416b3b466522e3f563d823 (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -2053,7 +2053,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e8c601f3-e792-4c03-a85b-b6f695415220.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e8c601f3-e792-4c03-a85b-b6f695415220.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e8c601f3-e792-4c03-a85b-b6f695415220.mp4
 
 ```text
@@ -2073,7 +2073,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/c9dd2917-0e56-4c10-a805-5ff4137182bc.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/c9dd2917-0e56-4c10-a805-5ff4137182bc.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/c9dd2917-0e56-4c10-a805-5ff4137182bc.mp4
 
 ```text
@@ -2093,7 +2093,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6ad3a2d5-1e99-4936-a87c-b45e9a10d85a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6ad3a2d5-1e99-4936-a87c-b45e9a10d85a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/6ad3a2d5-1e99-4936-a87c-b45e9a10d85a.mp4
 
 ```text
@@ -2113,7 +2113,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/fdfab979-bfab-4b6b-8154-961ec4290b2c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/fdfab979-bfab-4b6b-8154-961ec4290b2c.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/fdfab979-bfab-4b6b-8154-961ec4290b2c.mp4
 
 ```text
@@ -2133,7 +2133,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/d5efd859-2c60-4e06-9197-8bb66e6e9af1.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/d5efd859-2c60-4e06-9197-8bb66e6e9af1.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/d5efd859-2c60-4e06-9197-8bb66e6e9af1.mp4
 
 ```text
@@ -2153,7 +2153,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f127b79e-0634-412d-ab9f-a52e7a54cb90.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f127b79e-0634-412d-ab9f-a52e7a54cb90.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/f127b79e-0634-412d-ab9f-a52e7a54cb90.mp4
 
 ```text
@@ -2173,7 +2173,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/a7c2bc28-b911-42a8-a9ac-0c6151a21324.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/a7c2bc28-b911-42a8-a9ac-0c6151a21324.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/a7c2bc28-b911-42a8-a9ac-0c6151a21324.mp4
 
 ```text
@@ -2193,7 +2193,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/c27b67f5-092a-40d3-990c-23ece2cde617.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/c27b67f5-092a-40d3-990c-23ece2cde617.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/c27b67f5-092a-40d3-990c-23ece2cde617.mp4
 
 ```text
@@ -2213,7 +2213,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/ff2f7c79-d17e-4dc3-973c-a61faa5eac7b.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/ff2f7c79-d17e-4dc3-973c-a61faa5eac7b.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/ff2f7c79-d17e-4dc3-973c-a61faa5eac7b.mp4
 
 ```text
@@ -2233,7 +2233,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f50591ad-c966-40a4-8a8f-ee43830526be.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f50591ad-c966-40a4-8a8f-ee43830526be.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/f50591ad-c966-40a4-8a8f-ee43830526be.mp4
 
 ```text
@@ -2253,7 +2253,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/5475ceef-1978-44b9-bda8-51ed512f0e71.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/5475ceef-1978-44b9-bda8-51ed512f0e71.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/5475ceef-1978-44b9-bda8-51ed512f0e71.mp4
 
 ```text
@@ -2273,7 +2273,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e564e105-5b32-42ba-a98c-2e01739c6c89.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e564e105-5b32-42ba-a98c-2e01739c6c89.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e564e105-5b32-42ba-a98c-2e01739c6c89.mp4
 
 ```text
@@ -2293,7 +2293,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e6588841-98fb-4486-a7d2-6d523fd52a07.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e6588841-98fb-4486-a7d2-6d523fd52a07.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e6588841-98fb-4486-a7d2-6d523fd52a07.mp4
 
 ```text
@@ -2313,7 +2313,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6acc5bfa-0b05-4394-a84d-dd947e56e68b.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6acc5bfa-0b05-4394-a84d-dd947e56e68b.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/6acc5bfa-0b05-4394-a84d-dd947e56e68b.mp4
 
 ```text
@@ -2333,7 +2333,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/85c34cd1-1bef-480a-aae8-9c19c9c9ff20.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/85c34cd1-1bef-480a-aae8-9c19c9c9ff20.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/85c34cd1-1bef-480a-aae8-9c19c9c9ff20.mp4
 
 ```text
@@ -2356,7 +2356,7 @@ One clear photo of one person: the user, or someone who agreed to it. No public 
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9866e21e-24a4-403b-b3bc-4b6a42b2c86d.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9866e21e-24a4-403b-b3bc-4b6a42b2c86d.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/9866e21e-24a4-403b-b3bc-4b6a42b2c86d.mp4
 
 ```text
@@ -2376,7 +2376,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e413efa9-557e-4f7a-80b5-2f46ef28cb1c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e413efa9-557e-4f7a-80b5-2f46ef28cb1c.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e413efa9-557e-4f7a-80b5-2f46ef28cb1c.mp4
 
 ```text
@@ -2396,7 +2396,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e5f2f911-d907-4059-b46d-7433bb13d81f.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e5f2f911-d907-4059-b46d-7433bb13d81f.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e5f2f911-d907-4059-b46d-7433bb13d81f.mp4
 
 ```text
@@ -2416,7 +2416,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/d6596e20-cb5b-4a0b-9305-03553168b20e.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/d6596e20-cb5b-4a0b-9305-03553168b20e.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/d6596e20-cb5b-4a0b-9305-03553168b20e.mp4
 
 ```text
@@ -2436,7 +2436,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f1d78226-c8e4-4553-9a07-49b53b42ba3c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f1d78226-c8e4-4553-9a07-49b53b42ba3c.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/f1d78226-c8e4-4553-9a07-49b53b42ba3c.mp4
 
 ```text
@@ -2456,7 +2456,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/b02b9e1b-9962-4efe-b3ff-8432871ad480.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/b02b9e1b-9962-4efe-b3ff-8432871ad480.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/b02b9e1b-9962-4efe-b3ff-8432871ad480.mp4
 
 ```text
@@ -2476,7 +2476,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/2c220b3b-60b2-4f45-beb4-24c02a1a4e4a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/2c220b3b-60b2-4f45-beb4-24c02a1a4e4a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/2c220b3b-60b2-4f45-beb4-24c02a1a4e4a.mp4
 
 ```text
@@ -2496,7 +2496,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3a2ab0a5-4a44-49c2-932d-78f4908d3632.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3a2ab0a5-4a44-49c2-932d-78f4908d3632.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/3a2ab0a5-4a44-49c2-932d-78f4908d3632.mp4
 
 ```text
@@ -2516,7 +2516,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/d3177975-d78f-4121-ba05-e880ce8eb835.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/d3177975-d78f-4121-ba05-e880ce8eb835.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/d3177975-d78f-4121-ba05-e880ce8eb835.mp4
 
 ```text
@@ -2536,7 +2536,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/11431a22-d477-4899-ad77-fdb3b3516983.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/11431a22-d477-4899-ad77-fdb3b3516983.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/11431a22-d477-4899-ad77-fdb3b3516983.mp4
 
 ```text
@@ -2556,7 +2556,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/1eb68ea299fd6f45f660066f0e6b51840bc8da17368f9075920229b850f2c9ab
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/1eb68ea299fd6f45f660066f0e6b51840bc8da17368f9075920229b850f2c9ab (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -2575,7 +2575,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3da70e81-b1cb-4647-a110-6aed91fff45b.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/3da70e81-b1cb-4647-a110-6aed91fff45b.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/3da70e81-b1cb-4647-a110-6aed91fff45b.mp4
 
 ```text
@@ -2595,7 +2595,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9e682907-323e-4547-b7ec-00012c8186eb.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/9e682907-323e-4547-b7ec-00012c8186eb.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/9e682907-323e-4547-b7ec-00012c8186eb.mp4
 
 ```text
@@ -2615,7 +2615,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/22e9c55a-4ca1-4e71-bba6-f8634dfc999e.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/22e9c55a-4ca1-4e71-bba6-f8634dfc999e.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/22e9c55a-4ca1-4e71-bba6-f8634dfc999e.mp4
 
 ```text
@@ -2639,7 +2639,7 @@ Look: bla...
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/dfca1617-29a0-43e2-a8b4-628790c63d0b.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/dfca1617-29a0-43e2-a8b4-628790c63d0b.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/dfca1617-29a0-43e2-a8b4-628790c63d0b.mp4
 
 ```text
@@ -2659,7 +2659,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/6be06618539225b9aef5ec3e3aa9e337fe5954801b1324c53660cc64597c42bb
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/6be06618539225b9aef5ec3e3aa9e337fe5954801b1324c53660cc64597c42bb (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -2678,7 +2678,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/44e90512-f20f-4b66-8702-604556c19fb6.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/44e90512-f20f-4b66-8702-604556c19fb6.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/44e90512-f20f-4b66-8702-604556c19fb6.mp4
 
 ```text
@@ -2698,7 +2698,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/553c4b6f-1535-40f3-9678-ad93be50ff12.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/553c4b6f-1535-40f3-9678-ad93be50ff12.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/553c4b6f-1535-40f3-9678-ad93be50ff12.mp4
 
 ```text
@@ -2718,7 +2718,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f9c9b4b6-c70e-41f5-877b-4ca08e380190.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/f9c9b4b6-c70e-41f5-877b-4ca08e380190.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/f9c9b4b6-c70e-41f5-877b-4ca08e380190.mp4
 
 ```text
@@ -2738,7 +2738,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/d7f7d85efa96e2f6436ae34223c8730208f366f8cbeaa1057067f9f4d263eebe
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/published/d7f7d85efa96e2f6436ae34223c8730208f366f8cbeaa1057067f9f4d263eebe (Audio Included)
 
 ```text
 Commercial remake: Keep the exact camera choreography, speed curve, and timing of the reference video.
@@ -2757,7 +2757,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul 2.0 / GPT Image 2.5
 - **Video Model:** Katana Video Engine / Seedance
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/4db354f3-c9e8-4666-a486-4b270ae58170.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/4db354f3-c9e8-4666-a486-4b270ae58170.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/4db354f3-c9e8-4666-a486-4b270ae58170.mp4
 
 ```text
@@ -2777,7 +2777,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6c3ad48f-9a0d-4498-85b8-1aa5e13517a5.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/6c3ad48f-9a0d-4498-85b8-1aa5e13517a5.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/6c3ad48f-9a0d-4498-85b8-1aa5e13517a5.mp4
 
 ```text
@@ -2797,7 +2797,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/bc07bacd-c66b-4bf9-a33e-692ea6e8e1a2.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/bc07bacd-c66b-4bf9-a33e-692ea6e8e1a2.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/bc07bacd-c66b-4bf9-a33e-692ea6e8e1a2.mp4
 
 ```text
@@ -2817,7 +2817,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/5847c4dc-7250-4127-90f3-c82c4e7f250c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/5847c4dc-7250-4127-90f3-c82c4e7f250c.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/5847c4dc-7250-4127-90f3-c82c4e7f250c.mp4
 
 ```text
@@ -2837,7 +2837,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e2996545-5c8b-46e8-adcc-db8619468d7a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e2996545-5c8b-46e8-adcc-db8619468d7a.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e2996545-5c8b-46e8-adcc-db8619468d7a.mp4
 
 ```text
@@ -2857,7 +2857,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/a218df8a-148a-4008-aa96-0d5edffe6424.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/a218df8a-148a-4008-aa96-0d5edffe6424.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/a218df8a-148a-4008-aa96-0d5edffe6424.mp4
 
 ```text
@@ -2877,7 +2877,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/426c2e5f-4623-43fe-afae-1177b41b9e73.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/426c2e5f-4623-43fe-afae-1177b41b9e73.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/426c2e5f-4623-43fe-afae-1177b41b9e73.mp4
 
 ```text
@@ -2897,7 +2897,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/fc502cca-0a24-44cf-a49c-fa0ee789f4e9.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/fc502cca-0a24-44cf-a49c-fa0ee789f4e9.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/fc502cca-0a24-44cf-a49c-fa0ee789f4e9.mp4
 
 ```text
@@ -2917,7 +2917,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/fe297980-d454-48a6-afa7-91df1a0fea0b.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/fe297980-d454-48a6-afa7-91df1a0fea0b.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/fe297980-d454-48a6-afa7-91df1a0fea0b.mp4
 
 ```text
@@ -2938,7 +2938,7 @@ You are the Noir Cover edit agent (Katana Studio preset /katana/noir-cover). The
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/cf0302c6-91b6-47b1-ba9d-ebaa9c6bc182.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/cf0302c6-91b6-47b1-ba9d-ebaa9c6bc182.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/cf0302c6-91b6-47b1-ba9d-ebaa9c6bc182.mp4
 
 ```text
@@ -2958,7 +2958,7 @@ Subject & Product Replacement:
 - **Image Model:** Soul Cinema / Midjourney
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `9:16 (720x1280)` | Duration `5s–10s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e33ada7e-860f-44c1-9764-1a986b1abd6c.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/katana-presets/e33ada7e-860f-44c1-9764-1a986b1abd6c.mp4 (Audio Included)
 - **Input Reference Video:** https://static-public-media.higgsfield.ai/katana-presets/e33ada7e-860f-44c1-9764-1a986b1abd6c.mp4
 
 ```text
@@ -3732,7 +3732,7 @@ General Katana: no preset was chosen. Recreate the user's reference video shot f
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/367643d9-3fc5-43ae-aef5-0eeffd18d794-382ee9b9d34ccc3d.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/367643d9-3fc5-43ae-aef5-0eeffd18d794-382ee9b9d34ccc3d.mp4 (Audio Included)
 - **Preview Image:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_preset_thumbnails/367643d9-3fc5-43ae-aef5-0eeffd18d794-851b8c239f2ed097.jpg
 
 ```text
@@ -3755,7 +3755,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/c2cd50eb-3594-43c0-9c22-464af4316157-b49675a17d63aca7.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/c2cd50eb-3594-43c0-9c22-464af4316157-b49675a17d63aca7.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260412_001025_266abd8c-886a-47e6-9959-6371f3b5f840_thumbnail.webp
 
 ```text
@@ -3778,7 +3778,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/6eaef5bc-d7e0-495d-a64f-f4bd8bf8f6cd-efa7a02a7c17ec9f.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/6eaef5bc-d7e0-495d-a64f-f4bd8bf8f6cd-efa7a02a7c17ec9f.mp4 (Audio Included)
 - **Preview Image:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_preset_thumbnails/6eaef5bc-d7e0-495d-a64f-f4bd8bf8f6cd-87ab30f3c945e3be.jpg
 
 ```text
@@ -3801,7 +3801,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/a9af9e6c-f2ca-4bc6-8681-bb8e132a0af3-90973eabda978417.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/a9af9e6c-f2ca-4bc6-8681-bb8e132a0af3-90973eabda978417.mp4 (Audio Included)
 - **Preview Image:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_preset_thumbnails/a9af9e6c-f2ca-4bc6-8681-bb8e132a0af3-685ceb1fb93b1eee.jpg
 
 ```text
@@ -3824,7 +3824,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/2c90d936-07e9-4f0e-a0eb-fb7cdbf48228-8b28bde63ae889a5.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/2c90d936-07e9-4f0e-a0eb-fb7cdbf48228-8b28bde63ae889a5.mp4 (Audio Included)
 - **Preview Image:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_preset_thumbnails/2c90d936-07e9-4f0e-a0eb-fb7cdbf48228-e8f082e101b9b1b3.jpg
 
 ```text
@@ -3847,7 +3847,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/8ed3bce7-94b5-4a00-bea5-7139e34cf014-bb64d10c97a4e13b.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/8ed3bce7-94b5-4a00-bea5-7139e34cf014-bb64d10c97a4e13b.mp4 (Audio Included)
 - **Preview Image:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_preset_thumbnails/8ed3bce7-94b5-4a00-bea5-7139e34cf014-2ec0b9c1d3add96e.jpg
 
 ```text
@@ -3870,7 +3870,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/1fccd1d4-d9d5-4cbd-b7fd-76c1d2248922-a2a3d1fe03c105b2.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/1fccd1d4-d9d5-4cbd-b7fd-76c1d2248922-a2a3d1fe03c105b2.mp4 (Audio Included)
 - **Preview Image:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_preset_thumbnails/1fccd1d4-d9d5-4cbd-b7fd-76c1d2248922-ba4eb402c8f12d73.jpg
 
 ```text
@@ -3893,7 +3893,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 (Character & Product Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Direct-Response Engine)
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/05e63662-74e6-48e2-9233-327139c5c9d6-76c94e176e33934f.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/marketing_studio_video_preset/05e63662-74e6-48e2-9233-327139c5c9d6-76c94e176e33934f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/user_2vtxM3DRcDcQIjpmiCpUDF2wcAT/hf_20260413_134418_6d688d5f-a19e-453c-95ac-72829a69a19b_thumbnail.webp
 
 ```text
@@ -3916,7 +3916,7 @@ Audio & Performance: Authentic spoken dialogue with natural room tone: "(Spoken 
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a6bd1da8-b768-425e-beb6-821075efbc2e-6748bfc5a91afbfc.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a6bd1da8-b768-425e-beb6-821075efbc2e-6748bfc5a91afbfc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260604_001524_97ecfb10-b20e-46a8-b2ce-2104dd612f08_thumbnail.webp
 
 ```text
@@ -3935,7 +3935,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/9f8bc173-e29a-4fa9-8809-4f6ba0475974-74d89c050f6fa165.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/9f8bc173-e29a-4fa9-8809-4f6ba0475974-74d89c050f6fa165.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260413_133035_bf1fbde5-d95a-4c23-907d-df9c475f948f_thumbnail.webp
 
 ```text
@@ -3954,7 +3954,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5d920c0b-523d-443f-b122-a09de57d66f7-7421d168255a357a.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5d920c0b-523d-443f-b122-a09de57d66f7-7421d168255a357a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_153723_6b1bb39e-dd94-43fc-9fe8-007a658e49a5_thumbnail.webp
 
 ```text
@@ -3973,7 +3973,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/ecf14de6-a542-4c31-88dc-096abb95e108-3a58c709f0d2555e.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/ecf14de6-a542-4c31-88dc-096abb95e108-3a58c709f0d2555e.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/ecf14de6-a542-4c31-88dc-096abb95e108-2aba61554bf94b2e.jpg
 
 ```text
@@ -3992,7 +3992,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/109d5cef-9e70-46ac-ad42-f235ccce7840-79df93c1a7b7ec28.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/109d5cef-9e70-46ac-ad42-f235ccce7840-79df93c1a7b7ec28.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3E2rnQvU0fCTk5iGN1MMbzgiYer/hf_20260604_151251_092a48c7-4867-41ca-8d63-dfb1526785fb_thumbnail.webp
 
 ```text
@@ -4011,7 +4011,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/775ac6dc-a83d-4c4e-a11a-69d9f8cd43d5-3aa4479f2fdb479b.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/775ac6dc-a83d-4c4e-a11a-69d9f8cd43d5-3aa4479f2fdb479b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260413_143526_2f7b5dac-e0f6-4515-a534-9831f7ba01db_thumbnail.webp
 
 ```text
@@ -4030,7 +4030,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/02af8f7c-40cc-4dd5-ad32-7386a2e05e9b-0a3a8105eec7de9c.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/02af8f7c-40cc-4dd5-ad32-7386a2e05e9b-0a3a8105eec7de9c.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/02af8f7c-40cc-4dd5-ad32-7386a2e05e9b-fecc1782077ca2cb.jpg
 
 ```text
@@ -4049,7 +4049,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a254d42a-4d6d-4787-b973-a4a579994543-74ea5a90c5936b4c.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a254d42a-4d6d-4787-b973-a4a579994543-74ea5a90c5936b4c.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/a254d42a-4d6d-4787-b973-a4a579994543-5bca179d395511e7.jpg
 
 ```text
@@ -4068,7 +4068,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/0376d63f-7fcb-4622-bdd0-4dc700d44cc6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/0376d63f-7fcb-4622-bdd0-4dc700d44cc6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/672b7bc8-fd7e-48ef-954f-f194b83eb1ba.webp
 
 ```text
@@ -4087,7 +4087,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/51abda56-a0dc-4f20-821a-68af7d55ca84-b10fa35bfc565cc9.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/51abda56-a0dc-4f20-821a-68af7d55ca84-b10fa35bfc565cc9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260505_015725_c13394e1-02c4-48fe-9d61-94f340d0e7f4_thumbnail.webp
 
 ```text
@@ -4106,7 +4106,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/62848384-ca64-46c0-87c0-c0b1fcc5df11-379f1af60b6068c1.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/62848384-ca64-46c0-87c0-c0b1fcc5df11-379f1af60b6068c1.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/62848384-ca64-46c0-87c0-c0b1fcc5df11-39a9685211767250.jpg
 
 ```text
@@ -4125,7 +4125,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/310818fe-e1af-4e3c-a8c2-3d4a3579365f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/310818fe-e1af-4e3c-a8c2-3d4a3579365f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/f7d72731-0188-4897-ab2b-642465dbe028.webp
 
 ```text
@@ -4144,7 +4144,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/fa59cefc-551a-4671-b9f4-82baf84dbb15-554ca3f7a2c6f9ee.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/fa59cefc-551a-4671-b9f4-82baf84dbb15-554ca3f7a2c6f9ee.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/fa59cefc-551a-4671-b9f4-82baf84dbb15-d642e5932824a6ad.jpg
 
 ```text
@@ -4163,7 +4163,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/913b0ed2-bbbb-4626-a491-e9335d250eaf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/913b0ed2-bbbb-4626-a491-e9335d250eaf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/08a663fb-690b-4f57-8b3a-2bf8ab1f4480.webp
 
 ```text
@@ -4182,7 +4182,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/381965b9-5d4b-4e6a-a9a1-be94a6cbb66d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/381965b9-5d4b-4e6a-a9a1-be94a6cbb66d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/e30feee4-f9b5-4e9e-8967-d9d6ff34acd4.webp
 
 ```text
@@ -4201,7 +4201,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0627403d-b57c-47aa-a47b-7f10447be69c-33f74d5af0f51747.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0627403d-b57c-47aa-a47b-7f10447be69c-33f74d5af0f51747.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260413_203359_a3ddd081-b850-482f-903e-b841a7d6979d_thumbnail.webp
 
 ```text
@@ -4220,7 +4220,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/e106fdf3-b64d-4d85-867c-47fe5b9dc381.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/e106fdf3-b64d-4d85-867c-47fe5b9dc381.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/7f0ec32b-3a26-45fc-8e5c-9d2fea8fde87.webp
 
 ```text
@@ -4239,7 +4239,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/b46b6584-a4c7-4228-8b51-927e1aebcfed.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/b46b6584-a4c7-4228-8b51-927e1aebcfed.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/677036e5-bd7f-4258-8429-5a98a93569c4.webp
 
 ```text
@@ -4258,7 +4258,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/868ca5a9-cf6f-460a-959b-76706deee95b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/868ca5a9-cf6f-460a-959b-76706deee95b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/88b9bcda-4ac3-4170-bbc4-4f827c8193b7.webp
 
 ```text
@@ -4277,7 +4277,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/81a3aed0-6db5-4c8f-9f56-8aab62e81b22.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/81a3aed0-6db5-4c8f-9f56-8aab62e81b22.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/af91a3e3-6667-404d-ab20-ba653178661b.webp
 
 ```text
@@ -4296,7 +4296,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/6b1698c1-5f82-4854-8a32-de3807618082.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing_studio_setup/6b1698c1-5f82-4854-8a32-de3807618082.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing_studio_setup/e0df1fee-1988-456e-87af-56aa4cf2866a.webp
 
 ```text
@@ -4315,7 +4315,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `12s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/3787dd10-0ef2-4645-86ba-1ddd02400b8a-da50f8793349baaf.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/3787dd10-0ef2-4645-86ba-1ddd02400b8a-da50f8793349baaf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3BtuMjeO56IlCCzTiD419c4NiyM/hf_20260624_183244_955a1931-cc53-4166-8c7f-70d31310e10c_thumbnail.webp
 
 ```text
@@ -4334,7 +4334,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a6573c52-5fd3-4428-aa1f-7443a56916a0-c790a16244fe2bce.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a6573c52-5fd3-4428-aa1f-7443a56916a0-c790a16244fe2bce.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3CIjqzTsrKEUr8OzFBaYO4ux3nG/hf_20260413_121933_7dfa9582-a536-4a83-9041-ee5aa102ff8c_thumbnail.webp
 
 ```text
@@ -4353,7 +4353,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `6s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/68a696dc-2c2e-43b1-b285-511c8783db1f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/68a696dc-2c2e-43b1-b285-511c8783db1f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/eb685bb2-9aa9-42e1-bd9f-3296a5b7eae9.webp
 
 ```text
@@ -4372,7 +4372,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/353daae1-e520-486b-b7d5-83f026169305.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/353daae1-e520-486b-b7d5-83f026169305.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/510e9364-771a-43f0-b8ca-9bd36deed0ab.webp
 
 ```text
@@ -4391,7 +4391,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/db4f2714-5085-4759-84f4-0e1596ed8d7e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/db4f2714-5085-4759-84f4-0e1596ed8d7e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/6689a046-0e6f-42af-a5c4-9150e750afc4.webp
 
 ```text
@@ -4410,7 +4410,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aa30e50f-b348-4147-8f8d-c5871f1940a5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aa30e50f-b348-4147-8f8d-c5871f1940a5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/3084e5b8-1830-46c8-b4df-664c839bb127.webp
 
 ```text
@@ -4429,7 +4429,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aef59e19-f388-4dcc-b55a-e43a5c48c835.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aef59e19-f388-4dcc-b55a-e43a5c48c835.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/6b262d6f-bd0d-4c88-8998-26c2535d88e4.webp
 
 ```text
@@ -4448,7 +4448,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/04f54ce5-c138-46f9-b3ff-9326d1383ca3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/04f54ce5-c138-46f9-b3ff-9326d1383ca3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/f08c6579-641f-49c1-bb01-e519b1c14ce2.webp
 
 ```text
@@ -4467,7 +4467,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/458431c6-813b-42b2-9adc-bbf380d8c106.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/458431c6-813b-42b2-9adc-bbf380d8c106.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/0e29eeeb-0133-4551-965f-3ff0c10b4da1.webp
 
 ```text
@@ -4486,7 +4486,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/e4e200ac-d0e6-44c8-b12c-b755ed1c39b9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/e4e200ac-d0e6-44c8-b12c-b755ed1c39b9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/a59d40b8-6f55-479c-a800-45482e4ff528.webp
 
 ```text
@@ -4505,7 +4505,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Soul 2.0 / Flux.1 Commercial
 - **Video Model:** Seedance 2.5 / Katana Commercial Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e605ef6c-8b3a-4a66-aba1-21b5ddd90e72.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e605ef6c-8b3a-4a66-aba1-21b5ddd90e72.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/6859e710-1e34-428e-b6f9-45b67ad8fa51.webp
 
 ```text
@@ -4524,7 +4524,7 @@ Audio & Performance: Natural spoken product audio: "(Product script/voiceover)".
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c166ec04-b94e-4522-8996-415a1df72a39.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c166ec04-b94e-4522-8996-415a1df72a39.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d8cdff64-bad9-4f41-85ba-d7d66d60eb82.webp
 
 ```text
@@ -4540,7 +4540,7 @@ Commercial marketing motion video ("3D Fur") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0899b11-b706-43d5-850f-9d71c44e5db1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0899b11-b706-43d5-850f-9d71c44e5db1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/43b636c3-1bbb-4c6c-8733-a39094c1a77f.webp
 
 ```text
@@ -4556,7 +4556,7 @@ Commercial marketing motion video ("Echo Wave") featuring (the product from the 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e605ef6c-8b3a-4a66-aba1-21b5ddd90e72.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e605ef6c-8b3a-4a66-aba1-21b5ddd90e72.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6859e710-1e34-428e-b6f9-45b67ad8fa51.webp
 
 ```text
@@ -4572,7 +4572,7 @@ Commercial marketing motion video ("Color Wipes") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/04f54ce5-c138-46f9-b3ff-9326d1383ca3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/04f54ce5-c138-46f9-b3ff-9326d1383ca3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f08c6579-641f-49c1-bb01-e519b1c14ce2.webp
 
 ```text
@@ -4588,7 +4588,7 @@ Commercial marketing motion video ("Pastel Float") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ebc2e460-9324-4241-a4ac-6bba19ad0084.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ebc2e460-9324-4241-a4ac-6bba19ad0084.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c49bf307-e63a-41e6-9287-98662b4c3f17.webp
 
 ```text
@@ -4604,7 +4604,7 @@ Commercial marketing motion video ("Halftone Street Collage") featuring (the pro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7e1cfc0e-89d1-41c6-8260-de09a8132183.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7e1cfc0e-89d1-41c6-8260-de09a8132183.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/90166c4c-a989-4d1b-a0dd-947470efaa64.webp
 
 ```text
@@ -4620,7 +4620,7 @@ Commercial marketing motion video ("Magnet") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e5cbf89c-209b-4045-8471-407c20ddd700.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e5cbf89c-209b-4045-8471-407c20ddd700.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/26087df7-c192-42ed-bdd1-f2cea69c8393.webp
 
 ```text
@@ -4636,7 +4636,7 @@ Commercial marketing motion video ("Ukiyo-e Paper Waves") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aeb9239a-f83b-4958-825f-f95c3a197896.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aeb9239a-f83b-4958-825f-f95c3a197896.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/db367bc3-0846-49c0-80a5-3085bd7261bf.webp
 
 ```text
@@ -4652,7 +4652,7 @@ Commercial marketing motion video ("Flat Beat") featuring (the product from the 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2270a163-40c5-4908-a3bc-bb18807d85fd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2270a163-40c5-4908-a3bc-bb18807d85fd.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e019f474-3be9-40db-b960-bbb699c0454e.webp
 
 ```text
@@ -4668,7 +4668,7 @@ Commercial marketing motion video ("Candy Color Swap") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/68a696dc-2c2e-43b1-b285-511c8783db1f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/68a696dc-2c2e-43b1-b285-511c8783db1f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/eb685bb2-9aa9-42e1-bd9f-3296a5b7eae9.webp
 
 ```text
@@ -4684,7 +4684,7 @@ Commercial marketing motion video ("Green Tea Macro") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3de9b4cf-32ed-46c0-a95e-465db8e34409.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3de9b4cf-32ed-46c0-a95e-465db8e34409.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5582e92c-1f0e-488b-a9f3-f3bd9981bc9c.webp
 
 ```text
@@ -4700,7 +4700,7 @@ Commercial marketing motion video ("Dynamic") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0a30c63a-1dbc-4217-b15c-ebad1c1ca3cb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0a30c63a-1dbc-4217-b15c-ebad1c1ca3cb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a8cb818a-9270-4845-ba57-1a3542d3fb86.webp
 
 ```text
@@ -4716,7 +4716,7 @@ Commercial marketing motion video ("Break Typography") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/663fb841-c825-45ca-b766-d600300471a8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/663fb841-c825-45ca-b766-d600300471a8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fbd02deb-af33-4947-bc51-bd3f09ba15c5.webp
 
 ```text
@@ -4732,7 +4732,7 @@ Commercial marketing motion video ("Taped Zine Collage") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a051fa69-b61b-42b7-a3d1-8c009e0105fe.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a051fa69-b61b-42b7-a3d1-8c009e0105fe.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b7b2d578-844b-44d4-93ae-07f4bda24e25.webp
 
 ```text
@@ -4748,7 +4748,7 @@ Commercial marketing motion video ("Smooth Wipes") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/00c04fbc-90bf-47f8-bc3a-ee47660711bb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/00c04fbc-90bf-47f8-bc3a-ee47660711bb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/65363151-03f5-43e5-a1c7-2c8b721afbb2.webp
 
 ```text
@@ -4764,7 +4764,7 @@ Commercial marketing motion video ("Japanese Glistening Water") featuring (the p
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a9c8bc31-ff80-4f43-8e64-293671999d67.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a9c8bc31-ff80-4f43-8e64-293671999d67.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/76d385b0-543e-486b-b615-66a408c4f401.webp
 
 ```text
@@ -4780,7 +4780,7 @@ Commercial marketing motion video ("Bubble Bead Dopamine") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/af2f10cf-8cf4-4f8c-a8ad-9e19aaf9ea1c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/af2f10cf-8cf4-4f8c-a8ad-9e19aaf9ea1c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f3efe210-3d1f-4de6-8f26-215008ed4155.webp
 
 ```text
@@ -4796,7 +4796,7 @@ Commercial marketing motion video ("Amber Resin Monotone") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/296de9e5-5f95-4ea0-ad73-fc2de6f2d695.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/296de9e5-5f95-4ea0-ad73-fc2de6f2d695.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f11ad464-10b5-4b13-8bc7-b1ef26fc623d.webp
 
 ```text
@@ -4812,7 +4812,7 @@ Commercial marketing motion video ("Jelly Beach Picnic") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3b9279ef-e8b2-481d-b1ca-b77da9d1d39f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3b9279ef-e8b2-481d-b1ca-b77da9d1d39f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/52c414be-8ed6-4177-bea1-cf3820ed78e6.webp
 
 ```text
@@ -4828,7 +4828,7 @@ Commercial marketing motion video ("Sunlit Vintage") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c8a03e64-4235-45c6-ac9b-dda8bdfff77f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c8a03e64-4235-45c6-ac9b-dda8bdfff77f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1bd5aec4-c071-4306-9ff9-ae7c78c82b12.webp
 
 ```text
@@ -4844,7 +4844,7 @@ Commercial marketing motion video ("Pink Balloons") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b9e46701-595f-4e99-ad34-f1e307720617.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b9e46701-595f-4e99-ad34-f1e307720617.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/82d2ced7-37b2-4e75-9cee-457f54e7e0e6.webp
 
 ```text
@@ -4860,7 +4860,7 @@ Commercial marketing motion video ("Y2K Fruit Tabloid") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cdda23a2-61e0-430d-bc0c-6b13076c8469.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cdda23a2-61e0-430d-bc0c-6b13076c8469.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/20f01939-36df-42e4-aac5-7d5b326a05b1.webp
 
 ```text
@@ -4876,7 +4876,7 @@ Commercial marketing motion video ("Push In") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ceed4b26-b7f5-4557-9221-510263d4b976.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ceed4b26-b7f5-4557-9221-510263d4b976.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/63f2a3c3-6d6d-4a43-9506-623253c1df7b.webp
 
 ```text
@@ -4892,7 +4892,7 @@ Commercial marketing motion video ("Illustration") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0a73c66-3991-434e-9dd5-05c2bb645cb8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0a73c66-3991-434e-9dd5-05c2bb645cb8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e9f9b5cc-e20d-4f9e-8de2-c06f9a9365f0.webp
 
 ```text
@@ -4908,7 +4908,7 @@ Commercial marketing motion video ("Corners Lines") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/020c32df-b0fc-4313-be18-21c8888357eb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/020c32df-b0fc-4313-be18-21c8888357eb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/36f2324a-c3e2-47ee-a187-af1bae30707b.webp
 
 ```text
@@ -4924,7 +4924,7 @@ Commercial marketing motion video ("Quantum") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/24f13557-7d7c-476f-bd84-587591bd9854.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/24f13557-7d7c-476f-bd84-587591bd9854.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0edc745b-0f80-420e-95cb-0625af86f8e9.webp
 
 ```text
@@ -4940,7 +4940,7 @@ Commercial marketing motion video ("Transluscent") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/24d51c3b-48ef-4fa6-a43e-0346324ab996.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/24d51c3b-48ef-4fa6-a43e-0346324ab996.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/00e3b71b-7ed6-4d16-92e4-2ccd383aba76.webp
 
 ```text
@@ -4956,7 +4956,7 @@ Commercial marketing motion video ("Flip Board") featuring (the product from the
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cfc95b2f-e340-4c68-88e2-228ce9691142.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cfc95b2f-e340-4c68-88e2-228ce9691142.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/99dc1bc6-1e97-4fc2-be76-dbc790da10cb.webp
 
 ```text
@@ -4972,7 +4972,7 @@ Commercial marketing motion video ("Corners Pop") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4f850ef0-78aa-4df9-bb60-cb32e12c6672.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4f850ef0-78aa-4df9-bb60-cb32e12c6672.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/575c7b95-204f-40cf-bb35-20ce47dc03a7.webp
 
 ```text
@@ -4988,7 +4988,7 @@ Commercial marketing motion video ("Xerox Meme Window") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/94c893b0-a2a7-492f-ab31-0975c348685c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/94c893b0-a2a7-492f-ab31-0975c348685c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ad2abb56-32fa-417e-aee1-db8bea0641d3.webp
 
 ```text
@@ -5004,7 +5004,7 @@ Commercial marketing motion video ("Rhytmic") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/18bbd999-1cf7-429d-9e1d-67acf7d8769f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/18bbd999-1cf7-429d-9e1d-67acf7d8769f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/dfc7e9de-4887-455c-a54b-5de5b6cc4eab.webp
 
 ```text
@@ -5020,7 +5020,7 @@ Commercial marketing motion video ("90s Bedroom CRT") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cf72647e-d80a-4d9b-bf1d-c09373fc43cb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cf72647e-d80a-4d9b-bf1d-c09373fc43cb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d4e0bd4c-e2cf-4205-b7f1-25bb6a03f21d.webp
 
 ```text
@@ -5036,7 +5036,7 @@ Commercial marketing motion video ("Atomic") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/742a9540-c728-4f89-921e-bed6bc6079ca.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/742a9540-c728-4f89-921e-bed6bc6079ca.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/518bd217-607f-4776-8fbd-239fd5ac625c.webp
 
 ```text
@@ -5052,7 +5052,7 @@ Commercial marketing motion video ("Fuzzy Hair") featuring (the product from the
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a7990c66-84ae-4b2b-9dea-6cf7c13b40c8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a7990c66-84ae-4b2b-9dea-6cf7c13b40c8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6ec61bf2-7c3b-4932-a691-00fa4afd8075.webp
 
 ```text
@@ -5068,7 +5068,7 @@ Commercial marketing motion video ("Aurora SaaS") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7cc794df-52b8-48de-b3e2-376da8533856.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7cc794df-52b8-48de-b3e2-376da8533856.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2b951a33-1d50-4f67-b2d8-11ed0ae030fe.webp
 
 ```text
@@ -5084,7 +5084,7 @@ Commercial marketing motion video ("Word Roll") featuring (the product from the 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/71ccce54-b055-4605-914a-9630ef3bccce.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/71ccce54-b055-4605-914a-9630ef3bccce.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a2a71eb9-c667-490b-9dfb-e612fbae9fbd.webp
 
 ```text
@@ -5100,7 +5100,7 @@ Commercial marketing motion video ("Acid Graphic") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a900d461-d53c-4961-af4d-70d1fedaba4d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a900d461-d53c-4961-af4d-70d1fedaba4d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c29912df-6121-4658-9b63-a424bf81369d.webp
 
 ```text
@@ -5116,7 +5116,7 @@ Commercial marketing motion video ("Shutter Bands") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/bb67e64c-4225-48cf-b75c-e8dab84d79f2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/bb67e64c-4225-48cf-b75c-e8dab84d79f2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c70c295a-364d-4437-93f9-1dbc397132ad.webp
 
 ```text
@@ -5132,7 +5132,7 @@ Commercial marketing motion video ("One Bit") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1045529b-07b3-4005-8e4d-417458c7d12c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1045529b-07b3-4005-8e4d-417458c7d12c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ec0424b9-a920-4183-8625-e66171e863ba.webp
 
 ```text
@@ -5148,7 +5148,7 @@ Commercial marketing motion video ("Adapts") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9857262f-fa77-4ce0-8e15-dda486f461e1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9857262f-fa77-4ce0-8e15-dda486f461e1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0aa161b1-2ed2-493b-9f77-dca4d17928bd.webp
 
 ```text
@@ -5164,7 +5164,7 @@ Commercial marketing motion video ("Relight") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ccfb80f8-6165-4083-956c-769297328726.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ccfb80f8-6165-4083-956c-769297328726.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6a273d45-a38a-4faa-a586-d396791a924f.webp
 
 ```text
@@ -5180,7 +5180,7 @@ Commercial marketing motion video ("Frames") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8ed54bbe-5593-407b-a2be-24dec587909d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8ed54bbe-5593-407b-a2be-24dec587909d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/acf11351-e602-41d8-8d2b-e8c8a28c5272.webp
 
 ```text
@@ -5196,7 +5196,7 @@ Commercial marketing motion video ("PC Flat") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0e664de8-15a5-45fc-b420-3ea286115462.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0e664de8-15a5-45fc-b420-3ea286115462.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/afa4e42a-7a5e-4fce-b722-d9f0422fc709.webp
 
 ```text
@@ -5212,7 +5212,7 @@ Commercial marketing motion video ("Masks") featuring (the product from the refe
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/458431c6-813b-42b2-9adc-bbf380d8c106.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/458431c6-813b-42b2-9adc-bbf380d8c106.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0e29eeeb-0133-4551-965f-3ff0c10b4da1.webp
 
 ```text
@@ -5228,7 +5228,7 @@ Commercial marketing motion video ("Wheatpaste Wall") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a8af3983-fa95-4c58-994a-3f21d3f3f8f5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a8af3983-fa95-4c58-994a-3f21d3f3f8f5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d024aa8b-7871-4d36-af6c-c57c68670200.webp
 
 ```text
@@ -5244,7 +5244,7 @@ Commercial marketing motion video ("Chrome Core") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0845fa1-43dc-4a1d-b3fe-c9017f4201d4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0845fa1-43dc-4a1d-b3fe-c9017f4201d4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e25f3af2-60d8-479b-abb1-a2c1c55b6a04.webp
 
 ```text
@@ -5260,7 +5260,7 @@ Commercial marketing motion video ("Velocity") featuring (the product from the r
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aef59e19-f388-4dcc-b55a-e43a5c48c835.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aef59e19-f388-4dcc-b55a-e43a5c48c835.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6b262d6f-bd0d-4c88-8998-26c2535d88e4.webp
 
 ```text
@@ -5276,7 +5276,7 @@ Commercial marketing motion video ("Monospace Callouts") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5def44f5-375c-430d-ac1d-ca36eb6883e8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5def44f5-375c-430d-ac1d-ca36eb6883e8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f2af239b-fe5b-438e-b5bd-17db9eb3929b.webp
 
 ```text
@@ -5292,7 +5292,7 @@ Commercial marketing motion video ("Chrome Toy Render") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/584397b6-c3dc-4f74-8132-9715e693a886.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/584397b6-c3dc-4f74-8132-9715e693a886.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7b870394-d9dc-42a3-93a1-efd06072b9a4.webp
 
 ```text
@@ -5308,7 +5308,7 @@ Commercial marketing motion video ("90s/Y2K") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/91fbd718-0996-46c8-a855-1df7f69beae8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/91fbd718-0996-46c8-a855-1df7f69beae8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c76abef6-a9a8-422a-b426-5c55567b6bcf.webp
 
 ```text
@@ -5324,7 +5324,7 @@ Commercial marketing motion video ("Ink & Ribbon") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aa30e50f-b348-4147-8f8d-c5871f1940a5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/aa30e50f-b348-4147-8f8d-c5871f1940a5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3084e5b8-1830-46c8-b4df-664c839bb127.webp
 
 ```text
@@ -5340,7 +5340,7 @@ Commercial marketing motion video ("Paper Carousel") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/353daae1-e520-486b-b7d5-83f026169305.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/353daae1-e520-486b-b7d5-83f026169305.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/510e9364-771a-43f0-b8ca-9bd36deed0ab.webp
 
 ```text
@@ -5356,7 +5356,7 @@ Commercial marketing motion video ("Pixel Block Yard") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cf927971-073a-4e6b-94c5-ea45735fb893.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cf927971-073a-4e6b-94c5-ea45735fb893.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1419f13b-8f6c-4c06-9de8-2d7202b5678e.webp
 
 ```text
@@ -5372,7 +5372,7 @@ Commercial marketing motion video ("Slot Roll") featuring (the product from the 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a85ad7bd-6c95-4af5-959c-86085b70c7b5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a85ad7bd-6c95-4af5-959c-86085b70c7b5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d984a207-2290-49d3-9f3a-8d6e1774b24d.webp
 
 ```text
@@ -5388,7 +5388,7 @@ Commercial marketing motion video ("Premium") featuring (the product from the re
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e8e79f7f-5935-43f3-a054-acd05ab7accc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e8e79f7f-5935-43f3-a054-acd05ab7accc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/da424333-13cd-4e9e-b7a2-fd35e559de5b.webp
 
 ```text
@@ -5404,7 +5404,7 @@ Commercial marketing motion video ("Denim Flatlay") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/30ff2469-cd60-4b50-9cc3-3001670b8a56.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/30ff2469-cd60-4b50-9cc3-3001670b8a56.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cdcfcfcb-be8b-4875-b165-3f4cd167aea6.webp
 
 ```text
@@ -5420,7 +5420,7 @@ Commercial marketing motion video ("Y2K Flip Phone") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/54d8bfa5-bf4f-4781-a19c-48f032b85d2a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/54d8bfa5-bf4f-4781-a19c-48f032b85d2a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1e7422e2-ce98-4f90-9feb-bbf0fcdd0bc0.webp
 
 ```text
@@ -5436,7 +5436,7 @@ Commercial marketing motion video ("Manifesto Pop") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ea022ff2-b187-4940-8859-848986179409.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ea022ff2-b187-4940-8859-848986179409.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5accffe8-0d43-4b08-9ba5-5211d078be03.webp
 
 ```text
@@ -5452,7 +5452,7 @@ Commercial marketing motion video ("Isometric Card Flight") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b562c3f1-c27a-480a-98fa-08b7101c5691.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b562c3f1-c27a-480a-98fa-08b7101c5691.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5ac4832c-56ab-43ff-9e89-bf73f26c9eac.webp
 
 ```text
@@ -5468,7 +5468,7 @@ Commercial marketing motion video ("Blocks") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e9ae6136-46a1-4f3e-8f50-9745eff8693f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e9ae6136-46a1-4f3e-8f50-9745eff8693f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/33fee21f-1ac6-4408-8086-08f377a66593.webp
 
 ```text
@@ -5484,7 +5484,7 @@ Commercial marketing motion video ("DVD Collage") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9ef92c34-f705-4123-a491-4173b63a914d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9ef92c34-f705-4123-a491-4173b63a914d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c014856a-1988-48a3-80e0-38ce8f282678.webp
 
 ```text
@@ -5500,7 +5500,7 @@ Commercial marketing motion video ("Y2K Rave Poster") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d21cfab0-adff-4168-8cb2-1c622668fc8b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d21cfab0-adff-4168-8cb2-1c622668fc8b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9252e25f-3cc2-4fd9-8518-e03afc8759d8.webp
 
 ```text
@@ -5516,7 +5516,7 @@ Commercial marketing motion video ("Sticker Bounce") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/593b1f6d-1967-4dce-ac20-2d5df33e94b0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/593b1f6d-1967-4dce-ac20-2d5df33e94b0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5f8aabc1-cf28-48c1-bab6-63ceccd6a142.webp
 
 ```text
@@ -5532,7 +5532,7 @@ Commercial marketing motion video ("Fisheye Jelly Balloon") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cbc0881a-4cd4-438a-a63f-5fceaa2c2b15.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cbc0881a-4cd4-438a-a63f-5fceaa2c2b15.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/108a9d32-6e13-480b-9751-67e7fa78b33b.webp
 
 ```text
@@ -5548,7 +5548,7 @@ Commercial marketing motion video ("Slow ambient") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cecdb86a-62fa-4170-b722-77b4d53b2dbf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cecdb86a-62fa-4170-b722-77b4d53b2dbf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/73467759-5fb2-4b7f-906b-285c39a46155.webp
 
 ```text
@@ -5564,7 +5564,7 @@ Commercial marketing motion video ("2000s Flyer Maximalism") featuring (the prod
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5b54eb77-0ebb-4e84-91fb-b53ee9e7d87f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5b54eb77-0ebb-4e84-91fb-b53ee9e7d87f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/efb4a925-6f0d-4cfd-90f4-ed2f6fcf9bb5.webp
 
 ```text
@@ -5580,7 +5580,7 @@ Commercial marketing motion video ("Chili Burst") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/62263a5e-b7ae-4289-8814-a78582004d5b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/62263a5e-b7ae-4289-8814-a78582004d5b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/922f82b7-9287-41df-9baa-eb3d2a4f0bba.webp
 
 ```text
@@ -5596,7 +5596,7 @@ Commercial marketing motion video ("90s Supermarket Pop") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8b85909d-0ed1-46a1-a945-44d7b2fb0704.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8b85909d-0ed1-46a1-a945-44d7b2fb0704.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/09ff37b3-df28-4fa0-8951-cb0259204648.webp
 
 ```text
@@ -5612,7 +5612,7 @@ Commercial marketing motion video ("Cards & Text") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/63b7b7a4-ed6a-4219-996d-34a3afbc8610.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/63b7b7a4-ed6a-4219-996d-34a3afbc8610.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b305661e-6ea9-4a4f-bf8f-01b68fb0ebcc.webp
 
 ```text
@@ -5628,7 +5628,7 @@ Commercial marketing motion video ("Folder Pop") featuring (the product from the
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d5840f15-1a7e-482c-912a-36d3bd30c078.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d5840f15-1a7e-482c-912a-36d3bd30c078.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7ff6ce81-4cc5-428a-a91c-c348df4de286.webp
 
 ```text
@@ -5644,7 +5644,7 @@ Commercial marketing motion video ("Claymation Storm") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/61b5efb0-60b6-4a32-bac9-003dbcc58c00.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/61b5efb0-60b6-4a32-bac9-003dbcc58c00.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cfb352c2-09ae-49a8-b48d-a84b9aea4136.webp
 
 ```text
@@ -5660,7 +5660,7 @@ Commercial marketing motion video ("Chalk Blueprint") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/da0ece04-f3bc-4443-ac05-13046da9d2f0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/da0ece04-f3bc-4443-ac05-13046da9d2f0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/38489f7c-f743-483f-a2a2-785d0c7314c4.webp
 
 ```text
@@ -5676,7 +5676,7 @@ Commercial marketing motion video ("Liquid Blob") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/247b5fc8-0e49-4937-9a1b-735a57253231.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/247b5fc8-0e49-4937-9a1b-735a57253231.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d4673bc1-cf8c-4062-8042-b0bf55452b45.webp
 
 ```text
@@ -5692,7 +5692,7 @@ Commercial marketing motion video ("Nova") featuring (the product from the refer
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a44596e4-cb75-4968-b478-6aa3eb3aa917.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a44596e4-cb75-4968-b478-6aa3eb3aa917.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/774a15b1-2e16-4bbc-b38d-cae91b9a6e72.webp
 
 ```text
@@ -5708,7 +5708,7 @@ Commercial marketing motion video ("Liquid Carousel") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6ca34dcb-981b-4542-9b15-7394ca78d2c3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6ca34dcb-981b-4542-9b15-7394ca78d2c3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/dd316806-2489-4640-a0a7-60d6dd7309a2.webp
 
 ```text
@@ -5724,7 +5724,7 @@ Commercial marketing motion video ("Vibrant Carousel") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b65288e5-a6dc-404a-891a-d57f192e8e8c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b65288e5-a6dc-404a-891a-d57f192e8e8c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c246c50e-7f38-468d-bb8e-228ab5af126f.webp
 
 ```text
@@ -5740,7 +5740,7 @@ Commercial marketing motion video ("Simple") featuring (the product from the ref
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d9af4c87-dbd6-4a44-921c-862d22cc053b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d9af4c87-dbd6-4a44-921c-862d22cc053b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/85f7f7d3-9942-42fd-a107-d25d0a11bebc.webp
 
 ```text
@@ -5756,7 +5756,7 @@ Commercial marketing motion video ("2000s Digital Scrapbook") featuring (the pro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/685a6465-c7cc-4b55-a05f-357ecc3ee7f7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/685a6465-c7cc-4b55-a05f-357ecc3ee7f7.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f68575d1-713e-4deb-a845-20f87324f0e4.webp
 
 ```text
@@ -5772,7 +5772,7 @@ Commercial marketing motion video ("Pill Stack Logo") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/912e3fb0-ec08-4963-b833-c258bfe32e6a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/912e3fb0-ec08-4963-b833-c258bfe32e6a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d842e041-d740-41d7-b56c-69f21671ba94.webp
 
 ```text
@@ -5788,7 +5788,7 @@ Commercial marketing motion video ("Cardboard City Nights") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/015beacf-fe61-42b4-8e76-700e800cce64.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/015beacf-fe61-42b4-8e76-700e800cce64.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2fa222ad-a9d0-4074-80ca-44c911297925.webp
 
 ```text
@@ -5804,7 +5804,7 @@ Commercial marketing motion video ("Bold-Line Magazine Cover") featuring (the pr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/44059e81-8722-4e77-9eb9-08973d03e163.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/44059e81-8722-4e77-9eb9-08973d03e163.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0bcd37f5-7c10-4158-9b0a-60417808bd2f.webp
 
 ```text
@@ -5820,7 +5820,7 @@ Commercial marketing motion video ("Liquid Gold") featuring (the product from th
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2982dcf9-257f-45a7-be60-081cf0ac71e6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2982dcf9-257f-45a7-be60-081cf0ac71e6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/17374f6d-ae1e-4f94-96e8-6f88e3581458.webp
 
 ```text
@@ -5836,7 +5836,7 @@ Commercial marketing motion video ("Bookish Flat Editorial") featuring (the prod
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/82772c0a-9518-472c-9825-3d84b74f3ee0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/82772c0a-9518-472c-9825-3d84b74f3ee0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4e1f29f3-63d5-412c-b9b5-3799888c62c4.webp
 
 ```text
@@ -5852,7 +5852,7 @@ Commercial marketing motion video ("Signal Red HUD") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1cc0289d-074e-4eff-b273-4d430e416c61.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1cc0289d-074e-4eff-b273-4d430e416c61.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e46aca25-f1aa-4556-a7b5-a6c9608d335c.webp
 
 ```text
@@ -5868,7 +5868,7 @@ Commercial marketing motion video ("Radial Red Spin") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4acd8524-8e90-4e2e-8658-f68b6eb87ad2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4acd8524-8e90-4e2e-8658-f68b6eb87ad2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6bb73a87-5bba-4c4b-a2de-514a52bce375.webp
 
 ```text
@@ -5884,7 +5884,7 @@ Commercial marketing motion video ("Comic Meme Poster") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8376f88a-750b-4028-8577-f9cd738301e7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8376f88a-750b-4028-8577-f9cd738301e7.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2c99922a-723a-454c-b36f-021b532930df.webp
 
 ```text
@@ -5900,7 +5900,7 @@ Commercial marketing motion video ("Cork Bulletin Board") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/10549795-1814-4ad4-b992-511f475a0e4a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/10549795-1814-4ad4-b992-511f475a0e4a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2b9c5290-d309-4f80-9192-2f4413352f07.webp
 
 ```text
@@ -5916,7 +5916,7 @@ Commercial marketing motion video ("Copper HUD") featuring (the product from the
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b2d7f46d-2650-43d2-93ac-407728c5fedd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b2d7f46d-2650-43d2-93ac-407728c5fedd.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/74a49429-01d5-4c84-8ce9-f00da8468cb4.webp
 
 ```text
@@ -5932,7 +5932,7 @@ Commercial marketing motion video ("Pastel Droplet Morph") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c84a9222-1c8f-4da4-a4c2-57fba6f7b713.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c84a9222-1c8f-4da4-a4c2-57fba6f7b713.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b3f26f75-259e-4cb1-a54e-da806d4d3076.webp
 
 ```text
@@ -5948,7 +5948,7 @@ Commercial marketing motion video ("Crayon Kawaii Doodle") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/44a920fc-f803-48b7-82ec-2c5683dbc5d7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/44a920fc-f803-48b7-82ec-2c5683dbc5d7.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/77e8d977-4619-4dcb-8595-e555e1dadaeb.webp
 
 ```text
@@ -5964,7 +5964,7 @@ Commercial marketing motion video ("Olive Water Soak") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/03114b13-96cd-4505-ae76-209cffce806a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/03114b13-96cd-4505-ae76-209cffce806a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/80b509ca-7c82-4f92-a530-b3c8613ca713.webp
 
 ```text
@@ -5980,7 +5980,7 @@ Commercial marketing motion video ("Cut-Paste Collage") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4e40abe4-62d9-4787-98dd-f72b086dadce.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4e40abe4-62d9-4787-98dd-f72b086dadce.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3f167499-0f3c-429b-8c17-3501dbc11dab.webp
 
 ```text
@@ -5996,7 +5996,7 @@ Commercial marketing motion video ("Dense Photo Wallpaper") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3d8d9d5b-274d-4392-a5b5-c8e4c2454895.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3d8d9d5b-274d-4392-a5b5-c8e4c2454895.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7a3e6e1e-47d5-43a1-bd52-97abfb36705e.webp
 
 ```text
@@ -6012,7 +6012,7 @@ Commercial marketing motion video ("Golden Oil Soak") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2b392626-8722-4c9d-889c-359756747ca3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2b392626-8722-4c9d-889c-359756747ca3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d5e24915-d312-4b99-81a1-558634d085ba.webp
 
 ```text
@@ -6028,7 +6028,7 @@ Commercial marketing motion video ("Flat Riso Storyboard") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6a00ed94-59fb-4556-9089-50edd6b82726.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6a00ed94-59fb-4556-9089-50edd6b82726.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e78819c3-af40-4009-a7ba-9d4b100f05f1.webp
 
 ```text
@@ -6044,7 +6044,7 @@ Commercial marketing motion video ("Liquid Lettering") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d433a0bb-6666-4095-a700-e90418acc6d4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d433a0bb-6666-4095-a700-e90418acc6d4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7ecd632f-35c0-4084-83c8-f3f6edee1ce1.webp
 
 ```text
@@ -6060,7 +6060,7 @@ Commercial marketing motion video ("Price Roll Carousel") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9f55a0f4-ecf9-49bf-8b6c-c5f756456ed2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9f55a0f4-ecf9-49bf-8b6c-c5f756456ed2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/28893fe6-be5b-4432-bdba-011b0a7b6731.webp
 
 ```text
@@ -6076,7 +6076,7 @@ Commercial marketing motion video ("Folk Linocut Stickers") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b45155a7-bd4a-4fd9-85ae-2777c0408e8a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b45155a7-bd4a-4fd9-85ae-2777c0408e8a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/906ce5dc-7566-4c99-94bf-fe200ba0e630.webp
 
 ```text
@@ -6092,7 +6092,7 @@ Commercial marketing motion video ("Geometric Grid Poster") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6535fd40-e70a-469b-854d-9770635de200.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6535fd40-e70a-469b-854d-9770635de200.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4454a49c-80be-4155-b203-372439cdd480.webp
 
 ```text
@@ -6108,7 +6108,7 @@ Commercial marketing motion video ("Candle Row Rush") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1a6faec6-7c45-48a7-b524-af7850829df4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1a6faec6-7c45-48a7-b524-af7850829df4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6b375989-3137-4703-800c-decd5c0c7d1a.webp
 
 ```text
@@ -6124,7 +6124,7 @@ Commercial marketing motion video ("Glossy 3D Poster") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c20271e5-65fa-4dc4-aa47-023904302841.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c20271e5-65fa-4dc4-aa47-023904302841.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/711808a9-feac-4c39-acc8-797d247335db.webp
 
 ```text
@@ -6140,7 +6140,7 @@ Commercial marketing motion video ("Golden Droplet Hero") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f058b15e-73a2-44bc-8235-956799aae1cc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f058b15e-73a2-44bc-8235-956799aae1cc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a0b842dc-beb8-41ee-9366-ce2796ca5e49.webp
 
 ```text
@@ -6156,7 +6156,7 @@ Commercial marketing motion video ("Monochrome Duet") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ad567743-5269-4ace-b796-5ddd3c64df39.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ad567743-5269-4ace-b796-5ddd3c64df39.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2cc211d6-32a7-45ca-96e0-fdda5f114189.webp
 
 ```text
@@ -6172,7 +6172,7 @@ Commercial marketing motion video ("Gouache Type Poster") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/188023af-d229-4f34-b3c6-2f5f90a34b1c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/188023af-d229-4f34-b3c6-2f5f90a34b1c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6f77d76a-56b1-4a84-86ed-e281501a2751.webp
 
 ```text
@@ -6188,7 +6188,7 @@ Commercial marketing motion video ("Tomato Red Wash") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3a20a56a-db34-41a8-a21e-3166e62f791b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3a20a56a-db34-41a8-a21e-3166e62f791b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3bcad1d0-6140-4bea-8c9a-efdcfab3e761.webp
 
 ```text
@@ -6204,7 +6204,7 @@ Commercial marketing motion video ("Grunge Grid Poster") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5ecf032d-307d-451f-9e0f-736123398346.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5ecf032d-307d-451f-9e0f-736123398346.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ef34754a-2d5a-415e-9409-948c79b737b9.webp
 
 ```text
@@ -6220,7 +6220,7 @@ Commercial marketing motion video ("Maximalist Ink Poster") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e930a9bf-54f4-4cea-acc9-6da8c9c11942.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e930a9bf-54f4-4cea-acc9-6da8c9c11942.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1bb20b4a-b36e-46b8-982a-1c64cd1067a9.webp
 
 ```text
@@ -6236,7 +6236,7 @@ Commercial marketing motion video ("Triple Remix") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/55561de2-7199-4b4c-9ea0-40ea6f7fe8c6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/55561de2-7199-4b4c-9ea0-40ea6f7fe8c6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2669254b-d3e6-4e49-bae1-81f7052f301e.webp
 
 ```text
@@ -6252,7 +6252,7 @@ Commercial marketing motion video ("Needle-Felt Stop-Motion") featuring (the pro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/eaabb6fd-7f1a-4a42-8e58-5ad292fa2363.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/eaabb6fd-7f1a-4a42-8e58-5ad292fa2363.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2d4510aa-c8ba-4632-9b37-da8721de0ae9.webp
 
 ```text
@@ -6268,7 +6268,7 @@ Commercial marketing motion video ("Pill Mask Reveal") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/48e5d581-e4bf-4219-9fc2-f83af8f51e76.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/48e5d581-e4bf-4219-9fc2-f83af8f51e76.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c43687db-2efd-4fe5-96b7-c4496eb7148a.webp
 
 ```text
@@ -6284,7 +6284,7 @@ Commercial marketing motion video ("Tomato Spin Morph") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a70ce2cf-840e-475e-bea6-b6cf8c3b868b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a70ce2cf-840e-475e-bea6-b6cf8c3b868b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b7d476e2-aa8b-4862-a9cf-4bfc673aacc4.webp
 
 ```text
@@ -6300,7 +6300,7 @@ Commercial marketing motion video ("Neo-Brutalist Layout") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/dc2525d4-06af-4bf7-9dde-0978c6596837.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/dc2525d4-06af-4bf7-9dde-0978c6596837.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5bfccdf4-59fc-4cb1-ab3f-0791f65229a7.webp
 
 ```text
@@ -6316,7 +6316,7 @@ Commercial marketing motion video ("Marble Balance Scale") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4f3d3a7a-4cbf-4d45-b686-b69a4ad1b1f8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4f3d3a7a-4cbf-4d45-b686-b69a4ad1b1f8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/970c2cb8-64c8-427a-aa2f-8b17f7578579.webp
 
 ```text
@@ -6332,7 +6332,7 @@ Commercial marketing motion video ("Pastel Riso Halftone") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8826516c-dbd2-48be-8a57-c36f90cb4cc2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8826516c-dbd2-48be-8a57-c36f90cb4cc2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4bca7a3e-3b4a-49d6-8bdc-48b02aa957f1.webp
 
 ```text
@@ -6348,7 +6348,7 @@ Commercial marketing motion video ("Lavender Cargo Drop") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ba8ba770-97e1-4bd4-bd2b-960df66ce263.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ba8ba770-97e1-4bd4-bd2b-960df66ce263.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4a57b4e5-7c24-4ea6-8288-d3b175e3357c.webp
 
 ```text
@@ -6364,7 +6364,7 @@ Commercial marketing motion video ("Pastel Tidy Display") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5ffbbe8b-f830-41fd-93cb-7c34a1647895.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5ffbbe8b-f830-41fd-93cb-7c34a1647895.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1e323732-f0a8-4057-b255-94ca2fe41cba.webp
 
 ```text
@@ -6380,7 +6380,7 @@ Commercial marketing motion video ("Photo Scrapbook Mockup") featuring (the prod
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ce7b9341-6433-45be-ac1e-4d6443c7f16e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ce7b9341-6433-45be-ac1e-4d6443c7f16e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/edc00998-c6d6-447a-adf3-5c1e7880817e.webp
 
 ```text
@@ -6396,7 +6396,7 @@ Commercial marketing motion video ("Cropped Type Intro") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/79c77581-2b8b-4b42-91e3-ba3373724527.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/79c77581-2b8b-4b42-91e3-ba3373724527.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a1897fdb-f472-4f8e-9878-1ba360b2a198.webp
 
 ```text
@@ -6412,7 +6412,7 @@ Commercial marketing motion video ("Photo Sticker Overlay") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8e6e53ca-c390-4458-bcfa-73aadb87c6c0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8e6e53ca-c390-4458-bcfa-73aadb87c6c0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e0bfc334-6906-406d-8d78-7f8216214555.webp
 
 ```text
@@ -6428,7 +6428,7 @@ Commercial marketing motion video ("Titanium Claim Cards") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9ef2fcca-efbb-4ebd-9463-8faa34f74da3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9ef2fcca-efbb-4ebd-9463-8faa34f74da3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4cc7c55f-ecea-40db-8dc2-94a97549d67e.webp
 
 ```text
@@ -6444,7 +6444,7 @@ Commercial marketing motion video ("Droplet Lens") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/816c16d7-57ab-4664-bf75-ec52f10fa91c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/816c16d7-57ab-4664-bf75-ec52f10fa91c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b68728fd-051e-4405-8abc-ba5165477cee.webp
 
 ```text
@@ -6460,7 +6460,7 @@ Commercial marketing motion video ("Pink Trash Collage") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7baf1b8f-6bcb-422b-a0b4-61aa85907091.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7baf1b8f-6bcb-422b-a0b4-61aa85907091.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f9d588f1-f9ea-4071-a5f3-8e86c4b65ee3.webp
 
 ```text
@@ -6476,7 +6476,7 @@ Commercial marketing motion video ("Plasticine Lettering Poster") featuring (the
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/91454ca7-5437-493f-9f7e-9d1708e0790e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/91454ca7-5437-493f-9f7e-9d1708e0790e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fe980045-f603-4565-86f0-d5011b99ca9f.webp
 
 ```text
@@ -6492,7 +6492,7 @@ Commercial marketing motion video ("Brushed Titanium Montage") featuring (the pr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/abbf33a4-e739-4aa3-a8c4-5f3b491e4ac4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/abbf33a4-e739-4aa3-a8c4-5f3b491e4ac4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f59f6211-282b-4228-9a3d-2d6116574ffc.webp
 
 ```text
@@ -6508,7 +6508,7 @@ Commercial marketing motion video ("Elastic Snap Assembly") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d4860b24-1a46-4945-8503-6f5dc5c84b4e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d4860b24-1a46-4945-8503-6f5dc5c84b4e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/bd3a084d-3100-41c6-b284-192c6f4c702a.webp
 
 ```text
@@ -6524,7 +6524,7 @@ Commercial marketing motion video ("Retro Anime Poster") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/93790b8e-87f4-4965-a850-2cfd5dca03d2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/93790b8e-87f4-4965-a850-2cfd5dca03d2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/80e91cfd-c0f2-45a6-9af0-08ab361f2183.webp
 
 ```text
@@ -6540,7 +6540,7 @@ Commercial marketing motion video ("Y2K Hologram Fill") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b5d31428-99ba-4f6e-8a63-6d0027ca84d3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b5d31428-99ba-4f6e-8a63-6d0027ca84d3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/06b8b170-ccdd-43c2-becc-15599f7ed973.webp
 
 ```text
@@ -6556,7 +6556,7 @@ Commercial marketing motion video ("Retro Japanese Desk") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/51c52c80-9eb1-4dc4-9577-5b3782caac3e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/51c52c80-9eb1-4dc4-9577-5b3782caac3e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0987fd54-5887-4720-ac82-0a8c3df44c64.webp
 
 ```text
@@ -6572,7 +6572,7 @@ Commercial marketing motion video ("Retro Riso Tiers") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e847dd2e-8e94-4e43-8bc1-49e8d5f4d248.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e847dd2e-8e94-4e43-8bc1-49e8d5f4d248.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4ca4e2a4-75cb-4772-bb9b-68a64ca34996.webp
 
 ```text
@@ -6588,7 +6588,7 @@ Commercial marketing motion video ("Sunlit Submersion") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/625c7921-cda4-40ad-8704-fd59d83377f4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/625c7921-cda4-40ad-8704-fd59d83377f4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/541bc234-7482-41f1-9f36-0cf69bc42821.webp
 
 ```text
@@ -6604,7 +6604,7 @@ Commercial marketing motion video ("Charcoal Macro Orbit") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9ca8e7ab-20bb-4e79-a7b2-24dcc3ef8cb9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9ca8e7ab-20bb-4e79-a7b2-24dcc3ef8cb9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/666f36dd-e383-4978-affe-0a262c14b950.webp
 
 ```text
@@ -6620,7 +6620,7 @@ Commercial marketing motion video ("Retro Shopfront Vector") featuring (the prod
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b1796ac8-7de7-4aeb-bb84-6008b7c3a5e5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b1796ac8-7de7-4aeb-bb84-6008b7c3a5e5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4958c8fb-b82d-4283-9a7a-4a0a586a4014.webp
 
 ```text
@@ -6636,7 +6636,7 @@ Commercial marketing motion video ("Riso Food Poster") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/590e5852-f571-46dd-afb4-e2e6ed2a20e4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/590e5852-f571-46dd-afb4-e2e6ed2a20e4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/21567976-0800-430f-9057-7b5137116c71.webp
 
 ```text
@@ -6652,7 +6652,7 @@ Commercial marketing motion video ("Liquid Leaf Macro") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2354a9b4-2630-42d8-9862-ce7538f4e61e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2354a9b4-2630-42d8-9862-ce7538f4e61e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b5d95878-72bd-4769-9d1c-8342b36f6210.webp
 
 ```text
@@ -6668,7 +6668,7 @@ Commercial marketing motion video ("Riso Overprint Grid") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8c12a55e-e8b7-4f65-ae64-9d0cfd049dd8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8c12a55e-e8b7-4f65-ae64-9d0cfd049dd8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/33292185-f3f5-485c-88e9-fe2553ccf49a.webp
 
 ```text
@@ -6684,7 +6684,7 @@ Commercial marketing motion video ("Pull Tab Macro") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fa71bfc7-365d-4eda-b920-b1f442458027.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fa71bfc7-365d-4eda-b920-b1f442458027.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1264b915-2605-40a2-b6f4-bb8344b3d33e.webp
 
 ```text
@@ -6700,7 +6700,7 @@ Commercial marketing motion video ("Fresh Leaf Ritual") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/45cdd936-903d-489f-8b96-cd2795195929.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/45cdd936-903d-489f-8b96-cd2795195929.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ec682b46-e91c-4ffc-a9de-35dc8220eb7a.webp
 
 ```text
@@ -6716,7 +6716,7 @@ Commercial marketing motion video ("Scanned Fabric Scrapbook") featuring (the pr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/acc1ab72-f43f-41d8-9d4b-9a72da284bab.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/acc1ab72-f43f-41d8-9d4b-9a72da284bab.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ad4a7c85-b598-4045-9f93-be7dba96b2ed.webp
 
 ```text
@@ -6732,7 +6732,7 @@ Commercial marketing motion video ("Exploded View Loop") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b1985070-70b0-47f5-a1bf-895244a8a3a2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b1985070-70b0-47f5-a1bf-895244a8a3a2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/de106ae8-fbc5-4e5f-8e4b-a5e61c4fe8c6.webp
 
 ```text
@@ -6748,7 +6748,7 @@ Commercial marketing motion video ("Scarlet Manifesto Poster") featuring (the pr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c27c0eef-4bae-47dd-88b2-6b2579df59b1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c27c0eef-4bae-47dd-88b2-6b2579df59b1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/33127043-9868-4393-b686-d94b33e7a2e2.webp
 
 ```text
@@ -6764,7 +6764,7 @@ Commercial marketing motion video ("Scrapbook Dream Board") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e2a96084-9c1a-4d05-840e-d9b9bab41a7a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e2a96084-9c1a-4d05-840e-d9b9bab41a7a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f6a86721-e17a-4519-b1c2-658b7ef9a66c.webp
 
 ```text
@@ -6780,7 +6780,7 @@ Commercial marketing motion video ("Crunch Heat Umami") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/27273d7d-518f-4894-9502-0012c4adf710.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/27273d7d-518f-4894-9502-0012c4adf710.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/18dc17fa-3853-4cd8-b71b-35e80ea1a263.webp
 
 ```text
@@ -6796,7 +6796,7 @@ Commercial marketing motion video ("Screen-Print Poster") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/66224827-078c-4d86-84b4-ed0cf9b53cf4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/66224827-078c-4d86-84b4-ed0cf9b53cf4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d7405370-c9ac-4b15-9f97-369831101063.webp
 
 ```text
@@ -6812,7 +6812,7 @@ Commercial marketing motion video ("Ribbon Unfurl") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/42390a84-6698-47a8-a975-a961c8bab76d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/42390a84-6698-47a8-a975-a961c8bab76d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1a5dc45d-4653-4864-ab13-23d112cdb4f7.webp
 
 ```text
@@ -6828,7 +6828,7 @@ Commercial marketing motion video ("Noir Unboxing") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/356f9650-3b3d-4f0c-9e64-1b9a6dd19e3a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/356f9650-3b3d-4f0c-9e64-1b9a6dd19e3a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d965a6c8-8ba0-4ffe-8ac9-49a6cfa1d10a.webp
 
 ```text
@@ -6844,7 +6844,7 @@ Commercial marketing motion video ("Torn Poster Reveal") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/201944c2-a0b9-4f6b-b1f6-bf9711d60361.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/201944c2-a0b9-4f6b-b1f6-bf9711d60361.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fd64f944-e7c3-4e37-bfbc-50a045056e8b.webp
 
 ```text
@@ -6860,7 +6860,7 @@ Commercial marketing motion video ("Toy 3D Render") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f12b2962-c647-4aa6-a5eb-41a9ff18baf2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f12b2962-c647-4aa6-a5eb-41a9ff18baf2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/64fff0c9-d6dd-4c64-924c-09f07cf7c31a.webp
 
 ```text
@@ -6876,7 +6876,7 @@ Commercial marketing motion video ("Petal Fall Noir") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/289a6c8d-7373-4522-896c-857ff7880761.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/289a6c8d-7373-4522-896c-857ff7880761.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e922ee2c-2154-447c-a2ab-9a1d2ac3ad80.webp
 
 ```text
@@ -6892,7 +6892,7 @@ Commercial marketing motion video ("Y2K Desktop Cover") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/de820662-ff63-4efe-a359-3c999e344026.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/de820662-ff63-4efe-a359-3c999e344026.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c2027c2b-8c8a-4a94-b80b-c6d26a6145d9.webp
 
 ```text
@@ -6908,7 +6908,7 @@ Commercial marketing motion video ("Stop-Motion Color Cycle") featuring (the pro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/490e28de-d50b-4ef2-b336-a33ecf9220b9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/490e28de-d50b-4ef2-b336-a33ecf9220b9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/74edef9c-550b-4c4a-9e24-d9160d63ab45.webp
 
 ```text
@@ -6924,7 +6924,7 @@ Commercial marketing motion video ("Y2K Doll Storyboard") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/789d0ba5-1f97-4d58-aa3d-34bd76467fb0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/789d0ba5-1f97-4d58-aa3d-34bd76467fb0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/be1456fc-c5aa-4890-9ecf-7d5efce45ce3.webp
 
 ```text
@@ -6940,7 +6940,7 @@ Commercial marketing motion video ("Blue Splash Reveal") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2fba21f1-447d-4dfe-92bb-6eab364ede4a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2fba21f1-447d-4dfe-92bb-6eab364ede4a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c94f2571-2d33-4838-b646-975173b90e66.webp
 
 ```text
@@ -6956,7 +6956,7 @@ Commercial marketing motion video ("Y2K Techno Flyer") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/05383515-1ae0-492c-82ce-5cbdbaa9be47.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/05383515-1ae0-492c-82ce-5cbdbaa9be47.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/644268f1-fa04-4db2-bc17-1558ed48fc44.webp
 
 ```text
@@ -6972,7 +6972,7 @@ Commercial marketing motion video ("Backlit Silhouette Reveal") featuring (the p
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3e45ed15-ab50-44fa-a7a6-ed498b3c22bd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3e45ed15-ab50-44fa-a7a6-ed498b3c22bd.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2ef236b0-df15-41df-89d5-04f19b1ba6e8.webp
 
 ```text
@@ -6988,7 +6988,7 @@ Commercial marketing motion video ("Weightless Steel") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/72765a44-c379-4597-a98f-caff23fd870f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/72765a44-c379-4597-a98f-caff23fd870f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5514cf61-6368-42f6-ba5f-1a171fc1ef16.webp
 
 ```text
@@ -7004,7 +7004,7 @@ Commercial marketing motion video ("Zine Halftone") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6dc62fcf-b6e8-4a80-b213-b642716327d4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6dc62fcf-b6e8-4a80-b213-b642716327d4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f9479c37-2b9d-44be-b109-95f1bc3b808d.webp
 
 ```text
@@ -7020,7 +7020,7 @@ Commercial marketing motion video ("X-Ray Halo") featuring (the product from the
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0cbd94d9-0457-4a89-ab65-b200659bb14d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0cbd94d9-0457-4a89-ab65-b200659bb14d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/58ffde16-a6df-4c5c-aae0-fa2cd15acf63.webp
 
 ```text
@@ -7036,7 +7036,7 @@ Commercial marketing motion video ("Pastel Beat Pop") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/73e341aa-9742-429b-a0e0-447a577d1cd3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/73e341aa-9742-429b-a0e0-447a577d1cd3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/46ef8274-3933-4c45-9ac9-27c2deb39f1a.webp
 
 ```text
@@ -7052,7 +7052,7 @@ Commercial marketing motion video ("Pastel Quartet") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7a457f4a-0925-4c6b-a0a5-dc036b68f776.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7a457f4a-0925-4c6b-a0a5-dc036b68f776.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/066f02d0-162a-4afc-9cd8-17b6948f5b1a.webp
 
 ```text
@@ -7068,7 +7068,7 @@ Commercial marketing motion video ("Chili Flake Drift") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/93fcebe7-54b2-4e1a-8acd-34e758b2471c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/93fcebe7-54b2-4e1a-8acd-34e758b2471c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0e6256f3-330d-42ba-9105-b2a0040ee945.webp
 
 ```text
@@ -7084,7 +7084,7 @@ Commercial marketing motion video ("Slow Splash Macro") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/10cbeb18-ca44-49ce-b314-a696798ad1a0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/10cbeb18-ca44-49ce-b314-a696798ad1a0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/47c05c02-c9bf-4d83-8c7c-871a55063617.webp
 
 ```text
@@ -7100,7 +7100,7 @@ Commercial marketing motion video ("Crimson Studio Feast") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/81d56bda-676b-4ef6-b08d-0d0222db31dc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/81d56bda-676b-4ef6-b08d-0d0222db31dc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/acc11d01-55d3-4e23-9a32-9b509d46d79c.webp
 
 ```text
@@ -7116,7 +7116,7 @@ Commercial marketing motion video ("Terracotta Still Life") featuring (the produ
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/444d3ce1-130a-466d-aba5-240e67eef14a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/444d3ce1-130a-466d-aba5-240e67eef14a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/665a5c64-c96b-49c2-992a-0b3a1bc81c45.webp
 
 ```text
@@ -7132,7 +7132,7 @@ Commercial marketing motion video ("Plum Studio Hero") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/571db434-5f36-4809-aa49-33606f435825.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/571db434-5f36-4809-aa49-33606f435825.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/b9e5a09a-1501-4f9c-ba34-d5cc78c66e66.webp
 
 ```text
@@ -7148,7 +7148,7 @@ Commercial marketing motion video ("Lavender Field Spin") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/421236f6-0159-44ba-a13d-ec8f20cdf16c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/421236f6-0159-44ba-a13d-ec8f20cdf16c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/eb3a5760-b684-4eea-97fe-2cb1a3f5dc2e.webp
 
 ```text
@@ -7164,7 +7164,7 @@ Commercial marketing motion video ("Coral Burst Splash") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7b6e6ce3-e8d4-4376-a01e-61fc9ce2ad35.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7b6e6ce3-e8d4-4376-a01e-61fc9ce2ad35.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/93e3a105-1c77-45fc-ac3f-b9a27b650a02.webp
 
 ```text
@@ -7180,7 +7180,7 @@ Commercial marketing motion video ("Pear Splash Burst") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/dfd02f24-6d56-409f-bcd8-ace12ec4d348.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/dfd02f24-6d56-409f-bcd8-ace12ec4d348.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8d02dfdf-161f-4800-bb87-713f5a5a1e44.webp
 
 ```text
@@ -7196,7 +7196,7 @@ Commercial marketing motion video ("Colorway Carousel") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cee01121-460e-4a8c-8ddb-75d3a762f5f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cee01121-460e-4a8c-8ddb-75d3a762f5f6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/146548d4-4ff1-4709-91cc-7b3d96832056.webp
 
 ```text
@@ -7212,7 +7212,7 @@ Commercial marketing motion video ("Pear Tonic Rush") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4a5e9d85-d689-4cd7-b3d7-551bf1edc1f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/4a5e9d85-d689-4cd7-b3d7-551bf1edc1f6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/81743c78-fa46-448c-b391-5a7044a16d81.webp
 
 ```text
@@ -7228,7 +7228,7 @@ Commercial marketing motion video ("Sunset Sour Pop") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5bd2b3c5-813d-4d57-b269-97b253f85c23.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5bd2b3c5-813d-4d57-b269-97b253f85c23.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1eb0152e-337f-4e6d-b536-983c15310b33.webp
 
 ```text
@@ -7244,7 +7244,7 @@ Commercial marketing motion video ("Rooftop Pan-Up") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/894250dd-17ca-4f85-8385-f2a6ca96f7b3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/894250dd-17ca-4f85-8385-f2a6ca96f7b3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/e80ec8d7-4caf-4eb9-8139-9c3f12d21084.webp
 
 ```text
@@ -7260,7 +7260,7 @@ Commercial marketing motion video ("Spotlit Pantry") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1d70bedf-4c9e-4a44-978c-5c036003732f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1d70bedf-4c9e-4a44-978c-5c036003732f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/84c13d88-7c20-4605-8cfe-bec3a1464023.webp
 
 ```text
@@ -7276,7 +7276,7 @@ Commercial marketing motion video ("Ingredient Skyfall") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/11e71114-df52-40f4-a753-75ad1bb01380.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/11e71114-df52-40f4-a753-75ad1bb01380.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/03562d89-954a-4aa4-a074-3ff89cedc7a9.webp
 
 ```text
@@ -7292,7 +7292,7 @@ Commercial marketing motion video ("Orchard Float") featuring (the product from 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/652261de-1d79-4a29-bb39-aa1848932758.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/652261de-1d79-4a29-bb39-aa1848932758.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/a235e5f9-374c-46c4-9106-614195bb83da.webp
 
 ```text
@@ -7308,7 +7308,7 @@ Commercial marketing motion video ("Mid-Air Bounce") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6790b3f0-748f-4659-829c-c8ad337d0a87.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6790b3f0-748f-4659-829c-c8ad337d0a87.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/433fad4e-878c-4c4f-b02d-ea433e8a8148.webp
 
 ```text
@@ -7324,7 +7324,7 @@ Commercial marketing motion video ("Flavor Cards") featuring (the product from t
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6c60261d-2c01-407b-8d95-7d2664ffe822.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/6c60261d-2c01-407b-8d95-7d2664ffe822.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9c867e41-f2d2-4c37-9a81-6f30f1b84bad.webp
 
 ```text
@@ -7340,7 +7340,7 @@ Commercial marketing motion video ("Duotone Beat Cuts") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8b60f09d-695d-4511-9d75-ce17f836025c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8b60f09d-695d-4511-9d75-ce17f836025c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/f0b2f272-bdb5-44f9-a7e5-4e14d53f4278.webp
 
 ```text
@@ -7356,7 +7356,7 @@ Commercial marketing motion video ("Float and Land") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d631edf9-5ab2-4a19-9a47-a6302fee86fd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d631edf9-5ab2-4a19-9a47-a6302fee86fd.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/626a33ff-c92c-43db-926a-56e83dc84b58.webp
 
 ```text
@@ -7372,7 +7372,7 @@ Commercial marketing motion video ("Peach Float Drop") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/837efcac-5fca-4a30-a254-a23ff93414e3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/837efcac-5fca-4a30-a254-a23ff93414e3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/ab99720f-766b-464b-8420-fb02564a8d2c.webp
 
 ```text
@@ -7388,7 +7388,7 @@ Commercial marketing motion video ("Blood Orange Sweep") featuring (the product 
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c8551284-45f1-4004-853e-43d76cfcf0c1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c8551284-45f1-4004-853e-43d76cfcf0c1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/87497ab6-1253-4314-a939-2522853b49b7.webp
 
 ```text
@@ -7404,7 +7404,7 @@ Commercial marketing motion video ("Amber Pour Ritual") featuring (the product f
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7b41197b-0b4a-4d4b-af84-77cf99840846.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/7b41197b-0b4a-4d4b-af84-77cf99840846.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/78779264-377f-4c85-8fa9-a51b5479f7a2.webp
 
 ```text
@@ -7420,7 +7420,7 @@ Commercial marketing motion video ("Whip-Pan Quartet") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d1791220-6a30-41b9-8bf3-32a9c463b077.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/d1791220-6a30-41b9-8bf3-32a9c463b077.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/241bcaab-dfbc-4a4a-8628-96640bab9167.webp
 
 ```text
@@ -7436,7 +7436,7 @@ Commercial marketing motion video ("Midnight Orbit") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0d475ab5-4518-428f-89c9-5b55fbca4761.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/0d475ab5-4518-428f-89c9-5b55fbca4761.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/3a370eb1-b0dc-42b2-8197-b799c8af884e.webp
 
 ```text
@@ -7452,7 +7452,7 @@ Commercial marketing motion video ("Olive Silhouette") featuring (the product fr
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fadf4f92-b1ea-4b4a-b2fa-7548941eb31e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fadf4f92-b1ea-4b4a-b2fa-7548941eb31e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/5961496d-3d50-42b8-8ede-fa6c4a0dfa12.webp
 
 ```text
@@ -7468,7 +7468,7 @@ Commercial marketing motion video ("Knock Knock Kinetic") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/668500bf-bae6-4c7e-b3b3-091446337acf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/668500bf-bae6-4c7e-b3b3-091446337acf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/fdf2d24b-0f8b-41ce-b965-8716be09567e.webp
 
 ```text
@@ -7484,7 +7484,7 @@ Commercial marketing motion video ("Logo Beat Loop") featuring (the product from
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2d4f5c31-ebd1-4bfb-9da4-53760ead98dc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/2d4f5c31-ebd1-4bfb-9da4-53760ead98dc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/cf186fbb-6565-46b3-b5b2-4d2b6c39aec3.webp
 
 ```text
@@ -7500,7 +7500,7 @@ Commercial marketing motion video ("Cyberpunk Vault") featuring (the product fro
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/89520b79-99bc-4e59-b7e7-3a6683bc4688.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/89520b79-99bc-4e59-b7e7-3a6683bc4688.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/8e9d9e8e-ab00-4f75-abef-684ea38f7361.webp
 
 ```text
@@ -7516,7 +7516,7 @@ Commercial marketing motion video ("Anime Cel Storyboard") featuring (the produc
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1ded1518-52de-4610-929b-ce401e30c0c4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/1ded1518-52de-4610-929b-ce401e30c0c4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/89411194-3ae0-4ac9-8132-751280bc00b9.webp
 
 ```text
@@ -7532,7 +7532,7 @@ Commercial marketing motion video ("Printed Zine Panels") featuring (the product
 - **Image Model:** Nano Banana Pro / Soul 2.0 Product Anchor
 - **Video Model:** Seedance 2.0 / Marketing Studio Motion Engine
 - **Settings:** Aspect Ratio `9:16 / 1:1 / 16:9` | Duration `6s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9bb18157-dda0-4a94-82c5-c61aaab2310f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/9bb18157-dda0-4a94-82c5-c61aaab2310f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/c8a6a445-9d8b-46bd-9a1b-f796c01809db.webp
 
 ```text
@@ -7548,7 +7548,7 @@ Commercial marketing motion video ("CMYK Pop-Art") featuring (the product from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/5a9ba7c1-144b-4158-8582-47548837dd85.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/5a9ba7c1-144b-4158-8582-47548837dd85.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/4dd6e4ce-b65a-46dd-9479-ed2b182ba44f.webp
 
 ```text
@@ -7565,7 +7565,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Shopping".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/a0a7c111-da50-4c3f-a2e0-172d4a9deefb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/a0a7c111-da50-4c3f-a2e0-172d4a9deefb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/b023a0f0-f13c-41af-b4ef-9bf0a123a39f.webp
 
 ```text
@@ -7582,7 +7582,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "At home".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/a9f10f0d-0acd-4b86-9ee8-6e4d6a2bcb76.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/a9f10f0d-0acd-4b86-9ee8-6e4d6a2bcb76.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/86ede977-ab41-4894-945d-f5dc1113a5ee.webp
 
 ```text
@@ -7599,7 +7599,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Delivery".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/0307d62d-efd8-4906-9162-be99158d25fb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/0307d62d-efd8-4906-9162-be99158d25fb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/c3f35825-20b9-4673-a508-9c9b20fcb3d4.webp
 
 ```text
@@ -7616,7 +7616,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Review".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/7a9bcdd4-c60f-4aea-ad4f-14b607479d76.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/7a9bcdd4-c60f-4aea-ad4f-14b607479d76.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/5624a15b-2117-419e-9341-752e20ef7d3c.webp
 
 ```text
@@ -7633,7 +7633,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Try-on".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/73366684-a5c0-4c71-8061-95c7486deceb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/73366684-a5c0-4c71-8061-95c7486deceb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/dedcc95c-0e28-4669-a239-37cbfa4a22f7.webp
 
 ```text
@@ -7650,7 +7650,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Unboxing".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/97464e03-828d-4177-a29d-11d165d2f7bb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/97464e03-828d-4177-a29d-11d165d2f7bb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/46c091cc-6f1e-47f0-82dc-14de2d65ea43.webp
 
 ```text
@@ -7667,7 +7667,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Tutorial".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `20s (15-30s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/703da148-3bfa-42d9-a674-4371ebbc857f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-ugc/703da148-3bfa-42d9-a674-4371ebbc857f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-ugc/fce5f2c3-6797-40a6-a701-ec4fa1f1c637.webp
 
 ```text
@@ -7684,7 +7684,7 @@ Marketing Studio V2 [UGC / Talking head] — Style: "Before/after".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_150008_ee9cf142-7741-40e9-8076-897fb0947742.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_150008_ee9cf142-7741-40e9-8076-897fb0947742.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_150008_ee9cf142-7741-40e9-8076-897fb0947742_thumbnail.webp
 
 ```text
@@ -7701,7 +7701,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Giant Figure".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_225935_abf54d8e-3766-4bf5-9163-2f87467c9953.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_225935_abf54d8e-3766-4bf5-9163-2f87467c9953.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_225935_abf54d8e-3766-4bf5-9163-2f87467c9953_thumbnail.webp
 
 ```text
@@ -7718,7 +7718,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Unboxing Virtual Try-On".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3E2rnQvU0fCTk5iGN1MMbzgiYer/hf_20260604_151251_092a48c7-4867-41ca-8d63-dfb1526785fb.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3E2rnQvU0fCTk5iGN1MMbzgiYer/hf_20260604_151251_092a48c7-4867-41ca-8d63-dfb1526785fb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3E2rnQvU0fCTk5iGN1MMbzgiYer/hf_20260604_151251_092a48c7-4867-41ca-8d63-dfb1526785fb_thumbnail.webp
 
 ```text
@@ -7735,7 +7735,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Unboxing ASMR".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3DgH8zZ7H7xieJnKMyo5N4NA9ge/hf_20260603_235259_8a9eed37-73ed-4c71-b6a8-a462a60beb50.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3DgH8zZ7H7xieJnKMyo5N4NA9ge/hf_20260603_235259_8a9eed37-73ed-4c71-b6a8-a462a60beb50.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3DgH8zZ7H7xieJnKMyo5N4NA9ge/hf_20260603_235259_8a9eed37-73ed-4c71-b6a8-a462a60beb50_thumbnail.webp
 
 ```text
@@ -7752,7 +7752,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Virtual Try-On Sneakers".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260505_015725_c13394e1-02c4-48fe-9d61-94f340d0e7f4.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260505_015725_c13394e1-02c4-48fe-9d61-94f340d0e7f4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260505_015725_c13394e1-02c4-48fe-9d61-94f340d0e7f4_thumbnail.webp
 
 ```text
@@ -7769,7 +7769,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Crush Test".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/mystery_box.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/mystery_box.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/mystery_box.jpg
 
 ```text
@@ -7786,7 +7786,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Mystery Box".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/reboxing.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/reboxing.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/reboxing.jpg
 
 ```text
@@ -7803,7 +7803,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Reboxing".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/tv-spot-mini.mp4
+- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/tv-spot-mini.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/marketing-studio-presets/tv-spot-mini-thumbnail.webp
 
 ```text
@@ -7820,7 +7820,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "TV Spot".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_153723_6b1bb39e-dd94-43fc-9fe8-007a658e49a5.mp4
+- **Preview Video:** https://d8j0ntlcm91z4.cloudfront.net/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_153723_6b1bb39e-dd94-43fc-9fe8-007a658e49a5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_153723_6b1bb39e-dd94-43fc-9fe8-007a658e49a5_thumbnail.webp
 
 ```text
@@ -7837,7 +7837,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "UGC Addiction".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/ugc_virtual_try_on.mp4
+- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/ugc_virtual_try_on.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/marketing-studio-presets/ugc_virtual_try_on-thumbnail.webp
 
 ```text
@@ -7854,7 +7854,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "UGC Virtual Try On".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/virtual_try_on.mp4
+- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/virtual_try_on.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/marketing-studio-presets/virtual_try_on-thumbnail.webp
 
 ```text
@@ -7871,7 +7871,7 @@ Marketing Studio V2 [UGC / UGC] — Style: "Pro Virtual Try On".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/wild_card.mp4
+- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/wild_card.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/marketing-studio-presets/wild_card-thumbnail.webp
 
 ```text
@@ -8032,7 +8032,7 @@ Marketing Studio V2 [Product shot / Standalone] — Style: "Usage".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `5s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/83bcfb32-b4dd-47b5-9cfe-0ab09d971282.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/83bcfb32-b4dd-47b5-9cfe-0ab09d971282.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/88a427c2-1740-4493-a9c1-fd1588eaf5fb.webp
 
 ```text
@@ -8049,7 +8049,7 @@ Marketing Studio V2 [Motion / 2D product motion] — Style: "General".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `15s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-hypermotion/1c4141ef-07a9-42b2-998a-ea2208d000c5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-hypermotion/1c4141ef-07a9-42b2-998a-ea2208d000c5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-hypermotion/f10c27f6-d539-47ba-b3d5-d7a35eed3c51.webp
 
 ```text
@@ -8066,7 +8066,7 @@ Marketing Studio V2 [Motion / Hypermotion] — Style: "General".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `15s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-hypermotion/a23c53dd-b07d-40f5-9d3a-c5c89fba8efa.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-hypermotion/a23c53dd-b07d-40f5-9d3a-c5c89fba8efa.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-hypermotion/0f448fc0-d591-462a-ac07-c88976c3be64.webp
 
 ```text
@@ -8083,7 +8083,7 @@ Marketing Studio V2 [Motion / Hypermotion] — Style: "Typography".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `15s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/acc1ab72-f43f-41d8-9d4b-9a72da284bab.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/acc1ab72-f43f-41d8-9d4b-9a72da284bab.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/ad4a7c85-b598-4045-9f93-be7dba96b2ed.webp
 
 ```text
@@ -8100,7 +8100,7 @@ Marketing Studio V2 [Motion / Hypermotion] — Style: "Dark Minimalism".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `15s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-hypermotion/5a9d5c90-c2f4-451a-8899-2a9e01f06316.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-hypermotion/5a9d5c90-c2f4-451a-8899-2a9e01f06316.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-hypermotion/3e90ff54-e611-4ac4-8ab4-f7a14e18e478.webp
 
 ```text
@@ -8117,7 +8117,7 @@ Marketing Studio V2 [Motion / Hypermotion] — Style: "Color pop".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `15s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/593b1f6d-1967-4dce-ac20-2d5df33e94b0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/593b1f6d-1967-4dce-ac20-2d5df33e94b0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-motion-preview/5f8aabc1-cf28-48c1-bab6-63ceccd6a142.webp
 
 ```text
@@ -8134,7 +8134,7 @@ Marketing Studio V2 [Motion / Mixed media] — Style: "General".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `5s (5-15s)`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-saas-motion/f1e76327-8ab0-46c2-a436-445cfe9870cf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-saas-motion/f1e76327-8ab0-46c2-a436-445cfe9870cf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-saas-motion/a3b23783-514a-4823-8924-3159ee7bfed6.webp
 
 ```text
@@ -8151,7 +8151,7 @@ Marketing Studio V2 [Motion / SaaS] — Style: "General".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/hyper-motion-mini.mp4
+- **Preview Video:** https://static.higgsfield.ai/marketing-studio-presets/hyper-motion-mini.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/marketing-studio-presets/hyper-motion-mini-thumbnail.webp
 
 ```text
@@ -11064,7 +11064,7 @@ Marketing Studio V2 [Marketplace / General] — Style: "Clean Studio".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_gadget_saved_me.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_gadget_saved_me.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/ugc_gadget_saved_me.jpg
 
 ```text
@@ -11081,7 +11081,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "This Gadget Saved Me".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/couple_sharing_home.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/couple_sharing_home.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/couple_sharing_home.jpg
 
 ```text
@@ -11098,7 +11098,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Couple Sharing At Home".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_selfie_testimonial.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_selfie_testimonial.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/ugc_selfie_testimonial.jpg
 
 ```text
@@ -11115,7 +11115,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Selfie Testimonial".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_direct_to_camera.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_direct_to_camera.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/ugc_direct_to_camera.jpg
 
 ```text
@@ -11132,7 +11132,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Direct-to-Camera".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_secret_hack_reveal.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/ugc_secret_hack_reveal.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/ugc_secret_hack_reveal.jpg
 
 ```text
@@ -11149,7 +11149,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Secret Hack Reveal".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/camera_pov.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/camera_pov.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/camera_pov.jpg
 
 ```text
@@ -11166,7 +11166,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Camera POV".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/classic_meets_modern.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/classic_meets_modern.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/classic_meets_modern.jpg
 
 ```text
@@ -11183,7 +11183,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Classic Meets Modern".
 - **Image Model:** Soul 2.0 / Nano Banana Pro (Marketing V2 Anchor)
 - **Video Model:** Seedance 2.5 (Commercial Video Pipeline)
 - **Settings:** Aspect Ratio `21:9 / 16:9 / 4:3` | Duration `12s (4-15s)`
-- **Preview Video:** https://static.higgsfield.ai/ms-modes/mess_to_fresh.mp4
+- **Preview Video:** https://static.higgsfield.ai/ms-modes/mess_to_fresh.mp4 (Audio Included)
 - **Preview Image:** https://static.higgsfield.ai/ms-modes/mess_to_fresh.jpg
 
 ```text
@@ -11200,7 +11200,7 @@ Marketing Studio V2 [TikTok / TikTok] — Style: "Mess to Fresh".
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/c52585a4-62ec-46fa-b9d4-4e380babe83d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/c52585a4-62ec-46fa-b9d4-4e380babe83d.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Simple UGC" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11216,7 +11216,7 @@ Vertical 9:16 Link-to-Ad spot in the "Simple UGC" style featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/57cc1d62-25de-406d-a72f-8d1ffccedd2f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/57cc1d62-25de-406d-a72f-8d1ffccedd2f.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Clean Minimal" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11232,7 +11232,7 @@ Vertical 9:16 Link-to-Ad spot in the "Clean Minimal" style featuring (the produc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/4faa72d7-d8a2-4037-a57e-753d0b8b76fa.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/4faa72d7-d8a2-4037-a57e-753d0b8b76fa.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Unboxing" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11248,7 +11248,7 @@ Vertical 9:16 Link-to-Ad spot in the "Unboxing" style featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/161e7c18-6448-4e3a-80aa-86523027dc8c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/161e7c18-6448-4e3a-80aa-86523027dc8c.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Customer Reviews" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11264,7 +11264,7 @@ Vertical 9:16 Link-to-Ad spot in the "Customer Reviews" style featuring (the pro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/9c8a936d-5ec6-4a0c-bda2-df954268877b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/9c8a936d-5ec6-4a0c-bda2-df954268877b.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Viral Chaos" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11280,7 +11280,7 @@ Vertical 9:16 Link-to-Ad spot in the "Viral Chaos" style featuring (the product 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/51748eea-5159-44b9-bbcb-f11a49cea887.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/51748eea-5159-44b9-bbcb-f11a49cea887.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Luxury" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11296,7 +11296,7 @@ Vertical 9:16 Link-to-Ad spot in the "Luxury" style featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/f3b6a5ec-1d5d-470c-b544-039823c611b1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/f3b6a5ec-1d5d-470c-b544-039823c611b1.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Product Story" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11312,7 +11312,7 @@ Vertical 9:16 Link-to-Ad spot in the "Product Story" style featuring (the produc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/8b6b9423-8805-42e7-8653-97860edb51c3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/8b6b9423-8805-42e7-8653-97860edb51c3.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Cozy Morning" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11328,7 +11328,7 @@ Vertical 9:16 Link-to-Ad spot in the "Cozy Morning" style featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/d261add4-53b9-413e-a1c8-fb03738aa194.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/d261add4-53b9-413e-a1c8-fb03738aa194.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Red Carpet" style featuring (the product from the reference image) and (the character from the reference image).
@@ -11344,7 +11344,7 @@ Vertical 9:16 Link-to-Ad spot in the "Red Carpet" style featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Veo 3 / Seedance 2.5 Commercial Ad Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/133c2fff-5dbf-4a14-aad9-5ee95e8a7add.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/133c2fff-5dbf-4a14-aad9-5ee95e8a7add.mp4 (Audio Included)
 
 ```text
 Vertical 9:16 Link-to-Ad spot in the "Elegant Minimal" style featuring (the product from the reference image) and (the character from the reference image).
@@ -13290,7 +13290,7 @@ This is a gallery command. Call get_presets exactly once with {"source":"marketi
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/4dcc2a50-47de-46a1-b7e6-d5bd378bb5d1-91841e48382ec5af.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/4dcc2a50-47de-46a1-b7e6-d5bd378bb5d1-91841e48382ec5af.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260413_132040_3db6758b-7eef-4046-87e1-ec81097c126e_thumbnail.webp
 
 ```text
@@ -13306,7 +13306,7 @@ Commercial "UGC Virtual Try On" (talking-head) video featuring (the product from
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/7a567942-d3ba-40eb-aefd-f35234822e1d-6e434c55fc168de3.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/7a567942-d3ba-40eb-aefd-f35234822e1d-6e434c55fc168de3.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/7a567942-d3ba-40eb-aefd-f35234822e1d-238e967259a32bc6.jpg
 
 ```text
@@ -13322,7 +13322,7 @@ Commercial "Unboxing ASMR" (legacy-ugc) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/673f69ef-ce17-4d6b-8ab1-013227ebd4f8-f93a31197c149814.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/673f69ef-ce17-4d6b-8ab1-013227ebd4f8-f93a31197c149814.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/673f69ef-ce17-4d6b-8ab1-013227ebd4f8-1b85e378be21effd.jpg
 
 ```text
@@ -13338,7 +13338,7 @@ Commercial "Unboxing ASMR" (legacy-ugc) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/57ebd495-fe89-43e1-9303-0d0bc13d4803-0e9659406f9ad673.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/57ebd495-fe89-43e1-9303-0d0bc13d4803-0e9659406f9ad673.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/57ebd495-fe89-43e1-9303-0d0bc13d4803-f11402dd04eb4ca9.jpg
 
 ```text
@@ -13354,7 +13354,7 @@ Commercial "Crush Test" (legacy-ugc) video featuring (the product from the refer
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0eeebf5d-d445-406b-8558-49931d6954a7-bb96f5ba6a13529d.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0eeebf5d-d445-406b-8558-49931d6954a7-bb96f5ba6a13529d.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/0eeebf5d-d445-406b-8558-49931d6954a7-4b57e9e26bf52a3f.jpg
 
 ```text
@@ -13370,7 +13370,7 @@ Commercial "Crush Test" (legacy-ugc) video featuring (the product from the refer
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/81d8dd38-4868-4b6f-93c6-6c0b2e3af9bf-b6961c1ba34ff315.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/81d8dd38-4868-4b6f-93c6-6c0b2e3af9bf-b6961c1ba34ff315.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/81d8dd38-4868-4b6f-93c6-6c0b2e3af9bf-f2fef8c0521bd90b.jpg
 
 ```text
@@ -13386,7 +13386,7 @@ Commercial "Mystery Box" (legacy-ugc) video featuring (the product from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5afcdf1f-587a-4062-8476-e791b5117f9b-a94d63838639490d.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5afcdf1f-587a-4062-8476-e791b5117f9b-a94d63838639490d.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/5afcdf1f-587a-4062-8476-e791b5117f9b-f175a7e7b862ce02.jpg
 
 ```text
@@ -13402,7 +13402,7 @@ Commercial "Couple Sharing At Home" (talking-head) video featuring (the product 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/bd2fea84-cac5-4c31-9dc8-9c138034e678-e67985b14afaf9a4.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/bd2fea84-cac5-4c31-9dc8-9c138034e678-e67985b14afaf9a4.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/bd2fea84-cac5-4c31-9dc8-9c138034e678-ff100cef3b8f3e16.jpg
 
 ```text
@@ -13418,7 +13418,7 @@ Commercial "Mystery Box" (legacy-ugc) video featuring (the product from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5fcbc237-7bfc-4275-8c8c-6c0c80eff401-dcb267808091d553.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5fcbc237-7bfc-4275-8c8c-6c0c80eff401-dcb267808091d553.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3DgH8zZ7H7xieJnKMyo5N4NA9ge/hf_20260603_235259_8a9eed37-73ed-4c71-b6a8-a462a60beb50_thumbnail.webp
 
 ```text
@@ -13434,7 +13434,7 @@ Commercial "Virtual Try-On Sneakers" (talking-head) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/e3cd07ef-5e21-4c2f-a852-de0458478c38-f787209afb7f88bd.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/e3cd07ef-5e21-4c2f-a852-de0458478c38-f787209afb7f88bd.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/e3cd07ef-5e21-4c2f-a852-de0458478c38-5c8535d15deb561c.jpg
 
 ```text
@@ -13450,7 +13450,7 @@ Commercial "Reboxing" (legacy-ugc) video featuring (the product from the referen
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/f27dd492-3500-4cab-8908-3761e90e2c3a-641858734e476a04.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/f27dd492-3500-4cab-8908-3761e90e2c3a-641858734e476a04.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/f27dd492-3500-4cab-8908-3761e90e2c3a-f6cc7382f230e5d0.jpg
 
 ```text
@@ -13466,7 +13466,7 @@ Commercial "Reboxing" (legacy-ugc) video featuring (the product from the referen
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/bedf8af1-02d9-4fd7-9ba6-3dfcf97a31e4-f03c0e8e212e6a34.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/bedf8af1-02d9-4fd7-9ba6-3dfcf97a31e4-f03c0e8e212e6a34.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260413_193106_5dc8e700-618e-4fbd-a5ae-85db21e5467e_thumbnail.webp
 
 ```text
@@ -13482,7 +13482,7 @@ Commercial "TV Spot" (legacy-ugc) video featuring (the product from the referenc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/be999acc-2071-4d0c-826e-d32d26aca83f-bbc8b5564aa15498.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/be999acc-2071-4d0c-826e-d32d26aca83f-bbc8b5564aa15498.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_39acLUpaKDzX3Ox7Ekzzl7vlQ67/hf_20260413_211340_001f3ccf-8398-499a-97c1-d0fd07574718_thumbnail.webp
 
 ```text
@@ -13498,7 +13498,7 @@ Commercial "TV Spot" (legacy-ugc) video featuring (the product from the referenc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5d5e8bfb-5974-467b-a25c-3fd9f5fe1dee-b6dcafbbae6d45f0.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5d5e8bfb-5974-467b-a25c-3fd9f5fe1dee-b6dcafbbae6d45f0.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/5d5e8bfb-5974-467b-a25c-3fd9f5fe1dee-7f9df375f118c008.jpg
 
 ```text
@@ -13514,7 +13514,7 @@ Commercial "UGC Addiction" (legacy-ugc) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/05890125-e769-4e08-939e-8fa40eadb95f-6ffc164d57e9f3db.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/05890125-e769-4e08-939e-8fa40eadb95f-6ffc164d57e9f3db.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/05890125-e769-4e08-939e-8fa40eadb95f-96a4ddc7a28d0041.jpg
 
 ```text
@@ -13530,7 +13530,7 @@ Commercial "UGC Addiction" (legacy-ugc) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/809b9092-e515-49a0-802f-294a60375676-fbf4cac8830fbe0a.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/809b9092-e515-49a0-802f-294a60375676-fbf4cac8830fbe0a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_225935_abf54d8e-3766-4bf5-9163-2f87467c9953_thumbnail.webp
 
 ```text
@@ -13546,7 +13546,7 @@ Commercial "Unboxing Virtual Try-On" (talking-head) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/c9f0c947-946a-4e15-b124-b7031b432434-983df3ca6a193776.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/c9f0c947-946a-4e15-b124-b7031b432434-983df3ca6a193776.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Cfdr00kbZ1hJCLpPQkaicInqxv/hf_20260603_150008_ee9cf142-7741-40e9-8076-897fb0947742_thumbnail.webp
 
 ```text
@@ -13562,7 +13562,7 @@ Commercial "Giant Figure" (talking-head) video featuring (the product from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a9af9e6c-f2ca-4bc6-8681-bb8e132a0af3-90973eabda978417.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/a9af9e6c-f2ca-4bc6-8681-bb8e132a0af3-90973eabda978417.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/a9af9e6c-f2ca-4bc6-8681-bb8e132a0af3-685ceb1fb93b1eee.jpg
 
 ```text
@@ -13578,7 +13578,7 @@ Commercial "This Gadget Saved Me" (talking-head) video featuring (the product fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `12s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/04a5d814-1547-4c1f-929d-e0ce169b339b-a223e78ad7b8c947.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/04a5d814-1547-4c1f-929d-e0ce169b339b-a223e78ad7b8c947.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3E2rnQvU0fCTk5iGN1MMbzgiYer/hf_20260624_190426_de307d14-7583-41d8-b560-4db06e116337_thumbnail.webp
 
 ```text
@@ -13594,7 +13594,7 @@ Commercial "Wild Card" (legacy-ugc) video featuring (the product from the refere
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0fccea17-f6f1-4e3b-a635-b48dd93a85be-c3aa277abeeeeae0.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0fccea17-f6f1-4e3b-a635-b48dd93a85be-c3aa277abeeeeae0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3BtuMjeO56IlCCzTiD419c4NiyM/hf_20260624_201434_946b3f11-a78d-432e-9df4-e41dd1bbd5a1_thumbnail.webp
 
 ```text
@@ -13610,7 +13610,7 @@ Commercial "Wild Card" (legacy-ugc) video featuring (the product from the refere
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/b7e4b8bb-6fc8-478b-ab43-d25743e9ad77.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/b7e4b8bb-6fc8-478b-ab43-d25743e9ad77.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/5460e307-167f-42d9-802f-c1a0c7491c17.webp
 
 ```text
@@ -13626,7 +13626,7 @@ Commercial "Storybook Page Turns" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/7227e3ac-beaa-4504-9e5b-f6d047886faf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/7227e3ac-beaa-4504-9e5b-f6d047886faf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/b5661e03-9032-417f-97d3-4265dd7c7b65.webp
 
 ```text
@@ -13642,7 +13642,7 @@ Commercial "Fashion Editorial Reveal" (2d-product-motion) video featuring (the p
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/fa95fcb8-3065-4689-aff0-2bef242c69c8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/fa95fcb8-3065-4689-aff0-2bef242c69c8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/ac0c280a-1543-4d07-bc2f-ec14838ba38b.webp
 
 ```text
@@ -13658,7 +13658,7 @@ Commercial "Music Zine Collage" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/86d7777e-46ef-467f-a252-8380df9080af-f9f3240b3ba0f6c5.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/86d7777e-46ef-467f-a252-8380df9080af-f9f3240b3ba0f6c5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_34hPp7fXOu4gkTrKKk2ESqFSfG1/hf_20260413_124545_9ae0acdc-4d0e-4c03-a065-b572bf9c66cf_thumbnail.webp
 
 ```text
@@ -13674,7 +13674,7 @@ Commercial "Product Showcase" (legacy-motion) video featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/465516fa-2b81-4d28-9c7b-1ae76d6adff5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/465516fa-2b81-4d28-9c7b-1ae76d6adff5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/190f3072-1ead-47a4-9256-f682690eae0c.webp
 
 ```text
@@ -13690,7 +13690,7 @@ Commercial "Continuous Line Botanical" (2d-product-motion) video featuring (the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/4f188f9d-3ee2-447b-bd9e-63a9ab60811d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/4f188f9d-3ee2-447b-bd9e-63a9ab60811d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/d414fabd-13ac-4b29-b15d-ad0479fe543c.webp
 
 ```text
@@ -13706,7 +13706,7 @@ Commercial "Sticker Bomb To Minimal" (2d-product-motion) video featuring (the pr
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/0e566f58-daa7-4b55-b110-9f7861b87f7f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/0e566f58-daa7-4b55-b110-9f7861b87f7f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/9b3ec5b6-277a-472d-b08f-eb6e584be8b9.webp
 
 ```text
@@ -13722,7 +13722,7 @@ Commercial "Falling Type Mosaic" (2d-product-motion) video featuring (the produc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/5d3a2147-1049-4dcc-afcb-33eb879df612.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/5d3a2147-1049-4dcc-afcb-33eb879df612.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/29b90e1f-64e3-42e2-a463-4b255eb6feb3.webp
 
 ```text
@@ -13738,7 +13738,7 @@ Commercial "Cat And Mint Pulse" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/0164971e-0d43-44af-afbd-55e01d080e1e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/0164971e-0d43-44af-afbd-55e01d080e1e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/b4519ec4-9fc0-45a3-9430-56cc24f62b86.webp
 
 ```text
@@ -13754,7 +13754,7 @@ Commercial "Split Flap Scoreboard" (2d-product-motion) video featuring (the prod
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/d27129f4-ce3e-4ab8-a32a-a4707f84b57b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/d27129f4-ce3e-4ab8-a32a-a4707f84b57b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/541aafb8-54ec-49c8-bd84-8db98dab9d75.webp
 
 ```text
@@ -13770,7 +13770,7 @@ Commercial "Constellation Bottle Outline" (2d-product-motion) video featuring (t
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/c27b92d6-0757-4ce9-a835-e9bf5349448d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/c27b92d6-0757-4ce9-a835-e9bf5349448d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/3c7abc0e-3901-408f-ba25-938aa8f47797.webp
 
 ```text
@@ -13786,7 +13786,7 @@ Commercial "Expanding Type Rings" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/9d361545-f96b-48e9-85e2-cc76b6dd76cc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/9d361545-f96b-48e9-85e2-cc76b6dd76cc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/7ac0cf83-09b3-4939-929d-4a2a4a8a7f0f.webp
 
 ```text
@@ -13802,7 +13802,7 @@ Commercial "Scale Doubling Editorial" (2d-product-motion) video featuring (the p
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5d6a8621-cc39-4347-b8b7-91e1509b21ee-cefa4045a4d68c9b.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5d6a8621-cc39-4347-b8b7-91e1509b21ee-cefa4045a4d68c9b.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/5d6a8621-cc39-4347-b8b7-91e1509b21ee-e4f321f718c6a1ab.jpg
 
 ```text
@@ -13818,7 +13818,7 @@ Commercial "Selfie Testimonial" (legacy-tiktok) video featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/69836131-0841-49eb-b052-1cf62dd98078.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/69836131-0841-49eb-b052-1cf62dd98078.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/679f4f40-42b4-40d3-90a4-a670ed2044e9.webp
 
 ```text
@@ -13834,7 +13834,7 @@ Commercial "Tile Mosaic Spiral" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/7375cf22-0e39-46f8-b40c-73cbe3e88f44-44afa79979b2b168.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/7375cf22-0e39-46f8-b40c-73cbe3e88f44-44afa79979b2b168.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/7375cf22-0e39-46f8-b40c-73cbe3e88f44-8b2b4b494524d5f4.jpg
 
 ```text
@@ -13850,7 +13850,7 @@ Commercial "Selfie Testimonial" (legacy-tiktok) video featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/90662225-5934-48a2-8240-53c6fab48d65.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/90662225-5934-48a2-8240-53c6fab48d65.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/d92907d7-6a3e-4eca-98be-e7b6deb88ba0.webp
 
 ```text
@@ -13866,7 +13866,7 @@ Commercial "Paper Cut Shadow Theatre" (2d-product-motion) video featuring (the p
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/5a6500e8-f68d-4eb6-9c09-3363d7e671d0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/5a6500e8-f68d-4eb6-9c09-3363d7e671d0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/77332fa2-a094-4831-8396-1063f0ccf557.webp
 
 ```text
@@ -13882,7 +13882,7 @@ Commercial "Sunburst Louvres" (2d-product-motion) video featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `16:9` | Duration `12s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/97272ca9-9c59-4ecc-a0a2-1d67d71d6fed-302a960390ccca70.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/97272ca9-9c59-4ecc-a0a2-1d67d71d6fed-302a960390ccca70.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3Bu8kApHUBmQcoBNUYoyCcOGJne/hf_20260414_170749_3474b08b-9dc4-49e6-b6e2-4af862eff61d_thumbnail.webp
 
 ```text
@@ -13898,7 +13898,7 @@ Commercial "Product Showcase" (legacy-motion) video featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/125e89bd-685f-4f22-aa5a-af3f354e82dd-d950b4d0714e6875.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/125e89bd-685f-4f22-aa5a-af3f354e82dd-d950b4d0714e6875.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/125e89bd-685f-4f22-aa5a-af3f354e82dd-705786a84475d218.jpg
 
 ```text
@@ -13914,7 +13914,7 @@ Commercial "Selfie Testimonial" (legacy-tiktok) video featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/04ffd140-7292-476e-ab10-091e983440dd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/04ffd140-7292-476e-ab10-091e983440dd.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/a62ca4f9-352e-4d90-bc2f-ecc7e2ee93fd.webp
 
 ```text
@@ -13930,7 +13930,7 @@ Commercial "Chili Mascot Pole Vault" (2d-product-motion) video featuring (the pr
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/67f7d3d8-78cf-4dc5-81fb-2c8dd7371548.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/67f7d3d8-78cf-4dc5-81fb-2c8dd7371548.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/4c630789-fcf1-4a4c-8131-520950b3de66.webp
 
 ```text
@@ -13946,7 +13946,7 @@ Commercial "Zoomies Racetrack" (2d-product-motion) video featuring (the product 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/d5525d0f-4c04-45b9-bf7b-9919522ad829.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/d5525d0f-4c04-45b9-bf7b-9919522ad829.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/25bbd9d7-4b82-4804-8350-065f5cb92a36.webp
 
 ```text
@@ -13962,7 +13962,7 @@ Commercial "Ghost Box Trampoline" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0708a3d1-c6b8-4097-9221-9798b21a47b2-187534335af7fdcf.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/0708a3d1-c6b8-4097-9221-9798b21a47b2-187534335af7fdcf.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/0708a3d1-c6b8-4097-9221-9798b21a47b2-cbf7216c13876ecc.jpg
 
 ```text
@@ -13978,7 +13978,7 @@ Commercial "Direct-to-Camera" (legacy-tiktok) video featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/ed94dbad-27a1-4880-85b7-d9ac7a871199.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/ed94dbad-27a1-4880-85b7-d9ac7a871199.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/2b88632c-93d6-4284-b50f-4dd8282c46e6.webp
 
 ```text
@@ -13994,7 +13994,7 @@ Commercial "Groovy Mascot Walk" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/55aaa9ba-5880-435a-bf29-26c61c78ca85.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/55aaa9ba-5880-435a-bf29-26c61c78ca85.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/fe0c3571-034b-41c6-ab6a-cd445ece7b69.webp
 
 ```text
@@ -14010,7 +14010,7 @@ Commercial "Cartoon Hands Crunch" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/17dd9ae4-3af9-486a-8135-4f1658f4e804-11e0ebcd31a00379.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/17dd9ae4-3af9-486a-8135-4f1658f4e804-11e0ebcd31a00379.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/17dd9ae4-3af9-486a-8135-4f1658f4e804-5f3542f8e4320ff3.jpg
 
 ```text
@@ -14026,7 +14026,7 @@ Commercial "Direct-to-Camera" (legacy-tiktok) video featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/1cfe1cf8-2316-4bce-bda4-f0879f6e2459.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/1cfe1cf8-2316-4bce-bda4-f0879f6e2459.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/0f6c6654-3d53-4291-9461-a338c9ebcccc.webp
 
 ```text
@@ -14042,7 +14042,7 @@ Commercial "Soft Background Swap" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/211c66a3-3b62-4809-83dd-807aaaf4a4b1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/211c66a3-3b62-4809-83dd-807aaaf4a4b1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/7188af80-0fbb-4bff-9285-f88ca361d11f.webp
 
 ```text
@@ -14058,7 +14058,7 @@ Commercial "Starburst Kaleidoscope" (2d-product-motion) video featuring (the pro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/3bbbe6ea-69f7-4784-bf4f-1e42c1f30091.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/3bbbe6ea-69f7-4784-bf4f-1e42c1f30091.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/4f1502b1-87e8-4a67-84f3-b3c3164241f7.webp
 
 ```text
@@ -14074,7 +14074,7 @@ Commercial "Editorial Mosaic Grid" (2d-product-motion) video featuring (the prod
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/3aa69d22-768c-4949-b96c-998d97265f4d-0612a64a1c32c71f.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/3aa69d22-768c-4949-b96c-998d97265f4d-0612a64a1c32c71f.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/3aa69d22-768c-4949-b96c-998d97265f4d-c0a9470733c1e052.jpg
 
 ```text
@@ -14090,7 +14090,7 @@ Commercial "Secret Hack Reveal" (legacy-tiktok) video featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/ef11d25d-3a3f-4eef-8139-bea8eec5f3db.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/ef11d25d-3a3f-4eef-8139-bea8eec5f3db.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/7ebdff22-009d-4ac9-bb3e-380bccea7e34.webp
 
 ```text
@@ -14106,7 +14106,7 @@ Commercial "Powder Particle Type" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/1e2b7120-feb5-4db1-97e7-651738aa6554.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/1e2b7120-feb5-4db1-97e7-651738aa6554.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/96f81eff-c4f8-4076-8828-072dcdab66b0.webp
 
 ```text
@@ -14122,7 +14122,7 @@ Commercial "Crunch Waveform Visualizer" (2d-product-motion) video featuring (the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `13s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/e87d31bd-d3de-4322-ba5a-f17e05dfdcf5-ef365fcd15a53f64.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/e87d31bd-d3de-4322-ba5a-f17e05dfdcf5-ef365fcd15a53f64.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/e87d31bd-d3de-4322-ba5a-f17e05dfdcf5-04b8932c119b484b.jpg
 
 ```text
@@ -14138,7 +14138,7 @@ Commercial "Secret Hack Reveal" (legacy-tiktok) video featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `16:9` | Duration `9s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/1a1d6f45-9740-4ebe-841d-4a5f5009961b-d04c9eb9811aac18.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/1a1d6f45-9740-4ebe-841d-4a5f5009961b-d04c9eb9811aac18.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_2vV68Ukpv101mL5Dprsk6JvfLMI/hf_20260414_230955_d7382d46-8c96-4e25-8a5f-1785ed64b886_thumbnail.webp
 
 ```text
@@ -14154,7 +14154,7 @@ Commercial "Product Showcase" (legacy-motion) video featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/730f43ff-94f4-4ba3-bfe8-9b1164364fc7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/730f43ff-94f4-4ba3-bfe8-9b1164364fc7.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/4aeda4c3-db5d-4800-ba77-ce4df36a9a2a.webp
 
 ```text
@@ -14170,7 +14170,7 @@ Commercial "Liquid Wave Wipes" (2d-product-motion) video featuring (the product 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/40c5b4f8-2855-41ef-bb60-754eb85fe523.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/40c5b4f8-2855-41ef-bb60-754eb85fe523.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/19ec9603-634a-4834-8ecb-b7ce2041fc53.webp
 
 ```text
@@ -14186,7 +14186,7 @@ Commercial "Countdown Zero" (2d-product-motion) video featuring (the product fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/40ea85b1-fada-4f85-9abd-274923973cbf-5f3dbd6e242bc718.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/40ea85b1-fada-4f85-9abd-274923973cbf-5f3dbd6e242bc718.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/40ea85b1-fada-4f85-9abd-274923973cbf-ae4ebf53a7bf8ab1.jpg
 
 ```text
@@ -14202,7 +14202,7 @@ Commercial "Camera POV" (legacy-tiktok) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/966fcb49-d83b-44fd-9eeb-b9aa450f4f7c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/966fcb49-d83b-44fd-9eeb-b9aa450f4f7c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/3348156c-2488-4f11-bf1a-623b1145efa5.webp
 
 ```text
@@ -14218,7 +14218,7 @@ Commercial "Gel Line Drawing" (2d-product-motion) video featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5af01b17-c727-4755-9f92-10da87d1c71c-30114dc516dca6ea.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/5af01b17-c727-4755-9f92-10da87d1c71c-30114dc516dca6ea.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/5af01b17-c727-4755-9f92-10da87d1c71c-2ba3748fa05187ae.jpg
 
 ```text
@@ -14234,7 +14234,7 @@ Commercial "Camera POV" (legacy-tiktok) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/782ef53d-fa1a-40b2-8b29-d99c8e9bd8f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/782ef53d-fa1a-40b2-8b29-d99c8e9bd8f6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/9b3dcc1c-1333-4fed-8a18-3130b2336db9.webp
 
 ```text
@@ -14250,7 +14250,7 @@ Commercial "Elastic Swiss Grid" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/120df0c5-a3e0-4591-a35d-20b6f487da5d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/120df0c5-a3e0-4591-a35d-20b6f487da5d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/682e5a1f-e1af-408c-92dc-066b933a4151.webp
 
 ```text
@@ -14266,7 +14266,7 @@ Commercial "Pop Art Comic Panels" (2d-product-motion) video featuring (the produ
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/cace73e2-f7d9-4d29-b3bc-ddd79bb82358-f55461be871c9dbd.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/cace73e2-f7d9-4d29-b3bc-ddd79bb82358-f55461be871c9dbd.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/cace73e2-f7d9-4d29-b3bc-ddd79bb82358-de2819c1f9736015.jpg
 
 ```text
@@ -14282,7 +14282,7 @@ Commercial "Camera POV" (legacy-tiktok) video featuring (the product from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/b8993fb6-f746-4fbd-8056-622addd7a244.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/b8993fb6-f746-4fbd-8056-622addd7a244.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/21507579-7c2c-46a8-be9e-ba4fd8028616.webp
 
 ```text
@@ -14298,7 +14298,7 @@ Commercial "Constructivist Type Wedges" (2d-product-motion) video featuring (the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/b41aee42-71e1-4dd8-8fd7-381b670203d5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/b41aee42-71e1-4dd8-8fd7-381b670203d5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/5d002ab0-135a-4799-a5d2-a09222ddf0e8.webp
 
 ```text
@@ -14314,7 +14314,7 @@ Commercial "Japanese Minimal Punctuation" (2d-product-motion) video featuring (t
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/341ee85a-3a25-4816-ba2c-2cdbc56406a7-e07d6ec638ef3375.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/341ee85a-3a25-4816-ba2c-2cdbc56406a7-e07d6ec638ef3375.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/341ee85a-3a25-4816-ba2c-2cdbc56406a7-f7b943d7b740101c.jpg
 
 ```text
@@ -14330,7 +14330,7 @@ Commercial "Classic Meets Modern" (legacy-tiktok) video featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/088ddf1a-699e-4f8c-83ae-c4f4958f4de5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/088ddf1a-699e-4f8c-83ae-c4f4958f4de5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/dd1737cc-87af-44fb-bb23-3953d2fd42b0.webp
 
 ```text
@@ -14346,7 +14346,7 @@ Commercial "Risograph Misregistration" (2d-product-motion) video featuring (the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/513c91d0-d268-47ac-94d7-a0b6a20a4af3-01675eae1d271215.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/513c91d0-d268-47ac-94d7-a0b6a20a4af3-01675eae1d271215.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/513c91d0-d268-47ac-94d7-a0b6a20a4af3-736e67e37d732999.jpg
 
 ```text
@@ -14362,7 +14362,7 @@ Commercial "Classic Meets Modern" (legacy-tiktok) video featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/d47dc7de-88af-4db2-b93c-3f0e41845fea.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/d47dc7de-88af-4db2-b93c-3f0e41845fea.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/11a0b1cb-8c78-4539-8692-cdb07fa2eb87.webp
 
 ```text
@@ -14378,7 +14378,7 @@ Commercial "Acid Diagonal Editorial" (2d-product-motion) video featuring (the pr
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/171c4bc2-ce67-4a63-872d-fcd6eb2b3f4e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/171c4bc2-ce67-4a63-872d-fcd6eb2b3f4e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/b72d55eb-1358-4913-82fb-a2f2f32f72d0.webp
 
 ```text
@@ -14394,7 +14394,7 @@ Commercial "Marker Capsule Grid" (2d-product-motion) video featuring (the produc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `11s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/6c05c3b4-7e1c-4538-9e06-d6fb7096dde9-dd64cdbb53253ed2.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/6c05c3b4-7e1c-4538-9e06-d6fb7096dde9-dd64cdbb53253ed2.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/6c05c3b4-7e1c-4538-9e06-d6fb7096dde9-4e357e85b2f8267f.jpg
 
 ```text
@@ -14410,7 +14410,7 @@ Commercial "Classic Meets Modern" (legacy-tiktok) video featuring (the product f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/e4447437-50f3-4c49-b2ef-a5cb4a2e3c60.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/e4447437-50f3-4c49-b2ef-a5cb4a2e3c60.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/1becd22e-1d5f-47ce-ab15-2745fe49a530.webp
 
 ```text
@@ -14426,7 +14426,7 @@ Commercial "Botanical Archive" (2d-product-motion) video featuring (the product 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `8s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/4e11519c-a3be-4daa-965c-9f851ea29be6-fb72353be4978fa3.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/4e11519c-a3be-4daa-965c-9f851ea29be6-fb72353be4978fa3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/user_3BtuMjeO56IlCCzTiD419c4NiyM/hf_20260624_204559_8e21f0ed-798f-4e94-83da-52c2a68a3f53_thumbnail.webp
 
 ```text
@@ -14442,7 +14442,7 @@ Commercial "Product Showcase" (legacy-motion) video featuring (the product from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/c06a8f24-b5aa-4613-ad42-d4cc22434c41.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/c06a8f24-b5aa-4613-ad42-d4cc22434c41.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/88f43cbe-345f-4b13-975b-9f6cb91aa834.webp
 
 ```text
@@ -14458,7 +14458,7 @@ Commercial "Op Art Stripe Type" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/e407bdfc-6031-496f-bfc2-3528eff1db78-b1a8024a191358fb.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/e407bdfc-6031-496f-bfc2-3528eff1db78-b1a8024a191358fb.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/e407bdfc-6031-496f-bfc2-3528eff1db78-816ea73dc6b24661.jpg
 
 ```text
@@ -14474,7 +14474,7 @@ Commercial "Mess to Fresh" (legacy-tiktok) video featuring (the product from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/0a052c97-29cf-4e8e-9ced-bbba095e5a8c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/0a052c97-29cf-4e8e-9ced-bbba095e5a8c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/831bf580-d96c-4423-8c1b-aca15eb2a0c6.webp
 
 ```text
@@ -14490,7 +14490,7 @@ Commercial "Pixel Grid Soda Pop" (2d-product-motion) video featuring (the produc
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `15s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/71d459a3-7025-459b-82fb-8ba29008ba32-1c64ea186d659820.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/71d459a3-7025-459b-82fb-8ba29008ba32-1c64ea186d659820.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/71d459a3-7025-459b-82fb-8ba29008ba32-59e74e09c1319ea2.jpg
 
 ```text
@@ -14506,7 +14506,7 @@ Commercial "Mess to Fresh" (legacy-tiktok) video featuring (the product from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/64582090-88da-4b94-80a8-e67d01894c1e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/64582090-88da-4b94-80a8-e67d01894c1e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/5920d447-55ab-437b-b6c2-7a9ec90b48c6.webp
 
 ```text
@@ -14522,7 +14522,7 @@ Commercial "Botanical Line Art" (2d-product-motion) video featuring (the product
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/69158467-99fd-4e6a-a712-feb288485bd9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/69158467-99fd-4e6a-a712-feb288485bd9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/b2c17f8b-1f92-4d32-a655-bb934fe47a1a.webp
 
 ```text
@@ -14538,7 +14538,7 @@ Commercial "Type Wall" (2d-product-motion) video featuring (the product from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `3:4` | Duration `10s`
-- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/1a129f19-4c5c-40f9-9318-a7ebcc9ee531-4cb13abd7396f03f.mp4
+- **Preview Video:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_video_preset/1a129f19-4c5c-40f9-9318-a7ebcc9ee531-4cb13abd7396f03f.mp4 (Audio Included)
 - **Preview Image:** https://d29nkk4626dxhc.cloudfront.net/marketing_studio_preset_thumbnails/1a129f19-4c5c-40f9-9318-a7ebcc9ee531-1f5a70a20684350b.jpg
 
 ```text
@@ -14554,7 +14554,7 @@ Commercial "Mess to Fresh" (legacy-tiktok) video featuring (the product from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.5 Commercial Video Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/9835fe43-19d2-4ca9-8c66-5dd4fb608820.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-v2-2d-motion/9835fe43-19d2-4ca9-8c66-5dd4fb608820.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cdn-cgi/image/width=1080,quality=80,format=auto/marketing-studio-v2-2d-motion/3fc01421-7941-4523-80c2-f056d493a64a.webp
 
 ```text
@@ -14574,7 +14574,7 @@ Commercial "Gradient Product Float" (2d-product-motion) video featuring (the pro
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `12s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d877f71c-d2f3-44df-9317-f3ce6889bcb6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d877f71c-d2f3-44df-9317-f3ce6889bcb6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/151664fa-7f7f-43d6-80fa-4683104a3c02.webp
 
 ```text
@@ -14591,7 +14591,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d63d47dd-d00f-42c8-9c45-9bddd3df7a38.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d63d47dd-d00f-42c8-9c45-9bddd3df7a38.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/a9944d26-47dc-463f-b4d6-446c371ae2f7.webp
 
 ```text
@@ -14608,7 +14608,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/dba03734-6e8a-4337-acb4-17ce943563d8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/dba03734-6e8a-4337-acb4-17ce943563d8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/5354ce11-c68c-45a0-8a97-5aab94f52833.webp
 
 ```text
@@ -14625,7 +14625,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/a64711ac-93b8-46ee-a9ce-37ee5c18e148.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/a64711ac-93b8-46ee-a9ce-37ee5c18e148.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/b5c90864-c3c5-4b14-87a0-3739250fd00b.webp
 
 ```text
@@ -14642,7 +14642,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/8cd9e3fc-8e4f-4071-abff-8934f3381507.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/8cd9e3fc-8e4f-4071-abff-8934f3381507.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/99aa3365-5ae0-4616-9722-ce0dc087607d.webp
 
 ```text
@@ -14659,7 +14659,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/9a8e4804-9e49-4a3b-8087-021ba9b447cf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/9a8e4804-9e49-4a3b-8087-021ba9b447cf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/b703fc00-16e8-4036-acc2-6519ab82bf03.webp
 
 ```text
@@ -14676,7 +14676,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c32886ee-2d15-4697-a366-041a9deaffe2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c32886ee-2d15-4697-a366-041a9deaffe2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/4a2315f6-57e1-4378-82a5-598ddbbfbbcb.webp
 
 ```text
@@ -14693,7 +14693,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/bade6252-7039-42eb-a50c-45c142c7f70f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/bade6252-7039-42eb-a50c-45c142c7f70f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/30142c8a-46ee-4930-aca3-6fa5321dd84a.webp
 
 ```text
@@ -14710,7 +14710,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/9cedf121-64a9-4eb9-88e9-608844ff1929.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/9cedf121-64a9-4eb9-88e9-608844ff1929.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/e56a428d-6795-49f2-a456-6457ce90b346.webp
 
 ```text
@@ -14727,7 +14727,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/04df3d28-67de-464a-9426-55568d4ee55c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/04df3d28-67de-464a-9426-55568d4ee55c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/a54ccc43-8866-4b56-89ba-35f199ab977f.webp
 
 ```text
@@ -14744,7 +14744,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/6ef62a07-2609-4693-8225-e6263b76afab.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/6ef62a07-2609-4693-8225-e6263b76afab.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/495d9e85-0417-47d9-9e0a-722ace805852.webp
 
 ```text
@@ -14761,7 +14761,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `6s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/7a261cff-8d6c-4bab-84e7-515364061f3e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/7a261cff-8d6c-4bab-84e7-515364061f3e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/17cc1333-9822-442c-adaa-d208c59e3e01.webp
 
 ```text
@@ -14778,7 +14778,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/0ab0fb19-95df-44c7-9b92-6804122e02ff.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/0ab0fb19-95df-44c7-9b92-6804122e02ff.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/afd75c6a-1880-4cc0-bab9-576c4d1e7ff1.webp
 
 ```text
@@ -14795,7 +14795,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/e0278141-12c9-4139-91eb-b4294d833ed9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/e0278141-12c9-4139-91eb-b4294d833ed9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/5e67ff0a-60f7-4c0a-8ace-18c9bf3e5426.webp
 
 ```text
@@ -14812,7 +14812,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/950efc04-6ae6-4b31-bfa5-83c87244014c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/950efc04-6ae6-4b31-bfa5-83c87244014c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/0abb112e-068d-45e4-acea-9c8c44a16781.webp
 
 ```text
@@ -14829,7 +14829,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c129fb83-2014-4a37-a3f8-6c7dfeab0254.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c129fb83-2014-4a37-a3f8-6c7dfeab0254.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/05201733-c72f-43ed-8393-8b8cea28b8ce.webp
 
 ```text
@@ -14846,7 +14846,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/001156a7-cfdb-4e16-8f13-68c246ddc06c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/001156a7-cfdb-4e16-8f13-68c246ddc06c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/95cd0d73-4f3c-40d1-ac0b-c8668a99440b.webp
 
 ```text
@@ -14863,7 +14863,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d806368c-0d8a-4a7b-b43a-8ff22fa64563.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d806368c-0d8a-4a7b-b43a-8ff22fa64563.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/ef3dfc4c-a4c2-44a0-af27-d005bd1c319d.webp
 
 ```text
@@ -14880,7 +14880,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c370022d-d99a-4cff-bb35-9d73b7a3a95d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c370022d-d99a-4cff-bb35-9d73b7a3a95d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/a1560137-597c-455a-be9e-9622cccf76a3.webp
 
 ```text
@@ -14897,7 +14897,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `6s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/f661157c-af00-46f7-8b7c-6a7ae711ef98.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/f661157c-af00-46f7-8b7c-6a7ae711ef98.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/6ecca888-1780-46ae-a86d-a05b69b2fe34.webp
 
 ```text
@@ -14914,7 +14914,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/dcd67e05-0b1e-4475-9b6c-3f96e69c5384.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/dcd67e05-0b1e-4475-9b6c-3f96e69c5384.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/45c263b5-7820-423c-97b5-c383e25e9ff9.webp
 
 ```text
@@ -14931,7 +14931,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/59c46689-f756-4843-b298-f34b9761187e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/59c46689-f756-4843-b298-f34b9761187e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/4bd4d456-d335-42da-b6ca-d0d8b8dffcea.webp
 
 ```text
@@ -14948,7 +14948,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/0cc7ac70-a981-406b-aac6-1d9fcc06e218.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/0cc7ac70-a981-406b-aac6-1d9fcc06e218.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/13b4a006-8897-46d0-a00a-bcf3a4851c0d.webp
 
 ```text
@@ -14965,7 +14965,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `6s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/84f761d0-2033-417f-aee0-a2029cfb78fe.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/84f761d0-2033-417f-aee0-a2029cfb78fe.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/9a24d748-3552-4c01-ad2c-38d547feb16e.webp
 
 ```text
@@ -14982,7 +14982,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/fd94af6b-adf5-4eb2-90f7-22e92e34bb5a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/fd94af6b-adf5-4eb2-90f7-22e92e34bb5a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/4421b2a7-66f8-474d-9019-da309ab8fd37.webp
 
 ```text
@@ -14999,7 +14999,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/99017935-54a8-4d3a-9fd6-445710265fac.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/99017935-54a8-4d3a-9fd6-445710265fac.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/0fdf936f-797b-4860-8b0d-474b06c27890.webp
 
 ```text
@@ -15016,7 +15016,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/d1b7d148-46a1-4e57-b808-4af2e8c823f1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/d1b7d148-46a1-4e57-b808-4af2e8c823f1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/821f48ad-f4c6-4313-9300-7dc4abf5ffc3.webp
 
 ```text
@@ -15033,7 +15033,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c3fcf814-6542-4b51-a704-3b76153c91c6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c3fcf814-6542-4b51-a704-3b76153c91c6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/2d4a39c0-21e4-48b8-90ed-83f29598f90c.webp
 
 ```text
@@ -15050,7 +15050,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/67a78431-c90b-4aa5-95c4-9069da87a173.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/67a78431-c90b-4aa5-95c4-9069da87a173.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/bf88335c-084a-498a-8e16-c1d8dbe23edc.webp
 
 ```text
@@ -15067,7 +15067,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/08dad223-9baf-4d51-a07d-07062cf392d9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/08dad223-9baf-4d51-a07d-07062cf392d9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/30e317bf-1388-4988-858b-eaf8e3636671.webp
 
 ```text
@@ -15084,7 +15084,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/1afef4f9-70ec-44ab-b8b3-8ba5c2c286fa.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/1afef4f9-70ec-44ab-b8b3-8ba5c2c286fa.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/edf4cda5-ea89-43c0-a376-53f97d0905b8.webp
 
 ```text
@@ -15101,7 +15101,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/b2836797-7dc2-481c-8929-abc1ddbbb891.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/b2836797-7dc2-481c-8929-abc1ddbbb891.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/94ca24cf-0bc5-48da-9d70-461b0b83d93a.webp
 
 ```text
@@ -15118,7 +15118,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/a1a4d75a-b6e9-42fb-af01-be96d279b375.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/a1a4d75a-b6e9-42fb-af01-be96d279b375.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/03511e0e-cf56-44fe-ad6c-bf0dd128573f.webp
 
 ```text
@@ -15135,7 +15135,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/0d976da5-3f6d-4322-96e0-d2c31818934f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/0d976da5-3f6d-4322-96e0-d2c31818934f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/09eae891-c6a4-45e9-b9e1-d47391372256.webp
 
 ```text
@@ -15152,7 +15152,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/27b85cfd-0747-4375-969f-b93eb9da19de.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/27b85cfd-0747-4375-969f-b93eb9da19de.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/8376156c-dd55-4321-b3af-5f808eb71b8f.webp
 
 ```text
@@ -15169,7 +15169,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/e68f7c19-0247-4832-9c7f-98807635b6bd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/e68f7c19-0247-4832-9c7f-98807635b6bd.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/df011157-4e01-416f-ab0f-2fce85b7fd3e.webp
 
 ```text
@@ -15186,7 +15186,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/a247a841-8eab-4021-b34a-50ae15dd289e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/a247a841-8eab-4021-b34a-50ae15dd289e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/33fbee41-8c5b-4ac8-9c77-b65f25dad5a9.webp
 
 ```text
@@ -15203,7 +15203,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ecdb540e-d1d6-4562-b29f-0bafe2961cdf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ecdb540e-d1d6-4562-b29f-0bafe2961cdf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/3792173a-6073-43ac-bffb-22cda9ffa9a0.webp
 
 ```text
@@ -15220,7 +15220,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/95e80ebb-98d7-41d6-ad33-e81d405d9400.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/95e80ebb-98d7-41d6-ad33-e81d405d9400.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/12f59342-3468-4dbf-8d4c-e6c28cedba35.webp
 
 ```text
@@ -15237,7 +15237,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c694ed05-d2b0-4850-a1e9-2b90dcee95d8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c694ed05-d2b0-4850-a1e9-2b90dcee95d8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e2ec7f9e-a599-4569-a1d7-4342da9479c3.webp
 
 ```text
@@ -15254,7 +15254,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/69352fc9-6a72-4197-b13d-969d906512ce.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/69352fc9-6a72-4197-b13d-969d906512ce.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/df7c908c-ca28-4161-ba3e-1118405cb742.webp
 
 ```text
@@ -15271,7 +15271,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/1565d8db-fefe-4934-a7e5-1f3800df0419.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/1565d8db-fefe-4934-a7e5-1f3800df0419.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/00e18824-2297-42c3-bc92-e7cdba5e0f0e.webp
 
 ```text
@@ -15288,7 +15288,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f2163456-4099-4b1e-9f62-2d4953d2b7bf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f2163456-4099-4b1e-9f62-2d4953d2b7bf.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e4f288a5-8d1a-4844-8958-80d3176d4b95.webp
 
 ```text
@@ -15305,7 +15305,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `12s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/429f29f6-8cfb-4a2d-8fde-3f3db4c8c658.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/429f29f6-8cfb-4a2d-8fde-3f3db4c8c658.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/218629b5-2e80-491d-9728-26f002cde57d.webp
 
 ```text
@@ -15322,7 +15322,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/26bed71d-7789-4a45-8d95-7c01f1474ca1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/26bed71d-7789-4a45-8d95-7c01f1474ca1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/08178a2a-f0bf-4f95-b5ae-8e48fc8015e0.webp
 
 ```text
@@ -15339,7 +15339,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/f67251d5-9830-4435-9feb-aa3b54515f30.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/f67251d5-9830-4435-9feb-aa3b54515f30.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/910a617a-3448-4b37-97fa-1c3498942784.webp
 
 ```text
@@ -15356,7 +15356,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/eefdd4a1-d9d6-484a-b257-2bb5ccea9a3d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/eefdd4a1-d9d6-484a-b257-2bb5ccea9a3d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/4f4a4bc6-c218-49e0-81a7-767ee5b7e0c5.webp
 
 ```text
@@ -15373,7 +15373,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/b69c6fa1-ca41-4c26-9237-f59682eb991f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/b69c6fa1-ca41-4c26-9237-f59682eb991f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/deb3c3bb-83d3-43f0-91d8-2386512fcb5d.webp
 
 ```text
@@ -15390,7 +15390,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4f884245-2915-4a24-a19a-b18cd252ab1f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4f884245-2915-4a24-a19a-b18cd252ab1f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/a9a7aaa6-86ea-4cec-b454-8506de1e9c04.webp
 
 ```text
@@ -15407,7 +15407,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/5ec2d059-facf-45a5-968c-7fa45b090a8a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/5ec2d059-facf-45a5-968c-7fa45b090a8a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/29b4657e-6b49-4719-8794-5f60338fc490.webp
 
 ```text
@@ -15424,7 +15424,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/2b60f7f8-19ab-4e0a-ad83-a96e4d4fb3d0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/2b60f7f8-19ab-4e0a-ad83-a96e4d4fb3d0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/c09070e1-d568-4ea6-b7a1-406b5a8d9c39.webp
 
 ```text
@@ -15441,7 +15441,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/b9e49ad8-6009-44cc-84c4-06cd3ea71e24.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/b9e49ad8-6009-44cc-84c4-06cd3ea71e24.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/a3dcbc54-3e2c-4d20-9787-a38f2f4becaf.webp
 
 ```text
@@ -15458,7 +15458,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c560128d-9812-4211-8d96-c1c5ce909f09.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c560128d-9812-4211-8d96-c1c5ce909f09.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/12ace1c6-4ed6-4078-90e2-236ef37b932e.webp
 
 ```text
@@ -15475,7 +15475,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f12b80d6-b7dc-48ac-8a77-8eadcee6e3ac.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f12b80d6-b7dc-48ac-8a77-8eadcee6e3ac.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e8956394-cbd6-4e10-9491-899a9c993131.webp
 
 ```text
@@ -15492,7 +15492,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/15dce7ac-b95d-4829-849b-bd81d3940411.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/15dce7ac-b95d-4829-849b-bd81d3940411.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/7f19a017-f0b6-4d73-ae97-34ac31ffdcdd.webp
 
 ```text
@@ -15509,7 +15509,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9f68f799-81a0-47c0-8ed9-437a10c71cb9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9f68f799-81a0-47c0-8ed9-437a10c71cb9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/448e170c-1c61-4151-b897-fa57c2a4276d.webp
 
 ```text
@@ -15526,7 +15526,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/13be43ee-5c17-456f-a08c-1e2d1a13c718.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/13be43ee-5c17-456f-a08c-1e2d1a13c718.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/89d8afaa-8ce3-4ec6-88ff-82939579f21c.webp
 
 ```text
@@ -15543,7 +15543,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/bcc94f8c-d4f6-4f1c-870c-258a98529418.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/bcc94f8c-d4f6-4f1c-870c-258a98529418.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/a16ff2f4-1ec6-41e7-b64d-f61925d3b262.webp
 
 ```text
@@ -15560,7 +15560,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/f0eee690-e157-4188-bcaa-5670edaae510.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/f0eee690-e157-4188-bcaa-5670edaae510.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/31b82f93-8464-499d-9806-88a18e8a78f8.webp
 
 ```text
@@ -15577,7 +15577,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/5e169eba-a6db-41a7-afed-d852615efc07.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/5e169eba-a6db-41a7-afed-d852615efc07.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/20b71097-a115-42b8-b767-35ba25492431.webp
 
 ```text
@@ -15594,7 +15594,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c1782da6-1348-4f62-90a0-24c9ed57da91.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/c1782da6-1348-4f62-90a0-24c9ed57da91.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/2a172c8c-3e5c-4c91-adaf-8d06bc401e53.webp
 
 ```text
@@ -15611,7 +15611,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/59a6a0fb-834e-4e86-b41e-5f21ce8ee55a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/59a6a0fb-834e-4e86-b41e-5f21ce8ee55a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/d6648ba5-8188-4842-ac68-e4356dd5f483.webp
 
 ```text
@@ -15628,7 +15628,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f48ae4ba-635d-47ed-bbe5-0d519c009106.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f48ae4ba-635d-47ed-bbe5-0d519c009106.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/b8e1d24c-b389-4fe6-88c4-14a5e2bdcb32.webp
 
 ```text
@@ -15645,7 +15645,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/fc52785d-4f15-4835-a4a0-003aa7c8ac88.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/fc52785d-4f15-4835-a4a0-003aa7c8ac88.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/70bea515-8d6d-4259-bf4d-16e2ffa5b27e.webp
 
 ```text
@@ -15662,7 +15662,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/b7ca03e3-5105-45e2-a674-f4e13d0f071c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/b7ca03e3-5105-45e2-a674-f4e13d0f071c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/136849ff-2aeb-4b69-b5ab-78d93d0df5c0.webp
 
 ```text
@@ -15679,7 +15679,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ca8b9113-730d-4594-b916-6d530b16df8a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ca8b9113-730d-4594-b916-6d530b16df8a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/812e4d6b-cb10-47ff-8c6f-942232a3b60b.webp
 
 ```text
@@ -15696,7 +15696,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `7s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/d215b031-c484-405e-bb3e-79ae0912f0f8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/d215b031-c484-405e-bb3e-79ae0912f0f8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/38f26ced-8e66-4a85-bbd9-ad5504319547.webp
 
 ```text
@@ -15713,7 +15713,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/b98ae9ed-ec67-4e73-8e1d-df440181e908.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/b98ae9ed-ec67-4e73-8e1d-df440181e908.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/082b9571-dbee-4b38-a9af-7007534aa6b8.webp
 
 ```text
@@ -15730,7 +15730,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/6eee81db-e7d6-4794-9190-39d0a8c1693c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/6eee81db-e7d6-4794-9190-39d0a8c1693c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/c66d942e-c319-42fe-b25b-eff342516df4.webp
 
 ```text
@@ -15747,7 +15747,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/4b866a81-e773-4be5-b041-9dcad102e9b9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/4b866a81-e773-4be5-b041-9dcad102e9b9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/fcb93aa6-e953-4b3c-8f22-14dbd8397dd2.webp
 
 ```text
@@ -15764,7 +15764,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/88c7e4e9-ffd1-44fa-8e70-91ddd6e3e756.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/88c7e4e9-ffd1-44fa-8e70-91ddd6e3e756.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/cfaefbac-42ed-495f-88cd-8943f252cd88.webp
 
 ```text
@@ -15781,7 +15781,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d1cdb860-cff9-46de-b75f-4e821317bd30.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d1cdb860-cff9-46de-b75f-4e821317bd30.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/bf57d2d1-1f10-4136-9199-ebfe44ff5f0f.webp
 
 ```text
@@ -15798,7 +15798,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `9s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/9f0c4caa-06f5-4e12-bb4f-a2a221a8afc8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub_preset/9f0c4caa-06f5-4e12-bb4f-a2a221a8afc8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub_preset/6387512c-ccf3-47af-8ce9-9624de8cf1b9.webp
 
 ```text
@@ -15815,7 +15815,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/cd6524d8-d06f-4d6c-8883-9177b537840f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/cd6524d8-d06f-4d6c-8883-9177b537840f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/7ef545e5-b424-45cb-a812-990a2773602e.webp
 
 ```text
@@ -15832,7 +15832,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/e908cd25-8fc5-43b5-9835-f5193fcb1d46.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/e908cd25-8fc5-43b5-9835-f5193fcb1d46.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e030016e-2e12-4444-8c63-47d3213808aa.webp
 
 ```text
@@ -15849,7 +15849,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/7f697ee1-9df8-45c5-8523-005fb7482278.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/7f697ee1-9df8-45c5-8523-005fb7482278.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/7a52a17e-75c5-4d69-b1d3-3e6c217369df.webp
 
 ```text
@@ -15866,7 +15866,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9ea0e5af-9f30-4a2e-89ea-54fbf2ad4874.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9ea0e5af-9f30-4a2e-89ea-54fbf2ad4874.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/9f8407e6-7f75-405e-99e3-630164868262.webp
 
 ```text
@@ -15883,7 +15883,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/20397c83-0280-4dc2-950c-5b72a548bd5f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/20397c83-0280-4dc2-950c-5b72a548bd5f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/41f316db-8201-4432-b986-ead4fa4e3ea4.webp
 
 ```text
@@ -15900,7 +15900,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/0adfa8b5-7e87-461b-90a8-5542a506d0f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/0adfa8b5-7e87-461b-90a8-5542a506d0f6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/c054cfb5-0b35-4d43-9ac3-3ea9bc0f5a87.webp
 
 ```text
@@ -15917,7 +15917,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d62537bf-2356-4131-90bb-c398a27c46c7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d62537bf-2356-4131-90bb-c398a27c46c7.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/2553e368-e35c-4d9f-8b38-d670d94bad62.webp
 
 ```text
@@ -15934,7 +15934,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f300c8f1-9071-4737-abd0-9f7dbd354519.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f300c8f1-9071-4737-abd0-9f7dbd354519.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/00006660-8b5e-426a-ad0e-51b02c8c14f7.webp
 
 ```text
@@ -15951,7 +15951,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/04bab337-d074-465d-9c5f-27e4eb270225.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/04bab337-d074-465d-9c5f-27e4eb270225.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/59ad84b2-f971-4432-a060-2113c0b9387a.webp
 
 ```text
@@ -15968,7 +15968,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `8s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/4616788e-abf2-45fd-bbde-23a92100ef70.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/4616788e-abf2-45fd-bbde-23a92100ef70.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/viral_hub/45b743df-efc2-4adb-a6f8-3b7307b6e56f.webp
 
 ```text
@@ -15985,7 +15985,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4b844a70-1eb9-4ac2-b2ea-9e017f7fa31a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4b844a70-1eb9-4ac2-b2ea-9e017f7fa31a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/7c9692ba-9b67-4dfa-82c4-4d6f9483026a.webp
 
 ```text
@@ -16002,7 +16002,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/70c0bc83-9ba2-49c5-9a5d-80fa7c118dcc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/70c0bc83-9ba2-49c5-9a5d-80fa7c118dcc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e5426b50-caea-4e84-9ea0-275da7da373d.webp
 
 ```text
@@ -16019,7 +16019,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/dd675cab-cc8e-4305-96b7-9a808df33321.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/dd675cab-cc8e-4305-96b7-9a808df33321.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/097b4dcb-ed44-4846-9557-67e709626b9b.webp
 
 ```text
@@ -16036,7 +16036,7 @@ Seamless acceleration curves, realistic motion blur, and cinematic impact timing
 - **Image Model:** Soul 2.0 / Flux.1
 - **Video Model:** Seedance (viral_hub_video)
 - **Settings:** Aspect Ratio `9:16 (vertical Reels/TikTok) or 16:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9b029b09-f910-431e-94c0-b9ca6db41715.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9b029b09-f910-431e-94c0-b9ca6db41715.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/b837742c-3354-4502-80af-fe0a415fb4f5.webp
 
 ```text
@@ -16525,7 +16525,7 @@ Ultra-photorealistic fashion portrait of (the character from the reference image
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c91d7c5c-51c2-4c10-ab6d-4f626b2c1935.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c91d7c5c-51c2-4c10-ab6d-4f626b2c1935.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Static" camera & gesture style featuring (the character from the reference image).
@@ -16540,7 +16540,7 @@ Audio-driven Avatar performance in the "Static" camera & gesture style featuring
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/876787b1-d93f-4c38-8ec6-16ff2cf7b518.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/876787b1-d93f-4c38-8ec6-16ff2cf7b518.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Selfie" camera & gesture style featuring (the character from the reference image).
@@ -16555,7 +16555,7 @@ Audio-driven Avatar performance in the "Selfie" camera & gesture style featuring
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5317fb64-f60b-43b0-8c5a-3b95ade5f500.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5317fb64-f60b-43b0-8c5a-3b95ade5f500.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "General " camera & gesture style featuring (the character from the reference image).
@@ -16570,7 +16570,7 @@ Audio-driven Avatar performance in the "General " camera & gesture style featuri
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1a1d3b98-ad3c-4938-bdd8-f118e7739b8c.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1a1d3b98-ad3c-4938-bdd8-f118e7739b8c.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Selling" camera & gesture style featuring (the character from the reference image).
@@ -16585,7 +16585,7 @@ Audio-driven Avatar performance in the "Selling" camera & gesture style featurin
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cba9dcee-a079-4f3d-b622-c7e4e8b20568.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cba9dcee-a079-4f3d-b622-c7e4e8b20568.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Walk & Talk" camera & gesture style featuring (the character from the reference image).
@@ -16600,7 +16600,7 @@ Audio-driven Avatar performance in the "Walk & Talk" camera & gesture style feat
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/dd1e9988-c4a2-42c8-b6e9-4afb3beaacc5.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/dd1e9988-c4a2-42c8-b6e9-4afb3beaacc5.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Car grip" camera & gesture style featuring (the character from the reference image).
@@ -16615,7 +16615,7 @@ Audio-driven Avatar performance in the "Car grip" camera & gesture style featuri
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2b5dfe59-7097-4f14-893f-d057aafcd5b9.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2b5dfe59-7097-4f14-893f-d057aafcd5b9.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Happy Excited" camera & gesture style featuring (the character from the reference image).
@@ -16630,7 +16630,7 @@ Audio-driven Avatar performance in the "Happy Excited" camera & gesture style fe
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/98fee9ee-8497-4421-b3a7-f77d38cf3d02.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/98fee9ee-8497-4421-b3a7-f77d38cf3d02.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Crash Zoom In" camera & gesture style featuring (the character from the reference image).
@@ -16645,7 +16645,7 @@ Audio-driven Avatar performance in the "Crash Zoom In" camera & gesture style fe
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c4bd0945-1011-403f-b493-0933a9ae40ec.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c4bd0945-1011-403f-b493-0933a9ae40ec.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Angry Mode" camera & gesture style featuring (the character from the reference image).
@@ -16660,7 +16660,7 @@ Audio-driven Avatar performance in the "Angry Mode" camera & gesture style featu
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c7d9b827-9155-43c7-8148-926d49f88553.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c7d9b827-9155-43c7-8148-926d49f88553.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Car Talking" camera & gesture style featuring (the character from the reference image).
@@ -16675,7 +16675,7 @@ Audio-driven Avatar performance in the "Car Talking" camera & gesture style feat
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bcee2e1e-09f3-4a89-9bc5-f9a9b67a2165.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bcee2e1e-09f3-4a89-9bc5-f9a9b67a2165.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Italian Mode" camera & gesture style featuring (the character from the reference image).
@@ -16690,7 +16690,7 @@ Audio-driven Avatar performance in the "Italian Mode" camera & gesture style fea
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/264a3048-635a-4cff-b4f2-f2f1f1ce416d.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/264a3048-635a-4cff-b4f2-f2f1f1ce416d.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Fire Selfie" camera & gesture style featuring (the character from the reference image).
@@ -16705,7 +16705,7 @@ Audio-driven Avatar performance in the "Fire Selfie" camera & gesture style feat
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d809f27f-393b-4800-aef6-a660619ba16d.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d809f27f-393b-4800-aef6-a660619ba16d.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Thundergod" camera & gesture style featuring (the character from the reference image).
@@ -16720,7 +16720,7 @@ Audio-driven Avatar performance in the "Thundergod" camera & gesture style featu
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0479adcf-148a-4271-adc8-af2bef1720ac.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0479adcf-148a-4271-adc8-af2bef1720ac.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Crash Zoom Tentacles" camera & gesture style featuring (the character from the reference image).
@@ -16735,7 +16735,7 @@ Audio-driven Avatar performance in the "Crash Zoom Tentacles" camera & gesture s
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/447e02e5-e800-45d7-b208-7c052ef07434.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/447e02e5-e800-45d7-b208-7c052ef07434.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Make Up & Talk" camera & gesture style featuring (the character from the reference image).
@@ -16750,7 +16750,7 @@ Audio-driven Avatar performance in the "Make Up & Talk" camera & gesture style f
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c4eda3ad-fda8-44ef-90a5-37a1612497eb.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c4eda3ad-fda8-44ef-90a5-37a1612497eb.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Scene Reporter" camera & gesture style featuring (the character from the reference image).
@@ -16765,7 +16765,7 @@ Audio-driven Avatar performance in the "Scene Reporter" camera & gesture style f
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9ff874a0-b76e-4eed-af17-89b5a53e3ece.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9ff874a0-b76e-4eed-af17-89b5a53e3ece.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Make Up Zoom " camera & gesture style featuring (the character from the reference image).
@@ -16780,7 +16780,7 @@ Audio-driven Avatar performance in the "Make Up Zoom " camera & gesture style fe
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/09a25856-6f3f-461d-ad28-221852b6bfbe.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/09a25856-6f3f-461d-ad28-221852b6bfbe.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Bloom Song" camera & gesture style featuring (the character from the reference image).
@@ -16795,7 +16795,7 @@ Audio-driven Avatar performance in the "Bloom Song" camera & gesture style featu
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d5d5de68-5853-4a04-97df-68ef910b6fb5.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d5d5de68-5853-4a04-97df-68ef910b6fb5.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "YoYo Selling" camera & gesture style featuring (the character from the reference image).
@@ -16810,7 +16810,7 @@ Audio-driven Avatar performance in the "YoYo Selling" camera & gesture style fea
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0e780cb1-fb18-4f6f-9690-66fe366061bb.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0e780cb1-fb18-4f6f-9690-66fe366061bb.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Selfie Wings" camera & gesture style featuring (the character from the reference image).
@@ -16825,7 +16825,7 @@ Audio-driven Avatar performance in the "Selfie Wings" camera & gesture style fea
 - **Image Model:** Soul 2.0 Character Portrait
 - **Video Model:** Avatar Speak v2 / Kling Speak Lipsync Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `5s–15s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c3598993-8549-4bbb-b766-07e23847f443.mp4
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c3598993-8549-4bbb-b766-07e23847f443.mp4 (Silent)
 
 ```text
 Audio-driven Avatar performance in the "Rap Flex" camera & gesture style featuring (the character from the reference image).
@@ -19721,7 +19721,7 @@ For a supplied reference, upload/confirm it with the available media tools, then
 - **Image Model:** Flux.1 PixelArt / SDXL
 - **Video Model:** Seedance (12fps stepped I2V)
 - **Settings:** Aspect Ratio `16:9` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/d50f28ba-f206-49db-b7ea-dbb9e89fe2e0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/d50f28ba-f206-49db-b7ea-dbb9e89fe2e0.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/ed5e5883-3e88-4d7b-8431-27ed1ac2a494.png
 
 ```text
@@ -19734,7 +19734,7 @@ An explainer video in retro 8-bit pixel-art style, chunky pixelated sprites of (
 - **Image Model:** Soul 2.0 / Flux.1 Clay LoRA
 - **Video Model:** Seedance (Stop-Motion I2V)
 - **Settings:** Aspect Ratio `16:9` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/bc94dec6-803c-42b6-b13d-b32b1279efb2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/bc94dec6-803c-42b6-b13d-b32b1279efb2.mp4 (Audio Included)
 
 ```text
 An explainer video in claymation stop-motion style, handmade colored modeling clay characters featuring (the character from the reference image) and (the product from the reference image) with soft tactile fingerprint textures, studio tabletop lighting, playful 12fps frame-by-frame movement.
@@ -19746,7 +19746,7 @@ An explainer video in claymation stop-motion style, handmade colored modeling cl
 - **Image Model:** Soul 2.0 / Flux.1 Collage
 - **Video Model:** Seedance
 - **Settings:** Aspect Ratio `16:9` | Duration `10s–12s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/0fd6115e-8753-47f3-a898-c60421607b42.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/0fd6115e-8753-47f3-a898-c60421607b42.mp4 (Audio Included)
 
 ```text
 An explainer video in mixed-media collage style, layered paper cutouts, vintage newsprint clippings, photo scraps of (the character from the reference image) and (the product from the reference image), hand-drawn grease marks and textured backgrounds, lively energetic stop-motion pop-in animation.
@@ -19758,7 +19758,7 @@ An explainer video in mixed-media collage style, layered paper cutouts, vintage 
 - **Image Model:** Recraft / Flux.1 Vector
 - **Video Model:** Seedance / Kling
 - **Settings:** Aspect Ratio `16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/e06e5ff0-e1d7-4545-b64d-b50edcbb7736.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/e06e5ff0-e1d7-4545-b64d-b50edcbb7736.mp4 (Audio Included)
 
 ```text
 An explainer video in clean 2D flat-illustration style, bold smooth outlines, bright modern color scheme, vector illustration of (the character from the reference image) and (the product/concept from reference) with friendly fluid motion on a clean pastel background.
@@ -19770,7 +19770,7 @@ An explainer video in clean 2D flat-illustration style, bold smooth outlines, br
 - **Image Model:** Flux.1 Lineart
 - **Video Model:** Seedance
 - **Settings:** Aspect Ratio `16:9` | Duration `10s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/5b5d018c-2d07-4d25-945e-d72ee65f0b10.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/5b5d018c-2d07-4d25-945e-d72ee65f0b10.mp4 (Audio Included)
 
 ```text
 An explainer video in hand-drawn whiteboard doodle style, crisp black dry-erase marker sketches of (the character from the reference image) and (the concept/process from reference) drawn live onto a clean white board with energetic line icon annotations.
@@ -19782,7 +19782,7 @@ An explainer video in hand-drawn whiteboard doodle style, crisp black dry-erase 
 - **Image Model:** Flux.1 LowPoly / SDXL
 - **Video Model:** Seedance
 - **Settings:** Aspect Ratio `16:9` | Duration `10s–12s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/c45a6504-827d-4bcc-9f03-6a8548a562f1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/c45a6504-827d-4bcc-9f03-6a8548a562f1.mp4 (Audio Included)
 
 ```text
 An explainer video in low-poly 3D style, faceted geometric characters representing (the character from the reference image) and (the product from reference) with flat-shaded triangular polygons, clean diorama studio lighting, and smooth mechanical 3D rotation.
@@ -19794,7 +19794,7 @@ An explainer video in low-poly 3D style, faceted geometric characters representi
 - **Image Model:** Soul 2.0 / Flux.1 3D
 - **Video Model:** Seedance / Kling
 - **Settings:** Aspect Ratio `16:9` | Duration `12s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/9c6c813e-8839-4be7-888c-7f230d08a465.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/9c6c813e-8839-4be7-888c-7f230d08a465.mp4 (Audio Included)
 
 ```text
 An explainer video in polished 3D-rendered style, glossy rounded vinyl characters representing (the character from the reference image) interacting with (the product from the reference image), soft studio bounce lighting and smooth cinematic camera push-in.
@@ -19806,7 +19806,7 @@ An explainer video in polished 3D-rendered style, glossy rounded vinyl character
 - **Image Model:** Recraft Isometric / Flux.1
 - **Video Model:** Seedance
 - **Settings:** Aspect Ratio `16:9` | Duration `10s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/4221645e-68f3-4aa5-bcf6-b65d15c6ac3a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/4221645e-68f3-4aa5-bcf6-b65d15c6ac3a.mp4 (Audio Included)
 
 ```text
 An explainer video in isometric flat-vector style, tidy 2.5D scenes and diagrams featuring (the product/system from reference) at a fixed 30-degree orthographic isometric angle, crisp geometry, modern color palette, orderly mechanical slide-in transitions.
@@ -19818,7 +19818,7 @@ An explainer video in isometric flat-vector style, tidy 2.5D scenes and diagrams
 - **Image Model:** Soul 2.0 Macro / Flux.1
 - **Video Model:** Seedance
 - **Settings:** Aspect Ratio `16:9` | Duration `12s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/43d969ae-cdd9-499a-b922-b4045e34da06.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/43d969ae-cdd9-499a-b922-b4045e34da06.mp4 (Audio Included)
 
 ```text
 An explainer video in fluffy plush-toy style, soft felt and fuzzy faux-fur fabric characters featuring (the character from the reference image) and (the product from reference) with stitched details and glossy button eyes, cozy pastel scenes, cute bouncy squash-and-stretch movement.
@@ -19830,7 +19830,7 @@ An explainer video in fluffy plush-toy style, soft felt and fuzzy faux-fur fabri
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/f9fd227a-b053-41c8-9cee-86a42242f107.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/f9fd227a-b053-41c8-9cee-86a42242f107.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Editorial Motion Graphics" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19845,7 +19845,7 @@ Animated explainer scene in the "Editorial Motion Graphics" visual style illustr
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/10882623-fc04-4aae-96ae-5c0ad38f2cf8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/10882623-fc04-4aae-96ae-5c0ad38f2cf8.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Stickman Cartoon" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19860,7 +19860,7 @@ Animated explainer scene in the "Stickman Cartoon" visual style illustrating (th
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/f195a492-3bcc-4265-9bf1-b478ab48129b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/f195a492-3bcc-4265-9bf1-b478ab48129b.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Watercolor Chronicle" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19875,7 +19875,7 @@ Animated explainer scene in the "Watercolor Chronicle" visual style illustrating
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/daf10264-2878-4abf-bafc-285610001bb8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/daf10264-2878-4abf-bafc-285610001bb8.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Fairy Tale & Myth" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19890,7 +19890,7 @@ Animated explainer scene in the "Fairy Tale & Myth" visual style illustrating (t
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/efcf65dd-6a5e-43aa-814f-8daea175f8f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/efcf65dd-6a5e-43aa-814f-8daea175f8f6.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Paper Diorama" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19905,7 +19905,7 @@ Animated explainer scene in the "Paper Diorama" visual style illustrating (the c
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/79e9acd2-6d0a-42c0-9d76-8b0e21e51ada.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/79e9acd2-6d0a-42c0-9d76-8b0e21e51ada.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Pastel Flat 2D" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19920,7 +19920,7 @@ Animated explainer scene in the "Pastel Flat 2D" visual style illustrating (the 
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/8352dc81-94fa-4256-8d20-726f864ca8a4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/8352dc81-94fa-4256-8d20-726f864ca8a4.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Colorful 3D" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19935,7 +19935,7 @@ Animated explainer scene in the "Colorful 3D" visual style illustrating (the cor
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/56fd547a-ee99-4167-a863-217900de9b34.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/56fd547a-ee99-4167-a863-217900de9b34.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Hand Drawn" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19950,7 +19950,7 @@ Animated explainer scene in the "Hand Drawn" visual style illustrating (the core
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/b1f5fcbe-c3df-4c6e-bdac-a0d56f1c07ac.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/b1f5fcbe-c3df-4c6e-bdac-a0d56f1c07ac.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Poster Vector" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19965,7 +19965,7 @@ Animated explainer scene in the "Poster Vector" visual style illustrating (the c
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/1efc2940-b2b5-42a7-b78d-da49591f08c9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/1efc2940-b2b5-42a7-b78d-da49591f08c9.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Mannequin" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19980,7 +19980,7 @@ Animated explainer scene in the "Mannequin" visual style illustrating (the core 
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/5b5d018c-2d07-4d25-945e-d72ee65f0b10.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/5b5d018c-2d07-4d25-945e-d72ee65f0b10.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Whiteboard Doodle" visual style illustrating (the core topic, character, or product from the reference image).
@@ -19995,7 +19995,7 @@ Animated explainer scene in the "Whiteboard Doodle" visual style illustrating (t
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/a100d913-fd91-4d20-847c-385912d6f3ad.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/a100d913-fd91-4d20-847c-385912d6f3ad.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "3D Papercraft" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20010,7 +20010,7 @@ Animated explainer scene in the "3D Papercraft" visual style illustrating (the c
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/0fd6115e-8753-47f3-a898-c60421607b42.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/0fd6115e-8753-47f3-a898-c60421607b42.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Mixed Media" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20025,7 +20025,7 @@ Animated explainer scene in the "Mixed Media" visual style illustrating (the cor
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/c45a6504-827d-4bcc-9f03-6a8548a562f1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/c45a6504-827d-4bcc-9f03-6a8548a562f1.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Low Poly" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20040,7 +20040,7 @@ Animated explainer scene in the "Low Poly" visual style illustrating (the core t
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/e06e5ff0-e1d7-4545-b64d-b50edcbb7736.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/e06e5ff0-e1d7-4545-b64d-b50edcbb7736.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "2D Illustrator" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20055,7 +20055,7 @@ Animated explainer scene in the "2D Illustrator" visual style illustrating (the 
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/d50f28ba-f206-49db-b7ea-dbb9e89fe2e0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/d50f28ba-f206-49db-b7ea-dbb9e89fe2e0.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Pixel Art" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20070,7 +20070,7 @@ Animated explainer scene in the "Pixel Art" visual style illustrating (the core 
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/bc94dec6-803c-42b6-b13d-b32b1279efb2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/bc94dec6-803c-42b6-b13d-b32b1279efb2.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Claymotion" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20085,7 +20085,7 @@ Animated explainer scene in the "Claymotion" visual style illustrating (the core
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/4221645e-68f3-4aa5-bcf6-b65d15c6ac3a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/4221645e-68f3-4aa5-bcf6-b65d15c6ac3a.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Isometric Flat Vector" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20100,7 +20100,7 @@ Animated explainer scene in the "Isometric Flat Vector" visual style illustratin
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/9c6c813e-8839-4be7-888c-7f230d08a465.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/9c6c813e-8839-4be7-888c-7f230d08a465.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "3D Mix" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20115,7 +20115,7 @@ Animated explainer scene in the "3D Mix" visual style illustrating (the core top
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/e14c8106-0c29-4753-a973-f5ca365ae7c7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/e14c8106-0c29-4753-a973-f5ca365ae7c7.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Studio 3D" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20130,7 +20130,7 @@ Animated explainer scene in the "Studio 3D" visual style illustrating (the core 
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/43d969ae-cdd9-499a-b922-b4045e34da06.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/video_explainer_preset/43d969ae-cdd9-499a-b922-b4045e34da06.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Fluffy Toy" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20145,7 +20145,7 @@ Animated explainer scene in the "Fluffy Toy" visual style illustrating (the core
 - **Image Model:** Nano Banana Pro / GPT Image 2.5 (Explainer Style Anchor)
 - **Video Model:** Seedance 2.0 / Kling Explainer Animation Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `15s–60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/3bc692b0-0ee7-46e2-9faa-71574892c891.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/3bc692b0-0ee7-46e2-9faa-71574892c891.mp4 (Audio Included)
 
 ```text
 Animated explainer scene in the "Paper collage" visual style illustrating (the core topic, character, or product from the reference image).
@@ -20160,7 +20160,7 @@ Animated explainer scene in the "Paper collage" visual style illustrating (the c
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/8b110d78-bf5f-4c19-b34a-5d813db45bb3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/8b110d78-bf5f-4c19-b34a-5d813db45bb3.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Editorial Motion Graphics" house style covering (the story or documentary topic).
@@ -20175,7 +20175,7 @@ YouTube Faceless Episode in the "Editorial Motion Graphics" house style covering
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/4cbfaa27-6045-4242-bbd8-f7c5e5c308c8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/4cbfaa27-6045-4242-bbd8-f7c5e5c308c8.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Stickman Cartoon" house style covering (the story or documentary topic).
@@ -20190,7 +20190,7 @@ YouTube Faceless Episode in the "Stickman Cartoon" house style covering (the sto
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/30ea2e7d-076e-4492-8923-7d796e10e0f1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/30ea2e7d-076e-4492-8923-7d796e10e0f1.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Fairy Tale & Myth" house style covering (the story or documentary topic).
@@ -20205,7 +20205,7 @@ YouTube Faceless Episode in the "Fairy Tale & Myth" house style covering (the st
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/607d9d23-397d-4354-82bf-c85b21917fd8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/607d9d23-397d-4354-82bf-c85b21917fd8.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Paper Diorama" house style covering (the story or documentary topic).
@@ -20220,7 +20220,7 @@ YouTube Faceless Episode in the "Paper Diorama" house style covering (the story 
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/813930f3-c934-41f6-9316-22d3784b4940.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/813930f3-c934-41f6-9316-22d3784b4940.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Hand Drawn" house style covering (the story or documentary topic).
@@ -20235,7 +20235,7 @@ YouTube Faceless Episode in the "Hand Drawn" house style covering (the story or 
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/1efc2940-b2b5-42a7-b78d-da49591f08c9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/1efc2940-b2b5-42a7-b78d-da49591f08c9.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Mannequin" house style covering (the story or documentary topic).
@@ -20250,7 +20250,7 @@ YouTube Faceless Episode in the "Mannequin" house style covering (the story or d
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/377a4f56-9301-4501-b67a-c5a0f48dc77f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/377a4f56-9301-4501-b67a-c5a0f48dc77f.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Poster Vector" house style covering (the story or documentary topic).
@@ -20265,7 +20265,7 @@ YouTube Faceless Episode in the "Poster Vector" house style covering (the story 
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/a4906a73-c826-4913-8415-514945409074.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/a4906a73-c826-4913-8415-514945409074.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Colorful 3D" house style covering (the story or documentary topic).
@@ -20280,7 +20280,7 @@ YouTube Faceless Episode in the "Colorful 3D" house style covering (the story or
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/d214f0ed-013e-4567-b459-2e802563421f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/d214f0ed-013e-4567-b459-2e802563421f.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Watercolor Chronicle" house style covering (the story or documentary topic).
@@ -20295,7 +20295,7 @@ YouTube Faceless Episode in the "Watercolor Chronicle" house style covering (the
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/3bc692b0-0ee7-46e2-9faa-71574892c891.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/3bc692b0-0ee7-46e2-9faa-71574892c891.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Paper collage" house style covering (the story or documentary topic).
@@ -20310,7 +20310,7 @@ YouTube Faceless Episode in the "Paper collage" house style covering (the story 
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/e14c8106-0c29-4753-a973-f5ca365ae7c7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/e14c8106-0c29-4753-a973-f5ca365ae7c7.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Studio 3D" house style covering (the story or documentary topic).
@@ -20325,7 +20325,7 @@ YouTube Faceless Episode in the "Studio 3D" house style covering (the story or d
 - **Image Model:** Nano Banana Pro (2x2 Storyboard Grid in House Style)
 - **Video Model:** Seedance 2.0 + ElevenLabs v3 Narrator Pipeline
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `30s–180s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/40f4ab52-e321-4b52-b516-55532e83018e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_preset_cover/40f4ab52-e321-4b52-b516-55532e83018e.mp4 (Audio Included)
 
 ```text
 YouTube Faceless Episode in the "Pastel Flat 2D" house style covering (the story or documentary topic).
@@ -20340,7 +20340,7 @@ YouTube Faceless Episode in the "Pastel Flat 2D" house style covering (the story
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/d847bce9-c7f6-471b-a90f-5d7e0ef2990b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/d847bce9-c7f6-471b-a90f-5d7e0ef2990b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/7aed82d8-f35c-406c-ac2e-b7631083aa33.webp
 
 ```text
@@ -20356,7 +20356,7 @@ Complete narrated faceless episode ("The Raven Who Stole the Light", category: s
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/03086c37-1fc1-4888-9157-f5bcd5b91f56.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/03086c37-1fc1-4888-9157-f5bcd5b91f56.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/e28206ff-baa6-402d-b402-7407f6325abf.webp
 
 ```text
@@ -20372,7 +20372,7 @@ Complete narrated faceless episode ("POV: 17th Century Factory Worker", category
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/f2afa7ec-63fc-4a86-81d6-2abc2750661b.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/f2afa7ec-63fc-4a86-81d6-2abc2750661b.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/6169965a-58a2-4ffa-b727-cdcd56129698.webp
 
 ```text
@@ -20388,7 +20388,7 @@ Complete narrated faceless episode ("Marie Antoinette — The Queen Who Still Se
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/01b58832-12ca-42a4-af34-5f031a933960.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/01b58832-12ca-42a4-af34-5f031a933960.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/1b924f8a-30a7-42e0-82c5-1d5187a7f661.webp
 
 ```text
@@ -20404,7 +20404,7 @@ Complete narrated faceless episode ("Why It’s So Hard to Spend Money?", catego
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/2e04e945-fb3a-4228-aafb-89c52a5409a7.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/2e04e945-fb3a-4228-aafb-89c52a5409a7.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/9cf7ed00-84f1-4a22-b118-bef552f59edc.webp
 
 ```text
@@ -20420,7 +20420,7 @@ Complete narrated faceless episode ("Learning Numbers: Counting to 5", category:
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/e264a6be-0108-49ef-9d8f-9cdb51b9fcd1.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/e264a6be-0108-49ef-9d8f-9cdb51b9fcd1.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/d2b97640-d0b8-4bc6-9c12-ed43b5a97b5a.webp
 
 ```text
@@ -20436,7 +20436,7 @@ Complete narrated faceless episode ("Why We Dream?", category: education) featur
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/023b1998-93b2-4f57-b965-82b7661b84ea.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/023b1998-93b2-4f57-b965-82b7661b84ea.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/87281182-d360-45ac-8c39-2c65773683b5.webp
 
 ```text
@@ -20452,7 +20452,7 @@ Complete narrated faceless episode ("The Golden Fish Story", category: storytell
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/7a5136d5-5b75-4665-81c8-052590fc3ced.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/7a5136d5-5b75-4665-81c8-052590fc3ced.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/67478323-04ea-45d3-b86d-8a5cde9ecbae.webp
 
 ```text
@@ -20468,7 +20468,7 @@ Complete narrated faceless episode ("Brief History of Domestic Dogs", category: 
 - **Image Model:** Nano Banana Pro Storyboard Pipeline
 - **Video Model:** Seedance 2.0 + ElevenLabs Voiceover
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `60s`
-- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/e3fe1061-ade5-4b9c-ad30-61e32dc73f5b.webm
+- **Preview Video:** https://cdn.higgsfield.ai/youtube_faceless_showcase/e3fe1061-ade5-4b9c-ad30-61e32dc73f5b.webm (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/youtube_faceless_showcase/dfaf3c17-9def-4a15-8a8f-01ac891994c5.webp
 
 ```text
@@ -21275,7 +21275,7 @@ these commands in a client-local or built-in shell.
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `2.39:1 / 16:9` | Duration `12s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/17edbd00-1d8f-4d5f-96af-6eabeeb3c27f.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/17edbd00-1d8f-4d5f-96af-6eabeeb3c27f.mp4 (Audio Included)
 - **Preview Image:** https://static-public-media.higgsfield.ai/restyle-presets/ed5e5883-3e88-4d7b-8431-27ed1ac2a494.png
 
 ```text
@@ -21288,7 +21288,7 @@ Cinematic 35mm film still of (the character from the reference image) in (the dr
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `16:9` | Duration `12s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/0f224e6b-c737-4251-9311-c942d668367a.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/0f224e6b-c737-4251-9311-c942d668367a.mp4 (Audio Included)
 
 ```text
 High-octane cinematic action sequence featuring (the character from the reference image) in (the cyberpunk or night neon street scene), shot on RED V-Raptor at 60fps, dynamic low-angle wide shot, realistic motion blur streaks, high contrast cinematic grade, practical atmospheric embers and vibrant neon reflections.
@@ -21300,7 +21300,7 @@ High-octane cinematic action sequence featuring (the character from the referenc
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `16:9` | Duration `12s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/dc5761e7-bd40-4604-995c-78b53856fcd9.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/dc5761e7-bd40-4604-995c-78b53856fcd9.mp4 (Audio Included)
 
 ```text
 Cinematic rooftop sunset scene with (the character from the reference image) silhouetted against (the glowing metropolitan city skyline). Handheld 35mm camera slowly walks forward toward the subject, subtle natural breathing shake, smooth gradual push-in, rich golden-hour backlighting and lens flare.
@@ -21312,7 +21312,7 @@ Cinematic rooftop sunset scene with (the character from the reference image) sil
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `16:9` | Duration `12s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/15d1907b-9524-47ec-b043-6cdb4c5374d0.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/15d1907b-9524-47ec-b043-6cdb4c5374d0.mp4 (Audio Included)
 
 ```text
 Cinematic shot of (the character from the reference image) silhouetted in a subway train doorway at night, looking out across the platform. Cool emerald fluorescent lighting, soft atmospheric motion blur inside the carriage, moody neo-noir urban tone. Slow steady forward track on a Chapman dolly.
@@ -21324,7 +21324,7 @@ Cinematic shot of (the character from the reference image) silhouetted in a subw
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `16:9` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/68a696dc-2c2e-43b1-b285-511c8783db1f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/marketing-studio-motion-preview/68a696dc-2c2e-43b1-b285-511c8783db1f.mp4 (Audio Included)
 
 ```text
 Cinematic film sequence of (the character from the reference image) preparing (the dish/ingredients from reference) in a high-end stainless-steel kitchen at night. Dramatic atmospheric steam rising into a directional backlight, moody chiaroscuro contrast with cool teal shadows and warm tungsten practical lamps, shallow depth of field rack focus.
@@ -21336,7 +21336,7 @@ Cinematic film sequence of (the character from the reference image) preparing (t
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `16:9` | Duration `12s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d877f71c-d2f3-44df-9317-f3ce6889bcb6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/viral_hub/d877f71c-d2f3-44df-9317-f3ce6889bcb6.mp4 (Audio Included)
 
 ```text
 Cinematic action shot of (the character from the reference image) trekking through a harsh snowstorm across (the frozen glacial mountain landscape). Strong wind driving practical snow particles across the lens, cold icy blue-gray color grade, high-contrast directional key lighting, slow-motion 60fps tracking.
@@ -21348,7 +21348,7 @@ Cinematic action shot of (the character from the reference image) trekking throu
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `2.39:1 / 16:9` | Duration `12s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/276cb25f-6a87-4a19-a759-b17019df17b5.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/276cb25f-6a87-4a19-a759-b17019df17b5.mp4 (Audio Included)
 
 ```text
 Cinematic anamorphic tracking shot of (the performance car / vehicle from the reference image) speeding through (the wet nighttime downtown streets). Low-angle chase car camera skimming asphalt, dramatic horizontal anamorphic streaks and lens flares from streetlights, wet road reflections, premium automotive commercial cinematography.
@@ -21360,7 +21360,7 @@ Cinematic anamorphic tracking shot of (the performance car / vehicle from the re
 - **Image Model:** Soul Cinema (soul_cinematic) / Midjourney v6
 - **Video Model:** Seedance / Wan2.1 / Kling 1.5
 - **Settings:** Aspect Ratio `16:9` | Duration `12s–15s`
-- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/80d43cfe-18b9-4f7e-a814-965ba2516cb3.mp4
+- **Preview Video:** https://static-public-media.higgsfield.ai/restyle-presets/80d43cfe-18b9-4f7e-a814-965ba2516cb3.mp4 (Audio Included)
 
 ```text
 Dramatic narrative cinematic sequence featuring (the character from the reference image) and a second actor in (the moody dimly-lit interior setting). Slow creeping push-in on an emotional face reveal, subtle handheld breathing, tense whispering dialogue with natural room acoustic reverb, dark cinematic film stock palette.
@@ -21609,7 +21609,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/41f533bc-e56a-4807-9966-1b7f487a6fa4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/41f533bc-e56a-4807-9966-1b7f487a6fa4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f74144c0-afc3-4d7e-b07b-76b16b6cd187.webp
 
 ```text
@@ -21626,7 +21626,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9be4a814-7030-416f-9e02-4d99dd92b9b2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9be4a814-7030-416f-9e02-4d99dd92b9b2.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/08dd3e7e-45ab-4c33-b035-3ffb132e241e.webp
 
 ```text
@@ -21643,7 +21643,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9ad89e82-805c-4f66-8ce4-80c401e075ff.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9ad89e82-805c-4f66-8ce4-80c401e075ff.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ab10a655-8901-4dd7-8c54-0c76d88a6a62.webp
 
 ```text
@@ -21660,7 +21660,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f86bd18a-e233-4d3f-bc1c-2e5c08c02c69.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f86bd18a-e233-4d3f-bc1c-2e5c08c02c69.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/a85cb540-7108-45e3-ac63-bf3ed2de42d7.webp
 
 ```text
@@ -21677,7 +21677,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/551af919-f1f4-4d5e-8eef-1ac88295bd5d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/551af919-f1f4-4d5e-8eef-1ac88295bd5d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c5d8fd64-4242-4de5-b941-27ba1b7a684c.webp
 
 ```text
@@ -21694,7 +21694,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/167fc048-db8a-4205-90ef-3712b355d0f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/167fc048-db8a-4205-90ef-3712b355d0f6.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6031271f-54fd-4d12-97bf-f1cd340aa269.webp
 
 ```text
@@ -21711,7 +21711,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/81867a75-9f71-4443-91f3-040569107597.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/81867a75-9f71-4443-91f3-040569107597.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c5cdbc2f-1044-4f3d-924d-bd8516f15063.webp
 
 ```text
@@ -21728,7 +21728,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/16c732d0-1478-4597-9a72-2f1bacebfb53.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/16c732d0-1478-4597-9a72-2f1bacebfb53.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e665aeba-0b1a-45d7-bcea-86a010baa9f7.webp
 
 ```text
@@ -21745,7 +21745,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5b9ad1d2-0e1c-4b68-85e5-5980a5a1e71d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5b9ad1d2-0e1c-4b68-85e5-5980a5a1e71d.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/63ecb1ea-df5b-45e6-bff9-079a1a6fd23f.webp
 
 ```text
@@ -21762,7 +21762,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6338e059-21f3-4504-92cc-d4eca0a52a3a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6338e059-21f3-4504-92cc-d4eca0a52a3a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/459b7457-eb08-405a-8eda-ee15b871bf29.webp
 
 ```text
@@ -21779,7 +21779,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/1e89e2a8-a99d-433a-9af7-703a6bfbe83e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/1e89e2a8-a99d-433a-9af7-703a6bfbe83e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c076f77c-627b-4f87-90d2-3478024142cd.webp
 
 ```text
@@ -21796,7 +21796,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9d4269ee-cef4-40d4-affa-073c387efbd3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9d4269ee-cef4-40d4-affa-073c387efbd3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f5877174-1a69-431a-95f4-02b5f115b72b.webp
 
 ```text
@@ -21813,7 +21813,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/dcb7fe2a-486e-4550-a254-eaa5259c7221.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/dcb7fe2a-486e-4550-a254-eaa5259c7221.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/0b11f953-2cd4-4b80-ba5e-50c28d240b56.webp
 
 ```text
@@ -21830,7 +21830,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/40c95353-6037-4a00-a7ba-7dab09ef9e64.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/40c95353-6037-4a00-a7ba-7dab09ef9e64.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9dd7f7f2-4525-4e1a-bce8-1c77bdcde538.webp
 
 ```text
@@ -21847,7 +21847,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ca7dc056-0e87-4398-b96d-cc59fae0024c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ca7dc056-0e87-4398-b96d-cc59fae0024c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/d352b3b2-d161-4f36-b62d-05707c357beb.webp
 
 ```text
@@ -21864,7 +21864,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/14f5b72a-7202-41cc-8f35-cc468eab9db1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/14f5b72a-7202-41cc-8f35-cc468eab9db1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/dde2ae70-9d21-45ef-996f-c5a73c0e1aef.webp
 
 ```text
@@ -21881,7 +21881,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/8aa44e1d-32e8-4368-9a47-f40ffda77d5a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/8aa44e1d-32e8-4368-9a47-f40ffda77d5a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6f9ced07-5f77-49a3-a79c-e2608f5c5bb6.webp
 
 ```text
@@ -21898,7 +21898,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e6233943-40ee-4a82-88c5-052e262b7eff.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e6233943-40ee-4a82-88c5-052e262b7eff.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ff4d0638-b321-4054-8444-37c7c86c07b0.webp
 
 ```text
@@ -21915,7 +21915,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/a8449dc8-41ec-49fc-90f4-81d74d9f7066.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/a8449dc8-41ec-49fc-90f4-81d74d9f7066.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/dd8b74ed-ab90-4eca-8f7d-00d4e4dd364c.webp
 
 ```text
@@ -21932,7 +21932,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/4e24525e-b626-4ac0-a22a-2365fee28c2c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/4e24525e-b626-4ac0-a22a-2365fee28c2c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/32a345fc-4f06-4392-a9fe-39f411922a70.webp
 
 ```text
@@ -21949,7 +21949,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/3b30b328-199f-456d-84c6-a4b20efcadf3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/3b30b328-199f-456d-84c6-a4b20efcadf3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/bff738bb-888a-49c7-9e35-29c891298d12.webp
 
 ```text
@@ -21966,7 +21966,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/fd673dee-53c4-4cfa-a7f5-9690c407cab8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/fd673dee-53c4-4cfa-a7f5-9690c407cab8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e514e07b-ee64-4b2a-bd2b-807643d7b132.webp
 
 ```text
@@ -21983,7 +21983,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/052d0323-8a28-41ce-b7bc-db94e39580b9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/052d0323-8a28-41ce-b7bc-db94e39580b9.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/73f89729-35d9-4100-b840-59dacf819ae4.webp
 
 ```text
@@ -22000,7 +22000,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c2046a8a-831e-4aa2-a8b3-6a05e384b2c0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c2046a8a-831e-4aa2-a8b3-6a05e384b2c0.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9d9895e4-37e7-4dc9-baa5-673a5b408a8f.webp
 
 ```text
@@ -22017,7 +22017,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/11688e66-674d-45f5-9f9b-4543974ad12c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/11688e66-674d-45f5-9f9b-4543974ad12c.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/40bd5464-c4db-492a-9334-28c0a03ef23f.webp
 
 ```text
@@ -22034,7 +22034,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/bd898ff8-e0a8-4b44-a41f-ceb723e5b414.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/bd898ff8-e0a8-4b44-a41f-ceb723e5b414.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/599ecaf0-2efb-4f91-af04-00ab4db120dd.webp
 
 ```text
@@ -22051,7 +22051,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/801093dc-0817-44ba-87da-6e544f218c0e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/801093dc-0817-44ba-87da-6e544f218c0e.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f2d19ee8-6f11-424a-b8ee-ec4b919b6124.webp
 
 ```text
@@ -22068,7 +22068,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/4908b3bd-26b4-4c6d-8414-c4f093858066.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/4908b3bd-26b4-4c6d-8414-c4f093858066.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/1b7cb488-d455-4fca-9560-395d98eda3da.webp
 
 ```text
@@ -22085,7 +22085,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5fab33de-d50b-4eea-bac1-d1605bc88a80.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5fab33de-d50b-4eea-bac1-d1605bc88a80.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/a3b7d521-9e89-4bda-b20e-f0efbfb239d0.webp
 
 ```text
@@ -22102,7 +22102,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/47b73a55-9dc7-4826-b7ea-71d33c3793a3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/47b73a55-9dc7-4826-b7ea-71d33c3793a3.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/3c2bc6c0-b1dd-48b0-831e-c2a7ca1838e8.webp
 
 ```text
@@ -22119,7 +22119,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/7e76d6a7-7360-4254-8c0c-7afbec20248a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/7e76d6a7-7360-4254-8c0c-7afbec20248a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/2fc0b86d-a755-48e7-aa33-b7080fa6a36c.webp
 
 ```text
@@ -22136,7 +22136,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/809b7c81-8ce9-4d6c-b042-dcb46cfb0e9b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/809b7c81-8ce9-4d6c-b042-dcb46cfb0e9b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/db4ff5ec-8386-46d5-b907-1d9eb0cc59df.webp
 
 ```text
@@ -22153,7 +22153,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c5f97f2c-f96b-479c-a2ff-ae37e7d79b07.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c5f97f2c-f96b-479c-a2ff-ae37e7d79b07.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9f351ee9-54e8-4b4a-b104-1bbd7f8db714.webp
 
 ```text
@@ -22245,7 +22245,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/2acc2bfe-e9b8-4fbf-9b2f-5288c65ab016.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/2acc2bfe-e9b8-4fbf-9b2f-5288c65ab016.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6e05bd09-800f-4a41-9910-96a09662efcd.webp
 
 ```text
@@ -22262,7 +22262,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/7d9d7918-cb17-47eb-9cae-c2a64695282f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/7d9d7918-cb17-47eb-9cae-c2a64695282f.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c4bf8547-5047-4f38-b18a-44b141773960.webp
 
 ```text
@@ -22279,7 +22279,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c819650a-6a5e-4231-9aef-a593051bb378.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c819650a-6a5e-4231-9aef-a593051bb378.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ab84020a-ef8b-47ea-80d5-8466e4103d4d.webp
 
 ```text
@@ -22296,7 +22296,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/0ad23d54-7233-468d-9587-31dd033428b1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/0ad23d54-7233-468d-9587-31dd033428b1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/d19773a8-a734-45d2-94ab-2ea038c65dc4.webp
 
 ```text
@@ -22313,7 +22313,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/97a8f939-9cfa-4527-a3f1-58be06ace187.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/97a8f939-9cfa-4527-a3f1-58be06ace187.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c99aea1c-78e7-41ca-b90f-86785b892f43.webp
 
 ```text
@@ -22330,7 +22330,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/436a4b98-59e2-42ef-bbfd-6afa9b2d086a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/436a4b98-59e2-42ef-bbfd-6afa9b2d086a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/574c8be8-6572-488c-bd92-0d4efb1e76b2.webp
 
 ```text
@@ -22347,7 +22347,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/430248d6-d196-4644-9acd-5bd971df502a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/430248d6-d196-4644-9acd-5bd971df502a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f9cc8c79-110b-4456-b068-2dd3d5941869.webp
 
 ```text
@@ -22364,7 +22364,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ae22f7b5-e044-4f96-bcd9-b87cc677a569.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ae22f7b5-e044-4f96-bcd9-b87cc677a569.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/659c4612-b39e-4c09-8a61-36f5bea142ad.webp
 
 ```text
@@ -22381,7 +22381,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c8c80362-5f11-4bbc-88f9-61e4277c575a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/c8c80362-5f11-4bbc-88f9-61e4277c575a.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/96ecf21a-ddeb-4701-a815-b9a2274c4f4f.webp
 
 ```text
@@ -22398,7 +22398,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f55691e6-714c-4c83-b51f-f3b1eb920b27.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/f55691e6-714c-4c83-b51f-f3b1eb920b27.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/445d44ac-368e-45a6-b3cb-91e9a6585af6.webp
 
 ```text
@@ -22415,7 +22415,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9f754037-bd34-4ce2-8c4f-4489bc280c46.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/9f754037-bd34-4ce2-8c4f-4489bc280c46.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/0cfc70a8-ecb9-4d79-a779-79e6d3fdc2c5.webp
 
 ```text
@@ -22432,7 +22432,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/72232455-c7bf-4613-ab29-b77e8ab47c56.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/72232455-c7bf-4613-ab29-b77e8ab47c56.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/468c6074-9645-4cc3-b632-ba4be3d20e63.webp
 
 ```text
@@ -22449,7 +22449,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/1d5bace2-93f0-49c0-84df-bdfd4ebf84b4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/1d5bace2-93f0-49c0-84df-bdfd4ebf84b4.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/aeb0bea6-e268-439c-92e4-9c2ff4966571.webp
 
 ```text
@@ -22466,7 +22466,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/a3129a2d-e132-4e67-9edc-f5d0075191ca.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/a3129a2d-e132-4e67-9edc-f5d0075191ca.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/1a6cab3c-b6eb-4930-998e-8359fc64a4b6.webp
 
 ```text
@@ -22483,7 +22483,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6913dc79-1b79-48bb-b7b3-4af4264beac8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6913dc79-1b79-48bb-b7b3-4af4264beac8.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/15f98825-a751-4947-b8be-560c3aabcc9c.webp
 
 ```text
@@ -22500,7 +22500,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/b2ae8058-ae8a-4708-b004-db614eaa02e5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/b2ae8058-ae8a-4708-b004-db614eaa02e5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ba472198-f68f-4a7f-a1d7-ec5989ddfe1c.webp
 
 ```text
@@ -22517,7 +22517,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6dbee35e-506a-4459-a7b2-ff08dc8921bb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/6dbee35e-506a-4459-a7b2-ff08dc8921bb.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ea53a64b-5a44-4db8-b593-75b04919eec0.webp
 
 ```text
@@ -22534,7 +22534,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ce8bb8b8-1755-4a17-9b14-f4f697a84ea5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ce8bb8b8-1755-4a17-9b14-f4f697a84ea5.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/55b8410f-b02b-4885-988d-693fd74504c4.webp
 
 ```text
@@ -22551,7 +22551,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e2c0b8ad-e163-4c9b-95b3-1eb8396ef572.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e2c0b8ad-e163-4c9b-95b3-1eb8396ef572.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/93eb82f2-6dc1-419b-b435-d6b61178cbd6.webp
 
 ```text
@@ -22568,7 +22568,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/49f1cec3-9b30-4570-9b9d-c411a426eea1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/49f1cec3-9b30-4570-9b9d-c411a426eea1.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/e06c19b7-ffcf-4d42-a6f2-2af671816b5a.webp
 
 ```text
@@ -22585,7 +22585,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ebb72ac5-bbfb-4652-81a3-98126e69f48b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/ebb72ac5-bbfb-4652-81a3-98126e69f48b.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5c38606d-5538-4d1d-9f4b-9a0aeb318acc.webp
 
 ```text
@@ -22602,7 +22602,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5ab5e82e-9413-49b5-ad09-e0990fea22ee.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/5ab5e82e-9413-49b5-ad09-e0990fea22ee.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/96bd92ab-d3d5-4e3b-9eb5-ad736d8d2357.webp
 
 ```text
@@ -22619,7 +22619,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/cd12c346-7515-4a65-a58c-b9ede3185486.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/cd12c346-7515-4a65-a58c-b9ede3185486.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/0da218b4-845f-420b-8580-1b784a28770b.webp
 
 ```text
@@ -22636,7 +22636,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/7c088434-9419-4b45-951e-b1b6117fbd65.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/7c088434-9419-4b45-951e-b1b6117fbd65.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/3bb5979c-1789-48e8-b87a-bfb87ced146c.webp
 
 ```text
@@ -22653,7 +22653,7 @@ Cinematic widescreen sequence in (the environment from the reference image) feat
 - **Image Model:** Soul 2.0 / Cinema Studio 4.0 Keyframe Director
 - **Video Model:** Seedance 2.0 / Kling 2.6 Cinema Engine
 - **Settings:** Aspect Ratio `16:9 / 21:9` | Duration `5s–10s`
-- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/3e9d02bd-5d81-4e7a-a20d-9c92eaa34389.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/3e9d02bd-5d81-4e7a-a20d-9c92eaa34389.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/cinema_studio_40_creative_controls/02134177-479e-4836-afbc-def483d4b37a.webp
 
 ```text
@@ -23788,7 +23788,7 @@ Shot on cinema camera with f/4 Moderate (aperture) : (The character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e3826940-e105-4929-8cbb-5e495bbe825a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e3826940-e105-4929-8cbb-5e495bbe825a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/01ae2ef0-1822-4dad-a88d-8f82a2771362.webp
 
 ```text
@@ -23805,7 +23805,7 @@ Motion-controlled video sequence ("Train Rush") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/5894ddc0-9cdb-4026-8455-999d29b31bd1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/5894ddc0-9cdb-4026-8455-999d29b31bd1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/36cfc009-4f91-42c0-9df6-6fc96b4a8f42.webp
 
 ```text
@@ -23822,7 +23822,7 @@ Motion-controlled video sequence ("Selfie") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/32e81e3d-fb49-4c31-978a-3e79bcf43712.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/32e81e3d-fb49-4c31-978a-3e79bcf43712.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/93493aaa-13d9-4b1a-a097-b3f1c654ca2c.webp
 
 ```text
@@ -23839,7 +23839,7 @@ Motion-controlled video sequence ("Outfit Check") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/ff44387f-b4e7-44e6-b907-1b9900977179.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/ff44387f-b4e7-44e6-b907-1b9900977179.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/68674652-6fce-4ca0-a365-4a3596d71194.webp
 
 ```text
@@ -23856,7 +23856,7 @@ Motion-controlled video sequence ("Crying") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/8e4a666a-e9ab-4489-b299-3298394feb93.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/8e4a666a-e9ab-4489-b299-3298394feb93.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/9f6fdac0-a190-427d-b599-962247a9bd1e.webp
 
 ```text
@@ -23873,7 +23873,7 @@ Motion-controlled video sequence ("Yacht") featuring (the character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/634ede39-bc1f-4635-b4bc-eee2d87a4735.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/634ede39-bc1f-4635-b4bc-eee2d87a4735.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Disintegration") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -23889,7 +23889,7 @@ Motion-controlled video sequence ("Disintegration") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/57b0984d-dde1-4ee5-a8d7-b02f9dadf527.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/57b0984d-dde1-4ee5-a8d7-b02f9dadf527.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/feda6f7f-eeef-4403-b196-b1bf226f3ddd.webp
 
 ```text
@@ -23906,7 +23906,7 @@ Motion-controlled video sequence ("Wireframe") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/66410c35-7a12-4dd4-8ecd-f50402ceb781.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/66410c35-7a12-4dd4-8ecd-f50402ceb781.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/eee2f734-52a1-4a8a-908e-deb0c2293cac.webp
 
 ```text
@@ -23923,7 +23923,7 @@ Motion-controlled video sequence ("Explosion") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/6e04a75a-3024-48eb-8ecb-71ca6778c7c2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/6e04a75a-3024-48eb-8ecb-71ca6778c7c2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/cf327d36-9f81-42f7-b301-6a73c6f71236.webp
 
 ```text
@@ -23940,7 +23940,7 @@ Motion-controlled video sequence ("Group Photo") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/494db880-44db-4abf-a062-57b5087a3eaa.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/494db880-44db-4abf-a062-57b5087a3eaa.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/e50e3014-78eb-4c7c-a211-39506fd45b56.webp
 
 ```text
@@ -23957,7 +23957,7 @@ Motion-controlled video sequence ("Fix and pose") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/78bc2a8b-ffcb-4f25-9bcf-1828424f4471.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/78bc2a8b-ffcb-4f25-9bcf-1828424f4471.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/1e8a545d-628d-4b9a-8d73-62d980c7146f.webp
 
 ```text
@@ -23974,7 +23974,7 @@ Motion-controlled video sequence ("Seedance Pro - General") featuring (the chara
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/ec8a67fe-2d85-4a98-be8a-636a85c1a005.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/ec8a67fe-2d85-4a98-be8a-636a85c1a005.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/c6ce8564-5a9e-438e-aeab-083d06dfecf5.webp
 
 ```text
@@ -23991,7 +23991,7 @@ Motion-controlled video sequence ("Plate Check") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/7e7cf65f-b7e1-44eb-8e01-5c28b024e5c2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/7e7cf65f-b7e1-44eb-8e01-5c28b024e5c2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/2066409b-f9d8-4d4a-9efb-599c6196f6d4.webp
 
 ```text
@@ -24008,7 +24008,7 @@ Motion-controlled video sequence ("Red Carpet") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/a06e3951-e827-471f-8bd3-5597ebee4ffa.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/a06e3951-e827-471f-8bd3-5597ebee4ffa.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/0ee9f471-3d30-4cd6-86c0-79e1f9592f75.webp
 
 ```text
@@ -24025,7 +24025,7 @@ Motion-controlled video sequence ("Car Drive") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c8a60e70-be82-4d6b-8e4e-0c5dc6616d35.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c8a60e70-be82-4d6b-8e4e-0c5dc6616d35.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/0c402e52-4b74-4bf2-9af3-2ad756003d01.webp
 
 ```text
@@ -24042,7 +24042,7 @@ Motion-controlled video sequence ("Clothes Rain") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/526757e6-c008-489d-b31d-e9189a0e5d9f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/526757e6-c008-489d-b31d-e9189a0e5d9f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/f25cbc9e-eeb5-4597-8b96-bfb76974d373.webp
 
 ```text
@@ -24059,7 +24059,7 @@ Motion-controlled video sequence ("Money Rain") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c66e28d7-d237-4dab-abb1-8b014baa4c02.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c66e28d7-d237-4dab-abb1-8b014baa4c02.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b6038f84-0a58-4d05-9f7d-c7e96e2d6bff.webp
 
 ```text
@@ -24076,7 +24076,7 @@ Motion-controlled video sequence ("Atomic") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/60fe4cdc-9baf-4616-a86c-0b0a51b012d8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/60fe4cdc-9baf-4616-a86c-0b0a51b012d8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Earth Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24092,7 +24092,7 @@ Motion-controlled video sequence ("Earth Zoom Out") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d0577b6b-1cb1-48a2-a79d-6feb85a1b47d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d0577b6b-1cb1-48a2-a79d-6feb85a1b47d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/8433ce64-3cbf-46f5-8120-b242119f2924.webp
 
 ```text
@@ -24109,7 +24109,7 @@ Motion-controlled video sequence ("Flame On") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4d6f2cb6-0739-4aeb-9736-f5a85108abde.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4d6f2cb6-0739-4aeb-9736-f5a85108abde.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/84cd8479-c4bf-44c8-88d7-8d12506c889d.webp
 
 ```text
@@ -24126,7 +24126,7 @@ Motion-controlled video sequence ("Shadow") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1493b264-13b4-41e8-906c-b6405f9c1f0d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1493b264-13b4-41e8-906c-b6405f9c1f0d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Eyes In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24142,7 +24142,7 @@ Motion-controlled video sequence ("Eyes In") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/6239aa71-05a4-4030-8e82-fd9b1b9e0a43.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/df1a9dba-7cae-42d3-99a6-68c56ea7fc1c.webp
 
 ```text
@@ -24159,7 +24159,7 @@ Motion-controlled video sequence ("Fast Sprint") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b12c57e6-3670-493e-b814-2675c1aaae7f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b12c57e6-3670-493e-b814-2675c1aaae7f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4975828e-ceac-4488-a063-08bf12aff41a.webp
 
 ```text
@@ -24176,7 +24176,7 @@ Motion-controlled video sequence ("Rapid Zoom Out") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/79df6620-8eec-4597-9841-4887e6fd2d93.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/79df6620-8eec-4597-9841-4887e6fd2d93.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/d83e8460-27a1-451c-a4b5-4c32469b343d.webp
 
 ```text
@@ -24193,7 +24193,7 @@ Motion-controlled video sequence ("Oni Mask") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4aa75c29-aa50-4226-bea8-7aee0f87d951.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4aa75c29-aa50-4226-bea8-7aee0f87d951.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/341da7d1-fc50-477c-840a-57713219701f.webp
 
 ```text
@@ -24210,7 +24210,7 @@ Motion-controlled video sequence ("BTS") featuring (the character from the refer
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b5ce84b1-abf5-47de-a8e2-e7c94d321e84.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b5ce84b1-abf5-47de-a8e2-e7c94d321e84.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/2d4204e2-87c4-4f52-80f5-f28de132ddcd.webp
 
 ```text
@@ -24227,7 +24227,7 @@ Motion-controlled video sequence ("Censorship") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/5ee01cbc-235d-46ae-9c7f-5f42dbdccd4d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/5ee01cbc-235d-46ae-9c7f-5f42dbdccd4d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/f5a61483-ac10-4220-84d9-fe1595b5ea1f.webp
 
 ```text
@@ -24244,7 +24244,7 @@ Motion-controlled video sequence ("Hero Flight") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/0f8e287c-2cfe-47cf-b2b1-b4f296e9bc67.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/0f8e287c-2cfe-47cf-b2b1-b4f296e9bc67.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/d0391007-2f2a-4408-aa72-3219f9600c2c.webp
 
 ```text
@@ -24261,7 +24261,7 @@ Motion-controlled video sequence ("Shocked") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e05f2a1a-d920-4169-bc6e-980e3be19df2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e05f2a1a-d920-4169-bc6e-980e3be19df2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e1edde73-3710-47dd-8a5d-424f212054d0.webp
 
 ```text
@@ -24278,7 +24278,7 @@ Motion-controlled video sequence ("Acid") featuring (the character from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/2e6d22e7-dc0c-4059-bdeb-2f6d8c736900.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/2e6d22e7-dc0c-4059-bdeb-2f6d8c736900.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/624e71b8-4a78-421c-8f79-06e52935343e.webp
 
 ```text
@@ -24295,7 +24295,7 @@ Motion-controlled video sequence ("Morning routine") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4c75250f-a508-4d36-b092-25cc0837f127.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4c75250f-a508-4d36-b092-25cc0837f127.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Face Punch") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24311,7 +24311,7 @@ Motion-controlled video sequence ("Face Punch") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/1cfbec9e-69bf-417e-924b-58cbea39e684.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/1cfbec9e-69bf-417e-924b-58cbea39e684.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/5e26b244-3c0b-4d48-a5a8-8c6c9ea6e0f6.webp
 
 ```text
@@ -24328,7 +24328,7 @@ Motion-controlled video sequence ("Drunk Master") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3d356f07-bb95-4bdc-89b3-2d4a16e18cf8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c8560c04-3b8b-452b-a7e4-5e47a29c54f6.webp
 
 ```text
@@ -24345,7 +24345,7 @@ Motion-controlled video sequence ("Handheld Run") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/f6610101-f2a4-4886-a9f5-4a0704c7a126.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/f6610101-f2a4-4886-a9f5-4a0704c7a126.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/88a315ac-a391-45dd-a241-dd93ef065dda.webp
 
 ```text
@@ -24362,7 +24362,7 @@ Motion-controlled video sequence ("Happy") featuring (the character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4847b12f-c4ac-417a-a397-dfcfcf646b23.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4847b12f-c4ac-417a-a397-dfcfcf646b23.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/96c4357b-dd26-440b-b93e-020e1f3fe16f.webp
 
 ```text
@@ -24379,7 +24379,7 @@ Motion-controlled video sequence ("Spiders from Mouth") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d82c8025-2b3a-4eb9-b0b8-42c9daf2a5eb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d82c8025-2b3a-4eb9-b0b8-42c9daf2a5eb.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/691adc13-ee7c-4a7a-a93a-90b1da39d86f.webp
 
 ```text
@@ -24396,7 +24396,7 @@ Motion-controlled video sequence ("Road Rush") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c0e2e375-3e7d-4676-8e1e-e40e91f1cfe1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c0e2e375-3e7d-4676-8e1e-e40e91f1cfe1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/04e1c2c7-a713-4564-88c6-5c0ab2ea3135.webp
 
 ```text
@@ -24413,7 +24413,7 @@ Motion-controlled video sequence ("Mirror Selfie") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/64852976-3718-44c9-8d2f-77dcdd46b0dc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/64852976-3718-44c9-8d2f-77dcdd46b0dc.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/dcec0280-81b5-4613-a1fd-b39483943525.webp
 
 ```text
@@ -24430,7 +24430,7 @@ Motion-controlled video sequence ("Exploded View") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d0028591-db56-4d8e-9fc0-d77efc18d018.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d0028591-db56-4d8e-9fc0-d77efc18d018.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/f98d97d8-3352-4d91-a325-e2ccdf44321d.webp
 
 ```text
@@ -24447,7 +24447,7 @@ Motion-controlled video sequence ("Minimax Hailuo 02 - General") featuring (the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/ff7a19f7-dbd7-4a88-adbb-3d5c6d38413f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/ff7a19f7-dbd7-4a88-adbb-3d5c6d38413f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/c83e3c00-113e-4181-8303-ec1bf43d42e0.webp
 
 ```text
@@ -24464,7 +24464,7 @@ Motion-controlled video sequence ("Motor Ride") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d015960c-06ba-43b4-b986-4642da210206.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d015960c-06ba-43b4-b986-4642da210206.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c209e4e6-0585-4ee0-806b-a68ef708421a.webp
 
 ```text
@@ -24481,7 +24481,7 @@ Motion-controlled video sequence ("Balloon") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/53085eb7-d884-4423-b7e4-1161e8e07ca9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/53085eb7-d884-4423-b7e4-1161e8e07ca9.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/98c3c440-f136-494d-9438-6a0fccba25e5.webp
 
 ```text
@@ -24498,7 +24498,7 @@ Motion-controlled video sequence ("Look, BOOM!") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/05599ce7-b4e0-4d1c-978e-93d192e2ae8b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/05599ce7-b4e0-4d1c-978e-93d192e2ae8b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/602b6bd1-b722-4945-922b-685f62104109.webp
 
 ```text
@@ -24515,7 +24515,7 @@ Motion-controlled video sequence ("Beach Ride") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/0e9ed4ad-0e77-4fc1-bdb5-db861be85cef.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/0e9ed4ad-0e77-4fc1-bdb5-db861be85cef.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/e672ff46-0166-431d-aa95-7bfaf4acf28a.webp
 
 ```text
@@ -24532,7 +24532,7 @@ Motion-controlled video sequence ("Hair Style") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/e8ae14e5-738f-46c0-939a-17f0002c442e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/e8ae14e5-738f-46c0-939a-17f0002c442e.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/fc26be96-f791-4531-8665-106fe0556172.webp
 
 ```text
@@ -24549,7 +24549,7 @@ Motion-controlled video sequence ("Peak Moment") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/0ae77440-b556-4fe4-8c38-61baecce36c2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/0ae77440-b556-4fe4-8c38-61baecce36c2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/83b80776-f39a-433d-8c55-f6102c8ccd4f.webp
 
 ```text
@@ -24566,7 +24566,7 @@ Motion-controlled video sequence ("Buddy") featuring (the character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/a347a9aa-318c-4eaf-bf96-9da74776da47.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/a347a9aa-318c-4eaf-bf96-9da74776da47.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/1e876d6f-78b4-49a5-946e-4bea1d9d26ce.webp
 
 ```text
@@ -24583,7 +24583,7 @@ Motion-controlled video sequence ("Live Concert") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c7618230-873c-4afe-ba17-54609ee50e9b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c7618230-873c-4afe-ba17-54609ee50e9b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/05265ace-9cec-408f-ae0d-c5534975e722.webp
 
 ```text
@@ -24600,7 +24600,7 @@ Motion-controlled video sequence ("Crying") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c7dce823-4318-471c-8f29-a4407074b2ae.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c7dce823-4318-471c-8f29-a4407074b2ae.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Freezing") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24616,7 +24616,7 @@ Motion-controlled video sequence ("Freezing") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3dadcdb5-4c01-4551-a989-9e2fb919d3d8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3dadcdb5-4c01-4551-a989-9e2fb919d3d8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/82c146d5-da61-4025-8056-611c03f97354.webp
 
 ```text
@@ -24633,7 +24633,7 @@ Motion-controlled video sequence ("Polygon") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/a98ff971-f822-4bae-8f3c-30abef61430b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/a98ff971-f822-4bae-8f3c-30abef61430b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/841f72c6-f3c3-436f-b401-073c3311a4bd.webp
 
 ```text
@@ -24650,7 +24650,7 @@ Motion-controlled video sequence ("X-Ray") featuring (the character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/2ec6b9bb-b172-4d56-96d4-65862b8de1c6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/2ec6b9bb-b172-4d56-96d4-65862b8de1c6.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/2759e47e-0f59-4993-91f3-129bbbd18980.webp
 
 ```text
@@ -24667,7 +24667,7 @@ Motion-controlled video sequence ("Car Mount") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f97e1093-b61a-4bbd-abed-4318fc1249e8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f97e1093-b61a-4bbd-abed-4318fc1249e8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Arc Right") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24683,7 +24683,7 @@ Motion-controlled video sequence ("Arc Right") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/74e763e5-c743-4693-a011-aba749b72e06.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/74e763e5-c743-4693-a011-aba749b72e06.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ed316e7c-b598-4744-91cb-b4c0da090acd.webp
 
 ```text
@@ -24700,7 +24700,7 @@ Motion-controlled video sequence ("Timelapse Human") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3944498e-c313-4b22-b09b-fd695b071cc9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3944498e-c313-4b22-b09b-fd695b071cc9.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/7e573900-1733-4fe1-90e7-208e257ff62e.webp
 
 ```text
@@ -24717,7 +24717,7 @@ Motion-controlled video sequence ("Helicopter Escape") featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d89d25c5-1ae7-48f8-9239-165b6d3b63c4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d89d25c5-1ae7-48f8-9239-165b6d3b63c4.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d389d024-1a8d-4f71-b887-af4cdc5985ed.webp
 
 ```text
@@ -24734,7 +24734,7 @@ Motion-controlled video sequence ("CCTV") featuring (the character from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b40222b2-1329-4e69-b67e-f5f4c9256e29.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b40222b2-1329-4e69-b67e-f5f4c9256e29.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Roll Transition") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24750,7 +24750,7 @@ Motion-controlled video sequence ("Roll Transition") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2785cca1-c4bc-498f-bdd9-ce0012e8477b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2785cca1-c4bc-498f-bdd9-ce0012e8477b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Handheld") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24766,7 +24766,7 @@ Motion-controlled video sequence ("Handheld") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d8320e8a-da48-4fcb-a613-cb200f949589.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d8320e8a-da48-4fcb-a613-cb200f949589.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4c49d2be-89e7-4dad-b567-f9d89f43a68d.webp
 
 ```text
@@ -24783,7 +24783,7 @@ Motion-controlled video sequence ("Glitch") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ff7f122a-8d46-4093-ab00-297049b55919.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ff7f122a-8d46-4093-ab00-297049b55919.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24799,7 +24799,7 @@ Motion-controlled video sequence ("Crash Zoom In") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e18fa007-b007-4a83-acba-86ad151d10e2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e18fa007-b007-4a83-acba-86ad151d10e2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Turning Metal + Eyes In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24815,7 +24815,7 @@ Motion-controlled video sequence ("Turning Metal + Eyes In") featuring (the char
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a6bbb172-ecff-4dcb-87b2-18a87898febd.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a6bbb172-ecff-4dcb-87b2-18a87898febd.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("FPV Drone") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24831,7 +24831,7 @@ Motion-controlled video sequence ("FPV Drone") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/870fb8ce-303a-47d6-8cba-c775517688a0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/870fb8ce-303a-47d6-8cba-c775517688a0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/0972a1c1-7167-41c5-aa68-a6a682912921.webp
 
 ```text
@@ -24848,7 +24848,7 @@ Motion-controlled video sequence ("Flip") featuring (the character from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/51d42294-6d2f-4e0c-8448-c3b8d4114292.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/51d42294-6d2f-4e0c-8448-c3b8d4114292.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Building Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24864,7 +24864,7 @@ Motion-controlled video sequence ("Building Explosion") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d4d8779c-f3e5-4014-995f-1867ad139201.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d4d8779c-f3e5-4014-995f-1867ad139201.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/9c69188c-1009-40a1-a467-c5115eeb1b53.webp
 
 ```text
@@ -24881,7 +24881,7 @@ Motion-controlled video sequence ("Point Cloud") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1abf9bb7-8dfd-42b1-80a8-9ebd48e10487.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1abf9bb7-8dfd-42b1-80a8-9ebd48e10487.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Thunder God") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24897,7 +24897,7 @@ Motion-controlled video sequence ("Thunder God") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/9aa36061-be8c-44d3-812c-a73503143b52.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/9aa36061-be8c-44d3-812c-a73503143b52.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c8b6ec84-79a3-4088-9995-c514c7e2ad74.webp
 
 ```text
@@ -24914,7 +24914,7 @@ Motion-controlled video sequence ("Eating") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b9ee21e0-fa8a-4874-be6d-00f9763a9920.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b9ee21e0-fa8a-4874-be6d-00f9763a9920.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Static") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24930,7 +24930,7 @@ Motion-controlled video sequence ("Static") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4bf6e93d-c590-4f6c-8381-50358f70ae75.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4bf6e93d-c590-4f6c-8381-50358f70ae75.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/281a6a85-2622-41fa-839d-9ff729f163e4.webp
 
 ```text
@@ -24947,7 +24947,7 @@ Motion-controlled video sequence ("Aerial Pull Out") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d44a136d-8b78-49c8-bf3d-889e5f30c547.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d44a136d-8b78-49c8-bf3d-889e5f30c547.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Turning Metal") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24963,7 +24963,7 @@ Motion-controlled video sequence ("Turning Metal") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/474a4979-30cf-4f62-901f-fe225f73ac2c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/474a4979-30cf-4f62-901f-fe225f73ac2c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -24979,7 +24979,7 @@ Motion-controlled video sequence ("Dolly Zoom In") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/9ea1789d-942e-4aa2-b501-8fe931291711.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/9ea1789d-942e-4aa2-b501-8fe931291711.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/1c86a0fb-1811-4d27-becb-517b407bdf7a.webp
 
 ```text
@@ -24996,7 +24996,7 @@ Motion-controlled video sequence ("Glow Trace") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/f9d3211a-1f87-446e-8411-64ab955ba7bc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/f9d3211a-1f87-446e-8411-64ab955ba7bc.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/15589ac8-a522-4d8b-b1e8-f77dd0332f4a.webp
 
 ```text
@@ -25013,7 +25013,7 @@ Motion-controlled video sequence ("Collage") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e1d06ade-fa58-41ec-8efb-6820413c2850.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e1d06ade-fa58-41ec-8efb-6820413c2850.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/a99599bf-f682-4442-a348-449981e9ec94.webp
 
 ```text
@@ -25030,7 +25030,7 @@ Motion-controlled video sequence ("Gas Transformation") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fe10f06a-b2cd-4af7-8913-e93ba6cbe9f4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fe10f06a-b2cd-4af7-8913-e93ba6cbe9f4.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/9c973155-d260-4543-ad9e-410c17e3655d.webp
 
 ```text
@@ -25047,7 +25047,7 @@ Motion-controlled video sequence ("Static Posing") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b3aab188-251e-4f55-a8fa-40620e3c6db6.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b3aab188-251e-4f55-a8fa-40620e3c6db6.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Turning Metal + Melting") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25063,7 +25063,7 @@ Motion-controlled video sequence ("Turning Metal + Melting") featuring (the char
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1491b9b3-3824-4360-956f-fa5c4557610a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1491b9b3-3824-4360-956f-fa5c4557610a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Clone Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25079,7 +25079,7 @@ Motion-controlled video sequence ("Clone Explosion") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/8ada95ae-0e8c-4171-aa85-ea818e6791f1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/8ada95ae-0e8c-4171-aa85-ea818e6791f1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/deae51f3-e679-44ac-92f7-4287f41af384.webp
 
 ```text
@@ -25096,7 +25096,7 @@ Motion-controlled video sequence ("Attack of Clones") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b5431a60-b990-48b1-a03b-117cb8afe7f8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b5431a60-b990-48b1-a03b-117cb8afe7f8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/073b9259-6de6-4fb8-b1fa-d37913ef4c28.webp
 
 ```text
@@ -25113,7 +25113,7 @@ Motion-controlled video sequence ("Selfie Outfit") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a0c9ff96-e3a7-4454-9099-a1f734f50c9e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a0c9ff96-e3a7-4454-9099-a1f734f50c9e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Set on Fire") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25129,7 +25129,7 @@ Motion-controlled video sequence ("Set on Fire") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c8b3771e-cd42-4518-8079-1449646873c0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c8b3771e-cd42-4518-8079-1449646873c0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fa6202a9-199a-43f7-ac8e-dfb6849c98c0.webp
 
 ```text
@@ -25146,7 +25146,7 @@ Motion-controlled video sequence ("Hero Cam") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/96ccaa14-59c4-49df-a91d-aa898794b32d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/96ccaa14-59c4-49df-a91d-aa898794b32d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("3D Rotation") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25162,7 +25162,7 @@ Motion-controlled video sequence ("3D Rotation") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/01e0631b-8c10-4441-8617-80c638eb29f8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/01e0631b-8c10-4441-8617-80c638eb29f8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Morphskin") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25178,7 +25178,7 @@ Motion-controlled video sequence ("Morphskin") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/11c848b3-c8dd-456f-a6dd-8c17e35eb7d0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/11c848b3-c8dd-456f-a6dd-8c17e35eb7d0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Snorricam") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25194,7 +25194,7 @@ Motion-controlled video sequence ("Snorricam") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/411820b9-2387-4958-99cc-699c757fcf9c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/411820b9-2387-4958-99cc-699c757fcf9c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Studio - General") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25210,7 +25210,7 @@ Motion-controlled video sequence ("Studio - General") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/2227e0c7-2367-4043-9a76-16553bc079b0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/2227e0c7-2367-4043-9a76-16553bc079b0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fb151122-bac7-4d17-a03c-6111aaa758b8.webp
 
 ```text
@@ -25227,7 +25227,7 @@ Motion-controlled video sequence ("Illustration Scene") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6f726ca2-7dea-4048-8158-dd3eeeb87c23.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6f726ca2-7dea-4048-8158-dd3eeeb87c23.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Duplicate") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25243,7 +25243,7 @@ Motion-controlled video sequence ("Duplicate") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/bb3bf1bb-0c04-4af6-88ab-ec4b354d7c37.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/bb3bf1bb-0c04-4af6-88ab-ec4b354d7c37.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/915f2fd8-990a-48d4-9bf2-51cf4c695b86.webp
 
 ```text
@@ -25260,7 +25260,7 @@ Motion-controlled video sequence ("Through Object Out") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3551bfca-fcf2-4f10-9cdb-c30cdfb16b67.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3551bfca-fcf2-4f10-9cdb-c30cdfb16b67.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Garden Bloom") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25276,7 +25276,7 @@ Motion-controlled video sequence ("Garden Bloom") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bd0bf1cf-0ba6-411a-83f1-3a1ed7057d10.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bd0bf1cf-0ba6-411a-83f1-3a1ed7057d10.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Black Tears") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25292,7 +25292,7 @@ Motion-controlled video sequence ("Black Tears") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/de3a76d1-79c8-48c4-89ad-60d540c9dcde.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/de3a76d1-79c8-48c4-89ad-60d540c9dcde.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Mouth In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25308,7 +25308,7 @@ Motion-controlled video sequence ("Mouth In") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/53e70b95-7a62-4805-b168-770caf7d57e4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/53e70b95-7a62-4805-b168-770caf7d57e4.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/7364df9a-24b5-4ee1-a888-2ef292cff3fd.webp
 
 ```text
@@ -25325,7 +25325,7 @@ Motion-controlled video sequence ("Angry Mode") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/44593059-fc54-4b63-a3b8-e83f43e9a59f.png
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/44593059-fc54-4b63-a3b8-e83f43e9a59f.png (Silent)
 
 ```text
 Motion-controlled video sequence ("Super 8MM") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25341,7 +25341,7 @@ Motion-controlled video sequence ("Super 8MM") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/354e35e1-76bf-4fdf-a07c-2d7135af7e2a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/354e35e1-76bf-4fdf-a07c-2d7135af7e2a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Flood") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25357,7 +25357,7 @@ Motion-controlled video sequence ("Flood") featuring (the character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/dfa7b62b-c221-488b-a55a-919bcf23daf8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e5f0ebef-3c8d-490c-bd5e-82ac733f7e55.webp
 
 ```text
@@ -25374,7 +25374,7 @@ Motion-controlled video sequence ("Rapid Zoom In") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/7462c8c3-5c55-43e6-9ad5-42e7e07ddce8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/7462c8c3-5c55-43e6-9ad5-42e7e07ddce8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Moonwalk Right") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25390,7 +25390,7 @@ Motion-controlled video sequence ("Moonwalk Right") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/0006fd48-1ef2-47d0-bd57-9a543a0d53ba.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/0006fd48-1ef2-47d0-bd57-9a543a0d53ba.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/29c5b2b9-bc24-4927-ac8a-9ec838bc507f.webp
 
 ```text
@@ -25407,7 +25407,7 @@ Motion-controlled video sequence ("Jib up") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4594acd6-0e50-4d41-830d-3c61c6f5e29b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4594acd6-0e50-4d41-830d-3c61c6f5e29b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/34d32ae2-fa8e-4579-8315-71dbe884dba0.webp
 
 ```text
@@ -25424,7 +25424,7 @@ Motion-controlled video sequence ("Portal") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b605e844-3d92-479c-9fc6-f46b663cf094.png
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b605e844-3d92-479c-9fc6-f46b663cf094.png (Silent)
 
 ```text
 Motion-controlled video sequence ("VHS") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25440,7 +25440,7 @@ Motion-controlled video sequence ("VHS") featuring (the character from the refer
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1825dcff-da3d-442b-b1dc-4f1bfe9006b5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1825dcff-da3d-442b-b1dc-4f1bfe9006b5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Levitation") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25456,7 +25456,7 @@ Motion-controlled video sequence ("Levitation") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ffc8dc40-e2fc-485f-aa2d-7336af6763cf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ffc8dc40-e2fc-485f-aa2d-7336af6763cf.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/4f5b7485-506d-44a7-adda-edb1acb51746.webp
 
 ```text
@@ -25473,7 +25473,7 @@ Motion-controlled video sequence ("Caught in Action") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bc613890-776b-4792-bbc9-e4d63b03665f.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bc613890-776b-4792-bbc9-e4d63b03665f.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Glowing Fish") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25489,7 +25489,7 @@ Motion-controlled video sequence ("Glowing Fish") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/63ebed42-5844-4f9f-ae77-a8ce3eefea3d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/63ebed42-5844-4f9f-ae77-a8ce3eefea3d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Head Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25505,7 +25505,7 @@ Motion-controlled video sequence ("Head Explosion") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2d01981d-d1c5-4f15-a081-563c24188c80.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2d01981d-d1c5-4f15-a081-563c24188c80.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Innerlight") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25521,7 +25521,7 @@ Motion-controlled video sequence ("Innerlight") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c768f2a0-a11f-4dc3-828d-3a6c48a7151c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c768f2a0-a11f-4dc3-828d-3a6c48a7151c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Head Off") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25537,7 +25537,7 @@ Motion-controlled video sequence ("Head Off") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b928a301-9609-4948-a045-5a4a79481b5c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b928a301-9609-4948-a045-5a4a79481b5c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Snowboard Powder") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25553,7 +25553,7 @@ Motion-controlled video sequence ("Snowboard Powder") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b6d58f2b-fbc0-440f-a1ff-f1b91522d200.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b6d58f2b-fbc0-440f-a1ff-f1b91522d200.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/49746c31-f221-4436-8f41-f97fa763afba.webp
 
 ```text
@@ -25570,7 +25570,7 @@ Motion-controlled video sequence ("Happy Mode") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/f2610cd7-7813-450f-8545-4d3a0fe4a6ed.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/f2610cd7-7813-450f-8545-4d3a0fe4a6ed.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/3502f7e4-3f30-41af-b1af-062b916d55fb.webp
 
 ```text
@@ -25587,7 +25587,7 @@ Motion-controlled video sequence ("Pool Jump") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fa870ed1-c2d1-4be6-a0b7-d954f5361848.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fa870ed1-c2d1-4be6-a0b7-d954f5361848.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/cfb13df9-f886-45bb-949d-4c687df1b9e9.webp
 
 ```text
@@ -25604,7 +25604,7 @@ Motion-controlled video sequence ("Selfie") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c155c6d1-18c6-4c02-bb16-78596163f0f8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c155c6d1-18c6-4c02-bb16-78596163f0f8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Diamond") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25620,7 +25620,7 @@ Motion-controlled video sequence ("Diamond") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/845e8b95-a354-4b40-aeeb-b4a9a72a5ebb.png
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/845e8b95-a354-4b40-aeeb-b4a9a72a5ebb.png (Silent)
 
 ```text
 Motion-controlled video sequence ("Anamorphic") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25636,7 +25636,7 @@ Motion-controlled video sequence ("Anamorphic") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/471905f8-029a-48e3-82f9-f782537e3859.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/471905f8-029a-48e3-82f9-f782537e3859.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/72391f0f-d297-4fdb-8161-05362de16f42.webp
 
 ```text
@@ -25653,7 +25653,7 @@ Motion-controlled video sequence ("Jib down") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e67c9a2a-ae6b-4325-ab2c-489c8e2f168b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/e67c9a2a-ae6b-4325-ab2c-489c8e2f168b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/10fb2861-0724-4950-8513-7c52c0ee1906.webp
 
 ```text
@@ -25670,7 +25670,7 @@ Motion-controlled video sequence ("Timelapse Glam") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9fdd4463-2e38-4419-a956-aa9645a9343e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9fdd4463-2e38-4419-a956-aa9645a9343e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Moonwalk Left") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25686,7 +25686,7 @@ Motion-controlled video sequence ("Moonwalk Left") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/0012373b-47f7-4dc1-9349-1be0badc79f8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/0012373b-47f7-4dc1-9349-1be0badc79f8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/238534d8-050b-44f5-96be-08f6fc2a2826.webp
 
 ```text
@@ -25703,7 +25703,7 @@ Motion-controlled video sequence ("Through Object In") featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6edde309-eb83-4731-8ef7-cc8f24882999.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6edde309-eb83-4731-8ef7-cc8f24882999.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Angel Wings") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25719,7 +25719,7 @@ Motion-controlled video sequence ("Angel Wings") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4921b0b7-b524-4365-955a-39949123aaaa.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4921b0b7-b524-4365-955a-39949123aaaa.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Boxing") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25735,7 +25735,7 @@ Motion-controlled video sequence ("Boxing") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ff138484-1b65-428f-ad64-9f3ef5019020.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ff138484-1b65-428f-ad64-9f3ef5019020.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Invisible") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25751,7 +25751,7 @@ Motion-controlled video sequence ("Invisible") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/1d9ae9b0-c61c-4fd1-8d7f-fadbaa8070a2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/1d9ae9b0-c61c-4fd1-8d7f-fadbaa8070a2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/fcaf8b0f-1e9e-4d0f-89ab-6d9fa1f82f9e.webp
 
 ```text
@@ -25768,7 +25768,7 @@ Motion-controlled video sequence ("Dream Date") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/93da765c-16c3-411f-bc7a-993f138bb12d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/93da765c-16c3-411f-bc7a-993f138bb12d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/105f17a5-f992-4fcd-ac17-5ab347a7f161.webp
 
 ```text
@@ -25785,7 +25785,7 @@ Motion-controlled video sequence ("Sunglasses") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b45ddb3f-d9db-4c70-b1be-b879b87471a5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b45ddb3f-d9db-4c70-b1be-b879b87471a5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Fire Breathe") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25801,7 +25801,7 @@ Motion-controlled video sequence ("Fire Breathe") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5489c3c9-2640-4771-81cc-988ee08c742e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5489c3c9-2640-4771-81cc-988ee08c742e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Paint Splash") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25817,7 +25817,7 @@ Motion-controlled video sequence ("Paint Splash") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/58e551dd-0254-4f54-b1c7-77583f18e81f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/58e551dd-0254-4f54-b1c7-77583f18e81f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/c97d2f5b-5880-455e-8091-96045e1fd389.webp
 
 ```text
@@ -25834,7 +25834,7 @@ Motion-controlled video sequence ("Double Exposure") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/213d916f-aa31-416a-af6e-2afe2fc57eb2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/213d916f-aa31-416a-af6e-2afe2fc57eb2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/67b4cbad-0ae6-431e-a162-47c34d848402.webp
 
 ```text
@@ -25851,7 +25851,7 @@ Motion-controlled video sequence ("Outfit Check") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bc4dc8f3-52d8-4742-b18e-7e4f9501b4df.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bc4dc8f3-52d8-4742-b18e-7e4f9501b4df.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Innerlight") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25867,7 +25867,7 @@ Motion-controlled video sequence ("Innerlight") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4cea9b15-ec06-4afd-9825-74326f158e62.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4cea9b15-ec06-4afd-9825-74326f158e62.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Paparazzi") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25883,7 +25883,7 @@ Motion-controlled video sequence ("Paparazzi") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/29e0b451-1c9b-4075-85c7-93474a8977cb.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/29e0b451-1c9b-4075-85c7-93474a8977cb.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Baseball Kick") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25899,7 +25899,7 @@ Motion-controlled video sequence ("Baseball Kick") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bb149d66-0c52-4a7d-afd1-42892f2f6aff.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bb149d66-0c52-4a7d-afd1-42892f2f6aff.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Incline") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25915,7 +25915,7 @@ Motion-controlled video sequence ("Incline") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/20fb4b13-541c-43c8-ac91-45a0614889a2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/20fb4b13-541c-43c8-ac91-45a0614889a2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Skateboard Glide") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25931,7 +25931,7 @@ Motion-controlled video sequence ("Skateboard Glide") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1b196aab-9ebc-4ea4-8d36-685d05eaa1c3.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1b196aab-9ebc-4ea4-8d36-685d05eaa1c3.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lens Crack") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25947,7 +25947,7 @@ Motion-controlled video sequence ("Lens Crack") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/897e662e-7d15-4ba2-8f2c-dc4c772e347e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/897e662e-7d15-4ba2-8f2c-dc4c772e347e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Bullet Time") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25963,7 +25963,7 @@ Motion-controlled video sequence ("Bullet Time") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/602fb0d0-ee72-4f16-bc26-93feb5283b94.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/602fb0d0-ee72-4f16-bc26-93feb5283b94.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Datamosh") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25979,7 +25979,7 @@ Motion-controlled video sequence ("Datamosh") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/90b58e4b-8877-4081-a82b-4941a8e99a73.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/90b58e4b-8877-4081-a82b-4941a8e99a73.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Powder Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -25995,7 +25995,7 @@ Motion-controlled video sequence ("Powder Explosion") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/20635190-872d-41fc-ad79-78ceef343726.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/20635190-872d-41fc-ad79-78ceef343726.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Arc Left") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26011,7 +26011,7 @@ Motion-controlled video sequence ("Arc Left") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b54b7f22-f4cf-4c9e-928c-fa6a8e6a3a9c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b54b7f22-f4cf-4c9e-928c-fa6a8e6a3a9c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Melting") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26027,7 +26027,7 @@ Motion-controlled video sequence ("Melting") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5ecf38bd-6194-4266-b6a0-0e3a5493b288.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5ecf38bd-6194-4266-b6a0-0e3a5493b288.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Sand Storm") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26043,7 +26043,7 @@ Motion-controlled video sequence ("Sand Storm") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9a751035-fbef-466c-97b3-c70734248c88.png
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9a751035-fbef-466c-97b3-c70734248c88.png (Silent)
 
 ```text
 Motion-controlled video sequence ("Abstract") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26059,7 +26059,7 @@ Motion-controlled video sequence ("Abstract") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a90c9740-cf9c-4c7e-acfd-f5b54045a9f1.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a90c9740-cf9c-4c7e-acfd-f5b54045a9f1.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Thunder God + Turning Metal") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26075,7 +26075,7 @@ Motion-controlled video sequence ("Thunder God + Turning Metal") featuring (the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1b92b32b-590a-450f-8966-fab196494e33.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1b92b32b-590a-450f-8966-fab196494e33.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Ski Carving") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26091,7 +26091,7 @@ Motion-controlled video sequence ("Ski Carving") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8817e696-9bd8-45fd-9bf0-b7ed518b3c17.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8817e696-9bd8-45fd-9bf0-b7ed518b3c17.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Thunder God + Levitation") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26107,7 +26107,7 @@ Motion-controlled video sequence ("Thunder God + Levitation") featuring (the cha
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/22dcbb80-f5cb-4dd0-bf04-60ddcb9da97c.png
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/22dcbb80-f5cb-4dd0-bf04-60ddcb9da97c.png (Silent)
 
 ```text
 Motion-controlled video sequence ("Cinematic") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26123,7 +26123,7 @@ Motion-controlled video sequence ("Cinematic") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6c486d3e-ddf1-440a-95a4-e856ca4c24e9.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6c486d3e-ddf1-440a-95a4-e856ca4c24e9.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("360 Orbit") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26139,7 +26139,7 @@ Motion-controlled video sequence ("360 Orbit") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d7df6057-5141-4503-8f77-d784c8c90164.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d7df6057-5141-4503-8f77-d784c8c90164.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Catwalk") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26155,7 +26155,7 @@ Motion-controlled video sequence ("Catwalk") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4602e616-84b7-4348-a48d-aa255c974329.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4602e616-84b7-4348-a48d-aa255c974329.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Agent Reveal") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26171,7 +26171,7 @@ Motion-controlled video sequence ("Agent Reveal") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c37c6823-755c-479a-b8c2-de18523820da.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c37c6823-755c-479a-b8c2-de18523820da.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Chasing") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26187,7 +26187,7 @@ Motion-controlled video sequence ("Car Chasing") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/289af8ae-661a-422b-85ed-c498cd3aa7cc.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/289af8ae-661a-422b-85ed-c498cd3aa7cc.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26203,7 +26203,7 @@ Motion-controlled video sequence ("Car Explosion") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/807be01b-229f-4168-9b94-3361f62ebf0c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/807be01b-229f-4168-9b94-3361f62ebf0c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Chasing + Building Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26219,7 +26219,7 @@ Motion-controlled video sequence ("Car Chasing + Building Explosion") featuring 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b5dd1054-15a3-41ed-9ea2-faf4a1cae2c6.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b5dd1054-15a3-41ed-9ea2-faf4a1cae2c6.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Innerlight") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26235,7 +26235,7 @@ Motion-controlled video sequence ("Innerlight") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5de6cd9e-8d9f-49dc-bc8b-a67f0bf9595e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5de6cd9e-8d9f-49dc-bc8b-a67f0bf9595e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Flying + Set on Fire") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26251,7 +26251,7 @@ Motion-controlled video sequence ("Flying + Set on Fire") featuring (the charact
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/308d6a66-fe46-4b1c-a78f-d287f0241313.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/308d6a66-fe46-4b1c-a78f-d287f0241313.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Snowboard Carving") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26267,7 +26267,7 @@ Motion-controlled video sequence ("Snowboard Carving") featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d9681d81-ae17-4562-b28e-4a2a8faba926.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d9681d81-ae17-4562-b28e-4a2a8faba926.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Jib Down") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26283,7 +26283,7 @@ Motion-controlled video sequence ("Jib Down") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2c7e7492-4198-4bd9-b6d6-f800efcd5dd0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2c7e7492-4198-4bd9-b6d6-f800efcd5dd0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Soul Jump") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26299,7 +26299,7 @@ Motion-controlled video sequence ("Soul Jump") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/64d85111-d7e0-4157-9d05-a317768c136c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/64d85111-d7e0-4157-9d05-a317768c136c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26315,7 +26315,7 @@ Motion-controlled video sequence ("Zoom Out") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/974115ce-54b4-4d22-a18b-ccf1083995b7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/974115ce-54b4-4d22-a18b-ccf1083995b7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom In + Face Punch") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26331,7 +26331,7 @@ Motion-controlled video sequence ("Crash Zoom In + Face Punch") featuring (the c
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a1f2a76f-c661-4ddb-8d8b-3b5f06db09c3.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a1f2a76f-c661-4ddb-8d8b-3b5f06db09c3.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Glamora") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26347,7 +26347,7 @@ Motion-controlled video sequence ("Glamora") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a1503b00-8e52-4e6f-bad4-12fe1824bdac.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a1503b00-8e52-4e6f-bad4-12fe1824bdac.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Building Explosion + Disintegration") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26363,7 +26363,7 @@ Motion-controlled video sequence ("Building Explosion + Disintegration") featuri
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/181fc691-e657-4031-bea6-f388fcc2015d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/181fc691-e657-4031-bea6-f388fcc2015d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Ski Powder") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26379,7 +26379,7 @@ Motion-controlled video sequence ("Ski Powder") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5e319691-e434-4594-965a-e62d4429314c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5e319691-e434-4594-965a-e62d4429314c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Downhill POV") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26395,7 +26395,7 @@ Motion-controlled video sequence ("Downhill POV") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b34448da-7d46-4d4a-8022-a3483ef8b4b1.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b34448da-7d46-4d4a-8022-a3483ef8b4b1.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Jib Up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26411,7 +26411,7 @@ Motion-controlled video sequence ("Jib Up") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/56374da8-463b-4072-8e8b-c951c8e2077d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/56374da8-463b-4072-8e8b-c951c8e2077d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Skate Cruise") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26427,7 +26427,7 @@ Motion-controlled video sequence ("Skate Cruise") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a60fa248-25f0-44e1-b33d-5d654fc4cd2b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a60fa248-25f0-44e1-b33d-5d654fc4cd2b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26443,7 +26443,7 @@ Motion-controlled video sequence ("Dolly Out") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f671aafc-1e4b-4ab4-916d-0736b3edb8c2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f671aafc-1e4b-4ab4-916d-0736b3edb8c2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Medusa Gargona") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26459,7 +26459,7 @@ Motion-controlled video sequence ("Medusa Gargona") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/08061cc1-0d1f-45a6-95ae-1be94050bf81.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/08061cc1-0d1f-45a6-95ae-1be94050bf81.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Tilt up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26475,7 +26475,7 @@ Motion-controlled video sequence ("Tilt up") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4e55f67b-7438-4831-b272-d24b917082e9.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4e55f67b-7438-4831-b272-d24b917082e9.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26491,7 +26491,7 @@ Motion-controlled video sequence ("Crane Up") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ca24be58-81b4-4029-9ee8-7388286554b3.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ca24be58-81b4-4029-9ee8-7388286554b3.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26507,7 +26507,7 @@ Motion-controlled video sequence ("Crash Zoom Out") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e803055c-62bb-4b5d-a785-fc98d405e8a7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e803055c-62bb-4b5d-a785-fc98d405e8a7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Push To Glass") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26523,7 +26523,7 @@ Motion-controlled video sequence ("Push To Glass") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2320ed61-a3e5-4aa7-96ab-5570728e80e2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2320ed61-a3e5-4aa7-96ab-5570728e80e2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dutch Angle") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26539,7 +26539,7 @@ Motion-controlled video sequence ("Dutch Angle") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d163498c-e29d-41e5-ade1-50bb6e8b581f.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d163498c-e29d-41e5-ade1-50bb6e8b581f.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Skateboard Ollie") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26555,7 +26555,7 @@ Motion-controlled video sequence ("Skateboard Ollie") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/52dcde39-eea2-4b9f-bbb4-da27a4adc6c7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/52dcde39-eea2-4b9f-bbb4-da27a4adc6c7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Snorricam + Low Shutter") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26571,7 +26571,7 @@ Motion-controlled video sequence ("Snorricam + Low Shutter") featuring (the char
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5aa740e6-fa50-48fa-a82f-144921d536cd.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5aa740e6-fa50-48fa-a82f-144921d536cd.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26587,7 +26587,7 @@ Motion-controlled video sequence ("Dolly In") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4f1be9d7-7208-40ca-ba59-71bd683eba06.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4f1be9d7-7208-40ca-ba59-71bd683eba06.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Fisheye") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26603,7 +26603,7 @@ Motion-controlled video sequence ("Fisheye") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1cebdac6-1860-4629-870c-0d15ef6c8165.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1cebdac6-1860-4629-870c-0d15ef6c8165.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Action Run + Set on Fire") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26619,7 +26619,7 @@ Motion-controlled video sequence ("Action Run + Set on Fire") featuring (the cha
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5bb5661c-2876-4a67-bc71-76fbecd8ccb0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5bb5661c-2876-4a67-bc71-76fbecd8ccb0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Kiss") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26635,7 +26635,7 @@ Motion-controlled video sequence ("Kiss") featuring (the character from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b8de1ca8-5fbc-4a99-b1df-d8d9cc4aeb54.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b8de1ca8-5fbc-4a99-b1df-d8d9cc4aeb54.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lens Flare") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26651,7 +26651,7 @@ Motion-controlled video sequence ("Lens Flare") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/95f288f7-da58-4e56-988f-e636ca5700c5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/95f288f7-da58-4e56-988f-e636ca5700c5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26667,7 +26667,7 @@ Motion-controlled video sequence ("Dolly Zoom Out") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/73124654-f4b9-41de-b39f-f75d265d00fd.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/73124654-f4b9-41de-b39f-f75d265d00fd.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Wiggle") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26683,7 +26683,7 @@ Motion-controlled video sequence ("Wiggle") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/75be586a-ac45-49b0-9cac-248c484ea1e7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/75be586a-ac45-49b0-9cac-248c484ea1e7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Paint Splash") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26699,7 +26699,7 @@ Motion-controlled video sequence ("Paint Splash") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f298e8a8-b813-46a5-a4a0-d0442bf8bd50.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f298e8a8-b813-46a5-a4a0-d0442bf8bd50.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Glowing Fish") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26715,7 +26715,7 @@ Motion-controlled video sequence ("Glowing Fish") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1a07799a-65c7-4bc8-a15c-35ce8e78b5a5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1a07799a-65c7-4bc8-a15c-35ce8e78b5a5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lazy Susan") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26731,7 +26731,7 @@ Motion-controlled video sequence ("Lazy Susan") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/23d1c700-712b-4965-8faf-a9d0778503c1.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/23d1c700-712b-4965-8faf-a9d0778503c1.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Skin Surge") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26747,7 +26747,7 @@ Motion-controlled video sequence ("Skin Surge") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2752aac4-ba4f-40cc-ba8e-bb0e035263fa.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2752aac4-ba4f-40cc-ba8e-bb0e035263fa.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Super Dolly In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26763,7 +26763,7 @@ Motion-controlled video sequence ("Super Dolly In") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3d3316c2-e871-440e-b244-283fa897ce67.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3d3316c2-e871-440e-b244-283fa897ce67.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Super Dolly Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26779,7 +26779,7 @@ Motion-controlled video sequence ("Super Dolly Out") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5dc6e840-c39a-4b48-9d84-1cf67222c508.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5dc6e840-c39a-4b48-9d84-1cf67222c508.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Levitation + Invisible") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26795,7 +26795,7 @@ Motion-controlled video sequence ("Levitation + Invisible") featuring (the chara
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0988c566-f26e-48a4-8ddc-6a96213ab57d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0988c566-f26e-48a4-8ddc-6a96213ab57d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Down") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26811,7 +26811,7 @@ Motion-controlled video sequence ("Crane Down") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f1b73e55-750c-471f-b11b-bd1ba19f4921.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f1b73e55-750c-471f-b11b-bd1ba19f4921.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Low Shutter") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26827,7 +26827,7 @@ Motion-controlled video sequence ("Low Shutter") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0543f729-8a81-46c6-8f66-b77c49f3bd4a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0543f729-8a81-46c6-8f66-b77c49f3bd4a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Floating Fish") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26843,7 +26843,7 @@ Motion-controlled video sequence ("Floating Fish") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6be920df-7048-44ac-8c97-41dd148e9479.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6be920df-7048-44ac-8c97-41dd148e9479.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Focus Change") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26859,7 +26859,7 @@ Motion-controlled video sequence ("Focus Change") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4e0d94d2-e34a-4ad3-a5a0-8c03ed5f272e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4e0d94d2-e34a-4ad3-a5a0-8c03ed5f272e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Action Run") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26875,7 +26875,7 @@ Motion-controlled video sequence ("Action Run") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bfbda22a-9942-4209-9a9d-51895c57e654.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bfbda22a-9942-4209-9a9d-51895c57e654.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("YoYo Zoom") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26891,7 +26891,7 @@ Motion-controlled video sequence ("YoYo Zoom") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/686b0325-1f36-40c7-9a0f-4b581366c7a4.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/686b0325-1f36-40c7-9a0f-4b581366c7a4.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Double Dolly") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26907,7 +26907,7 @@ Motion-controlled video sequence ("Double Dolly") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e177a421-b9d6-4c75-aa5f-583e8add51fe.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e177a421-b9d6-4c75-aa5f-583e8add51fe.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Jelly Drift") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26923,7 +26923,7 @@ Motion-controlled video sequence ("Jelly Drift") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/93f469b3-9aad-4610-8e7e-62d11eb4836b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/93f469b3-9aad-4610-8e7e-62d11eb4836b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Bloom Mouth") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26939,7 +26939,7 @@ Motion-controlled video sequence ("Bloom Mouth") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/133518a8-63da-42df-8e73-45794996beaf.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/133518a8-63da-42df-8e73-45794996beaf.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Timelapse Human") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26955,7 +26955,7 @@ Motion-controlled video sequence ("Timelapse Human") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a3cef421-5188-4f96-96a3-d0806bb02562.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a3cef421-5188-4f96-96a3-d0806bb02562.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Grip") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26971,7 +26971,7 @@ Motion-controlled video sequence ("Car Grip") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/88d4e2f6-3fd1-4d35-93fd-4b38568c6854.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/88d4e2f6-3fd1-4d35-93fd-4b38568c6854.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Whip Pan") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -26987,7 +26987,7 @@ Motion-controlled video sequence ("Whip Pan") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f4a852f9-ab55-4dcb-b7eb-609d3420e325.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f4a852f9-ab55-4dcb-b7eb-609d3420e325.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Floral Eyes") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27003,7 +27003,7 @@ Motion-controlled video sequence ("Floral Eyes") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/98343f45-5519-404a-9c90-b4d9312c0a4f.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/98343f45-5519-404a-9c90-b4d9312c0a4f.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Roll Transition") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27019,7 +27019,7 @@ Motion-controlled video sequence ("Roll Transition") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0240cc30-b20a-4e14-b227-983aae675bf0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0240cc30-b20a-4e14-b227-983aae675bf0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Freezing") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27035,7 +27035,7 @@ Motion-controlled video sequence ("Freezing") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8d73e688-db7d-40a2-8816-56cacfada6e9.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8d73e688-db7d-40a2-8816-56cacfada6e9.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Diamond") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27051,7 +27051,7 @@ Motion-controlled video sequence ("Diamond") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/54fd018a-f86f-4630-98c1-43499a9e47f7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/54fd018a-f86f-4630-98c1-43499a9e47f7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Sand Storm") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27067,7 +27067,7 @@ Motion-controlled video sequence ("Sand Storm") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1539a8fe-26e4-4ef5-9b8f-dfd1862b6625.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1539a8fe-26e4-4ef5-9b8f-dfd1862b6625.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Tentacles") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27083,7 +27083,7 @@ Motion-controlled video sequence ("Tentacles") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ef36391b-9f86-4873-942a-038083308104.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ef36391b-9f86-4873-942a-038083308104.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Powder Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27099,7 +27099,7 @@ Motion-controlled video sequence ("Powder Explosion") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/88a6e085-1c5f-4e40-b780-53db2af4235a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/88a6e085-1c5f-4e40-b780-53db2af4235a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Clone Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27115,7 +27115,7 @@ Motion-controlled video sequence ("Clone Explosion") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6d2df803-7a26-481d-917e-2111fcdbed36.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6d2df803-7a26-481d-917e-2111fcdbed36.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Duplicate") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27131,7 +27131,7 @@ Motion-controlled video sequence ("Duplicate") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d69e04ce-f0ca-4e09-8b8f-17ff9bcfcca6.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d69e04ce-f0ca-4e09-8b8f-17ff9bcfcca6.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Paparazzi") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27147,7 +27147,7 @@ Motion-controlled video sequence ("Paparazzi") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6b4b2b35-495c-44da-8896-68a7e285fc13.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6b4b2b35-495c-44da-8896-68a7e285fc13.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27163,7 +27163,7 @@ Motion-controlled video sequence ("Zoom In") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f0b8d110-4302-4b5b-bd16-d5fbb877cebf.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f0b8d110-4302-4b5b-bd16-d5fbb877cebf.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Glowshift") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27179,7 +27179,7 @@ Motion-controlled video sequence ("Glowshift") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e4ae265e-c344-441a-9012-d7e85726eeed.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e4ae265e-c344-441a-9012-d7e85726eeed.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Left") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27195,7 +27195,7 @@ Motion-controlled video sequence ("Dolly Left") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/aa866b5d-a8a5-4d42-bbcf-b682602205b0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/aa866b5d-a8a5-4d42-bbcf-b682602205b0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Wind to Face") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27211,7 +27211,7 @@ Motion-controlled video sequence ("Wind to Face") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ee0a4dcf-f056-46ba-a134-4282eafa7c33.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ee0a4dcf-f056-46ba-a134-4282eafa7c33.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Hyperlapse") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27227,7 +27227,7 @@ Motion-controlled video sequence ("Hyperlapse") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d8232abc-8da9-4084-ab2f-e5ced13cb136.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/d8232abc-8da9-4084-ab2f-e5ced13cb136.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/13127d34-5cea-4b17-ba3b-4738a6dc3eeb.webp
 
 ```text
@@ -27244,7 +27244,7 @@ Motion-controlled video sequence ("Timelapse Landscape") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/75920855-4431-4745-8ec4-667ed1ceeb11.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/75920855-4431-4745-8ec4-667ed1ceeb11.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lazy Susan + Super Dolly Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27260,7 +27260,7 @@ Motion-controlled video sequence ("Lazy Susan + Super Dolly Out") featuring (the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/49d9dd1b-6dab-4353-8960-6cef6a12a14b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/49d9dd1b-6dab-4353-8960-6cef6a12a14b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom In + Tentacles") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27276,7 +27276,7 @@ Motion-controlled video sequence ("Crash Zoom In + Tentacles") featuring (the ch
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/44a4e23b-f9d4-4801-ad9b-1f7632827c4f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/44a4e23b-f9d4-4801-ad9b-1f7632827c4f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/7dd60475-e887-4dbe-b129-e0956727ceb0.webp
 
 ```text
@@ -27293,7 +27293,7 @@ Motion-controlled video sequence ("Eating Zoom") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b0f4f744-9707-4fb4-84ca-1897f78cfe04.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/b0f4f744-9707-4fb4-84ca-1897f78cfe04.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/bc2ef60a-cbaa-4367-8461-59bfd0404f2b.webp
 
 ```text
@@ -27310,7 +27310,7 @@ Motion-controlled video sequence ("Static") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ca9b29d6-65ac-4f38-8217-8b65ee097088.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ca9b29d6-65ac-4f38-8217-8b65ee097088.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/437a1f92-5aa4-43f5-8d2f-7cee7611793b.webp
 
 ```text
@@ -27327,7 +27327,7 @@ Motion-controlled video sequence ("Selfie Posing") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** MiniMax Hailuo I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ef7df181-abaa-4af4-9095-4851196f321b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/minimax_hailuo_motion/ef7df181-abaa-4af4-9095-4851196f321b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/minimax_hailuo_motion/6a6376ff-4275-478d-b8f3-e94c85773524.webp
 
 ```text
@@ -27344,7 +27344,7 @@ Motion-controlled video sequence ("Boiling Point") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/97be2269-0e22-4432-af90-6a0b9b364ca0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/97be2269-0e22-4432-af90-6a0b9b364ca0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/e0a68850-fa4e-4083-bee0-d2180d8e915c.webp
 
 ```text
@@ -27361,7 +27361,7 @@ Motion-controlled video sequence ("Turning Monkey") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/1e425a60-3e83-4006-bb19-ed664d92b777.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/1e425a60-3e83-4006-bb19-ed664d92b777.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/3b7d4471-9d71-4885-86a1-2cecd7a40dfe.webp
 
 ```text
@@ -27378,7 +27378,7 @@ Motion-controlled video sequence ("Spirit Animal") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/b1680665-9022-4f82-aa55-69373aa275cb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/b1680665-9022-4f82-aa55-69373aa275cb.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/a264c694-24d2-4625-8308-28d889b0d43c.webp
 
 ```text
@@ -27395,7 +27395,7 @@ Motion-controlled video sequence ("Sand Cut") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/5ba804d5-2141-4939-b762-71eef9e9d585.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/5ba804d5-2141-4939-b762-71eef9e9d585.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/4d7f39a5-f7a2-4547-8f33-9b6a3e0e24b2.webp
 
 ```text
@@ -27412,7 +27412,7 @@ Motion-controlled video sequence ("Flashback") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Seedance 2.0 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/951e11e8-b981-4612-8d14-19fc571c9f9e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/seedance_motion/951e11e8-b981-4612-8d14-19fc571c9f9e.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/seedance_motion/a1e63c67-bf74-48ea-8963-1e45b25da8b8.webp
 
 ```text
@@ -27429,7 +27429,7 @@ Motion-controlled video sequence ("Outfit Switch") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/23a07fad-de38-4e68-bfef-661acf91dd2d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/23a07fad-de38-4e68-bfef-661acf91dd2d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/90c697af-4f1b-47b1-8f13-01400f6aa38a.webp
 
 ```text
@@ -27446,7 +27446,7 @@ Motion-controlled video sequence ("Wan 2.2 - General") featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/4686ad07-eb7e-40f1-a6f7-b684b5a9b0eb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/4686ad07-eb7e-40f1-a6f7-b684b5a9b0eb.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/d3bc686d-79c9-4167-a206-0095cd751316.webp
 
 ```text
@@ -27463,7 +27463,7 @@ Motion-controlled video sequence ("Logo Transformation") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/765c67c4-8102-4403-b7d1-1b9f61182e26.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/765c67c4-8102-4403-b7d1-1b9f61182e26.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/8059d11d-ad6b-41d0-a18e-b49b7ad1430d.webp
 
 ```text
@@ -27480,7 +27480,7 @@ Motion-controlled video sequence ("Frost") featuring (the character from the ref
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/96a538f5-59c2-49b8-8fa1-c6dad851b137.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/96a538f5-59c2-49b8-8fa1-c6dad851b137.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/c99fd0f9-f7ad-4249-a7ae-f6bd0c284d31.webp
 
 ```text
@@ -27497,7 +27497,7 @@ Motion-controlled video sequence ("Horror Clown") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/60c5c0b2-d68e-4aa7-93b1-59584a432c7a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/60c5c0b2-d68e-4aa7-93b1-59584a432c7a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/bc339ce5-eb4d-431d-9301-b831256b5506.webp
 
 ```text
@@ -27514,7 +27514,7 @@ Motion-controlled video sequence ("Jojo Dio Pose") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/fe3fad43-2f98-4b08-821d-d8cd4a1d0d40.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/fe3fad43-2f98-4b08-821d-d8cd4a1d0d40.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/ba9a966d-7229-4bb8-a669-4c756f175989.webp
 
 ```text
@@ -27531,7 +27531,7 @@ Motion-controlled video sequence ("Abs Show Off") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/13757741-b48d-43db-be37-f08941bcf9e1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/13757741-b48d-43db-be37-f08941bcf9e1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/b1091eed-d938-4ea8-98df-923cb9dc18a7.webp
 
 ```text
@@ -27548,7 +27548,7 @@ Motion-controlled video sequence ("Dino Crisis") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/d09ebe7d-f09a-4dc8-925c-18ec35d05c7d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/d09ebe7d-f09a-4dc8-925c-18ec35d05c7d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/464500be-c6ce-4504-8244-32ff9aca58bf.webp
 
 ```text
@@ -27565,7 +27565,7 @@ Motion-controlled video sequence ("Power Glide In") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/7624d37e-3c68-4154-a220-0bfb6b1835f1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/7624d37e-3c68-4154-a220-0bfb6b1835f1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/20f9c151-9de0-44e6-b7ee-a4c56f809d35.webp
 
 ```text
@@ -27582,7 +27582,7 @@ Motion-controlled video sequence ("Doodles") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/b85dd2c2-792f-4884-bc21-ea15d1357459.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/b85dd2c2-792f-4884-bc21-ea15d1357459.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/94f0e883-874e-49ff-b007-5c54c43452b7.webp
 
 ```text
@@ -27599,7 +27599,7 @@ Motion-controlled video sequence ("Power Glide Out") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/dbfa9d88-f903-427f-b04a-1db533471110.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/dbfa9d88-f903-427f-b04a-1db533471110.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/589d5f3d-8a0c-477a-abd1-55521bb162b7.webp
 
 ```text
@@ -27616,7 +27616,7 @@ Motion-controlled video sequence ("Plush Hitman") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/39519668-fc4b-4590-8d16-6f96ff96fa2f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/39519668-fc4b-4590-8d16-6f96ff96fa2f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/c95fffe5-a889-479d-91d5-f0a0c1026711.webp
 
 ```text
@@ -27633,7 +27633,7 @@ Motion-controlled video sequence ("Animals on Shoulder") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/df4450b2-a224-432e-9055-02f248ff72d0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/df4450b2-a224-432e-9055-02f248ff72d0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/ccd84754-f0d8-4028-a234-0f6e3f2b4600.webp
 
 ```text
@@ -27650,7 +27650,7 @@ Motion-controlled video sequence ("Background paint") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/b4c4eb42-7b12-4415-920c-492138462d99.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/b4c4eb42-7b12-4415-920c-492138462d99.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/ef6aff12-cd7f-428a-87a4-7655ac3d7097.webp
 
 ```text
@@ -27667,7 +27667,7 @@ Motion-controlled video sequence ("Takedown") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/6a054684-f341-42d8-896c-8e332cca1943.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/6a054684-f341-42d8-896c-8e332cca1943.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/02cf862f-9695-423c-ba88-b85bc3a7100b.webp
 
 ```text
@@ -27684,7 +27684,7 @@ Motion-controlled video sequence ("Zombie Photo") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/0efa2df5-2b36-43ae-ba22-e8d7b29d7a6c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/0efa2df5-2b36-43ae-ba22-e8d7b29d7a6c.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/e11e1714-1e74-470a-b1ca-d0e299c5a2d3.webp
 
 ```text
@@ -27701,7 +27701,7 @@ Motion-controlled video sequence ("Transform") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/f29cce85-cbfe-4319-86a7-0e84adcb5203.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/wan2_2_motion/f29cce85-cbfe-4319-86a7-0e84adcb5203.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/wan2_2_motion/3c42536a-5ccb-4966-9888-66e109b4c547.webp
 
 ```text
@@ -27718,7 +27718,7 @@ Motion-controlled video sequence ("Free Cam") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/07024870-b353-439d-955d-2de854af371b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/07024870-b353-439d-955d-2de854af371b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Over The Head + Crash Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27734,7 +27734,7 @@ Motion-controlled video sequence ("Crane Over The Head + Crash Zoom In") featuri
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/32f91bc9-5b57-4382-8582-71477dbf77c2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/32f91bc9-5b57-4382-8582-71477dbf77c2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Thunder God + Wind to Face") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27750,7 +27750,7 @@ Motion-controlled video sequence ("Thunder God + Wind to Face") featuring (the c
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6b1849c6-f221-40b8-b3a1-65b9dea1b0b0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6b1849c6-f221-40b8-b3a1-65b9dea1b0b0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Buckle Up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27766,7 +27766,7 @@ Motion-controlled video sequence ("Buckle Up") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1f0426ad-80ee-41f2-975d-462907b6f2d2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1f0426ad-80ee-41f2-975d-462907b6f2d2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Right") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27782,7 +27782,7 @@ Motion-controlled video sequence ("Dolly Right") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cfe7997a-661d-43c1-a490-1f73f26fca93.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cfe7997a-661d-43c1-a490-1f73f26fca93.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Timelapse Landscape") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27798,7 +27798,7 @@ Motion-controlled video sequence ("Timelapse Landscape") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/093c2008-41a1-4cd8-8148-f30698a07378.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/093c2008-41a1-4cd8-8148-f30698a07378.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Rap Flex") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27814,7 +27814,7 @@ Motion-controlled video sequence ("Rap Flex") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ddb110fb-f6b8-4ffe-ad0b-0f786c43c2c9.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ddb110fb-f6b8-4ffe-ad0b-0f786c43c2c9.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Tilt Down") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27830,7 +27830,7 @@ Motion-controlled video sequence ("Tilt Down") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a3dfd658-664f-41dd-9695-491ebe12d014.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a3dfd658-664f-41dd-9695-491ebe12d014.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Head Tracking") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27846,7 +27846,7 @@ Motion-controlled video sequence ("Head Tracking") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/06182ae1-60af-4c32-8302-252afd9f7971.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/06182ae1-60af-4c32-8302-252afd9f7971.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Over The Head") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27862,7 +27862,7 @@ Motion-controlled video sequence ("Crane Over The Head") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9a51bdce-eec3-4f7f-b3b3-8666ceabc1fc.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9a51bdce-eec3-4f7f-b3b3-8666ceabc1fc.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dirty Lens") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27878,7 +27878,7 @@ Motion-controlled video sequence ("Dirty Lens") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ada09219-82bf-431c-99b5-ee2d3ffcc5a9.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ada09219-82bf-431c-99b5-ee2d3ffcc5a9.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Flying") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27894,7 +27894,7 @@ Motion-controlled video sequence ("Flying") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/73e179b1-f7b1-4c08-93e2-b0b9e1a3488c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/73e179b1-f7b1-4c08-93e2-b0b9e1a3488c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Object POV") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27910,7 +27910,7 @@ Motion-controlled video sequence ("Object POV") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/208e5e19-956c-48a2-afb7-8ca822c29a23.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/208e5e19-956c-48a2-afb7-8ca822c29a23.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Melting") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27926,7 +27926,7 @@ Motion-controlled video sequence ("Melting") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8b125286-1406-44f5-85b7-31fcb17ead46.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8b125286-1406-44f5-85b7-31fcb17ead46.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Through Object In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27942,7 +27942,7 @@ Motion-controlled video sequence ("Through Object In") featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/91073910-dfd9-4aa7-8626-46c8aac86e12.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/91073910-dfd9-4aa7-8626-46c8aac86e12.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Overhead") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27958,7 +27958,7 @@ Motion-controlled video sequence ("Overhead") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/22c6a0a1-12aa-4370-a4dd-76c21f53ccbb.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/22c6a0a1-12aa-4370-a4dd-76c21f53ccbb.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Through Object Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27974,7 +27974,7 @@ Motion-controlled video sequence ("Through Object Out") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/538853c3-fca3-4961-9328-afeb4fef9313.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/538853c3-fca3-4961-9328-afeb4fef9313.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Basketball Dunks") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -27990,7 +27990,7 @@ Motion-controlled video sequence ("Basketball Dunks") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/41d0636d-b2ab-480d-bb53-bf66d52e1886.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/41d0636d-b2ab-480d-bb53-bf66d52e1886.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Fisheye") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28006,7 +28006,7 @@ Motion-controlled video sequence ("Fisheye") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/94d0dc13-829e-4d4b-82c4-7068ab56b1b6.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/94d0dc13-829e-4d4b-82c4-7068ab56b1b6.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28022,7 +28022,7 @@ Motion-controlled video sequence ("Dolly Out") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/42ba324d-9cfd-4f48-8c70-b716df28ee64.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/42ba324d-9cfd-4f48-8c70-b716df28ee64.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("FPV Drone + Timelapse Landscape") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28038,7 +28038,7 @@ Motion-controlled video sequence ("FPV Drone + Timelapse Landscape") featuring (
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d51e65ac-5132-41dc-b70d-a4a574c35c77.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d51e65ac-5132-41dc-b70d-a4a574c35c77.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Thunder God") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28054,7 +28054,7 @@ Motion-controlled video sequence ("Thunder God") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/83b2fcf3-2aad-47ad-8d25-c385058dbe98.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/83b2fcf3-2aad-47ad-8d25-c385058dbe98.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Low Shutter") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28070,7 +28070,7 @@ Motion-controlled video sequence ("Low Shutter") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6e1a98eb-74d5-40c0-8586-1806ee99e8be.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6e1a98eb-74d5-40c0-8586-1806ee99e8be.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Action Run") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28086,7 +28086,7 @@ Motion-controlled video sequence ("Action Run") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4fe956fc-cf42-4017-b99e-ea3dde6350b5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4fe956fc-cf42-4017-b99e-ea3dde6350b5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28102,7 +28102,7 @@ Motion-controlled video sequence ("Dolly Zoom In") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/63bc8afa-28e0-4494-be9a-44d562e57138.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/63bc8afa-28e0-4494-be9a-44d562e57138.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Arc Right") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28118,7 +28118,7 @@ Motion-controlled video sequence ("Arc Right") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/50793a89-af27-435b-b84d-d9f4ad60e22f.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/50793a89-af27-435b-b84d-d9f4ad60e22f.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("FPV Drone") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28134,7 +28134,7 @@ Motion-controlled video sequence ("FPV Drone") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6608c7f9-3d56-41a1-8652-5ea2c87c3b69.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/6608c7f9-3d56-41a1-8652-5ea2c87c3b69.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Bullet Time") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28150,7 +28150,7 @@ Motion-controlled video sequence ("Bullet Time") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/00ca783f-d4c3-45f8-8b0e-62d4d5223efb.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/00ca783f-d4c3-45f8-8b0e-62d4d5223efb.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28166,7 +28166,7 @@ Motion-controlled video sequence ("Dolly In") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f709826c-349c-4bda-bd7c-d3921d20600a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f709826c-349c-4bda-bd7c-d3921d20600a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Grip") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28182,7 +28182,7 @@ Motion-controlled video sequence ("Car Grip") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/998d01fd-7fe6-4e5f-91a5-eb0a0aa79b3b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/998d01fd-7fe6-4e5f-91a5-eb0a0aa79b3b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Jib Down") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28198,7 +28198,7 @@ Motion-controlled video sequence ("Jib Down") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f7935c8f-da2b-4b2a-b551-53599244a098.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f7935c8f-da2b-4b2a-b551-53599244a098.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Mouth In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28214,7 +28214,7 @@ Motion-controlled video sequence ("Mouth In") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0f3b16dd-9295-49e4-9e91-17d158bf52d1.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0f3b16dd-9295-49e4-9e91-17d158bf52d1.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Turning Metal") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28230,7 +28230,7 @@ Motion-controlled video sequence ("Turning Metal") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5603662c-9c62-4a48-981d-bbd4f7b948fc.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5603662c-9c62-4a48-981d-bbd4f7b948fc.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Soul Jump") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28246,7 +28246,7 @@ Motion-controlled video sequence ("Soul Jump") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f2e5dfc9-b3b2-4444-9a79-6f6bcc15133e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f2e5dfc9-b3b2-4444-9a79-6f6bcc15133e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28262,7 +28262,7 @@ Motion-controlled video sequence ("Crane Up") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/11e1148f-0abc-46c9-a8ca-ca7d05d006cd.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/11e1148f-0abc-46c9-a8ca-ca7d05d006cd.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Super Dolly Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28278,7 +28278,7 @@ Motion-controlled video sequence ("Super Dolly Out") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bafcdd35-3f56-477f-99d4-523d1b13991f.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/bafcdd35-3f56-477f-99d4-523d1b13991f.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Chasing") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28294,7 +28294,7 @@ Motion-controlled video sequence ("Car Chasing") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/404c4be5-ea7d-46b2-9d56-3ab61e69972b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/404c4be5-ea7d-46b2-9d56-3ab61e69972b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Invisible") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28310,7 +28310,7 @@ Motion-controlled video sequence ("Invisible") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/39ee2bf5-7f57-47b3-bec1-18a392903181.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/39ee2bf5-7f57-47b3-bec1-18a392903181.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dutch Angle") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28326,7 +28326,7 @@ Motion-controlled video sequence ("Dutch Angle") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c8051976-348b-47cd-a2ef-9018e48466c5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c8051976-348b-47cd-a2ef-9018e48466c5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Buckle Up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28342,7 +28342,7 @@ Motion-controlled video sequence ("Buckle Up") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9b1cfd4e-695e-4e6c-8f4a-0400d9d9eecd.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/9b1cfd4e-695e-4e6c-8f4a-0400d9d9eecd.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Down") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28358,7 +28358,7 @@ Motion-controlled video sequence ("Crane Down") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/afb2561e-5eb2-4e9a-b687-f277deb58733.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/afb2561e-5eb2-4e9a-b687-f277deb58733.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Jib Up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28374,7 +28374,7 @@ Motion-controlled video sequence ("Jib Up") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/123fe8e6-eba6-4d60-9a96-17b0a81093f7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/123fe8e6-eba6-4d60-9a96-17b0a81093f7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Handheld") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28390,7 +28390,7 @@ Motion-controlled video sequence ("Handheld") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/22656bf9-5ff0-4cb9-84f9-b09c767fecd8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/22656bf9-5ff0-4cb9-84f9-b09c767fecd8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lazy Susan") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28406,7 +28406,7 @@ Motion-controlled video sequence ("Lazy Susan") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8e6ad41f-d766-4551-8692-75bfa58935ea.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8e6ad41f-d766-4551-8692-75bfa58935ea.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Skin Surge") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28422,7 +28422,7 @@ Motion-controlled video sequence ("Skin Surge") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5c68e49b-8ae4-4cfb-986f-efe1edccb956.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/5c68e49b-8ae4-4cfb-986f-efe1edccb956.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Car Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28438,7 +28438,7 @@ Motion-controlled video sequence ("Car Explosion") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b9f3f5c2-6fd9-40fb-830b-494d3bbec61d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b9f3f5c2-6fd9-40fb-830b-494d3bbec61d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Static") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28454,7 +28454,7 @@ Motion-controlled video sequence ("Static") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/113bfe7e-21a1-4df3-b632-5c5e324d439e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/113bfe7e-21a1-4df3-b632-5c5e324d439e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Incline") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28470,7 +28470,7 @@ Motion-controlled video sequence ("Incline") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c6bd7a67-f060-4be7-a951-3535641ebe6d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c6bd7a67-f060-4be7-a951-3535641ebe6d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dirty Lens") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28486,7 +28486,7 @@ Motion-controlled video sequence ("Dirty Lens") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/402d2566-4174-460e-86d3-9e07d5cc1487.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/402d2566-4174-460e-86d3-9e07d5cc1487.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28502,7 +28502,7 @@ Motion-controlled video sequence ("Dolly Zoom Out") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1fcbcbd6-c642-457f-96b1-158ccf2265cb.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1fcbcbd6-c642-457f-96b1-158ccf2265cb.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Snorricam + Low Shutter") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28518,7 +28518,7 @@ Motion-controlled video sequence ("Snorricam + Low Shutter") featuring (the char
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a28867e7-7d37-43ab-953a-30ba43234f08.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a28867e7-7d37-43ab-953a-30ba43234f08.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Through Object Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28534,7 +28534,7 @@ Motion-controlled video sequence ("Through Object Out") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/61d282a0-e485-4408-8f24-eee02eef2dea.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/61d282a0-e485-4408-8f24-eee02eef2dea.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Set on Fire") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28550,7 +28550,7 @@ Motion-controlled video sequence ("Set on Fire") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/68739b61-d416-4ef4-b756-9ce44ba17bd6.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/68739b61-d416-4ef4-b756-9ce44ba17bd6.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28566,7 +28566,7 @@ Motion-controlled video sequence ("Crash Zoom In") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/198644c9-d8d8-474b-a5f3-7b33dbaf6939.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/198644c9-d8d8-474b-a5f3-7b33dbaf6939.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Face Punch") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28582,7 +28582,7 @@ Motion-controlled video sequence ("Face Punch") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cd355c59-8f7c-494d-8409-617726f7582a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cd355c59-8f7c-494d-8409-617726f7582a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Disintegration") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28598,7 +28598,7 @@ Motion-controlled video sequence ("Disintegration") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/65afbb9c-4061-434b-98da-8ab9db721854.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/65afbb9c-4061-434b-98da-8ab9db721854.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Wiggle") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28614,7 +28614,7 @@ Motion-controlled video sequence ("Wiggle") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b42e6cfa-9349-4069-aeea-6dee16a26814.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b42e6cfa-9349-4069-aeea-6dee16a26814.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28630,7 +28630,7 @@ Motion-controlled video sequence ("Crash Zoom Out") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b1847987-4a40-4145-9eb7-54294d1fc1a3.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/b1847987-4a40-4145-9eb7-54294d1fc1a3.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Zoom Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28646,7 +28646,7 @@ Motion-controlled video sequence ("Zoom Out") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/62eb6340-db0a-4052-b20d-db07d1899b54.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/62eb6340-db0a-4052-b20d-db07d1899b54.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Right") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28662,7 +28662,7 @@ Motion-controlled video sequence ("Dolly Right") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d17809b1-c9a2-49e7-b979-e1015f9b9f83.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d17809b1-c9a2-49e7-b979-e1015f9b9f83.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Agent Reveal") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28678,7 +28678,7 @@ Motion-controlled video sequence ("Agent Reveal") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f8bd8a8d-2a04-448e-a8de-362465b96b1c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f8bd8a8d-2a04-448e-a8de-362465b96b1c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lazy Susan + Super Dolly Out") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28694,7 +28694,7 @@ Motion-controlled video sequence ("Lazy Susan + Super Dolly Out") featuring (the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/072ff546-5771-497e-afbd-372b409329c5.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/072ff546-5771-497e-afbd-372b409329c5.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Lens Flare") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28710,7 +28710,7 @@ Motion-controlled video sequence ("Lens Flare") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8e79919f-3e66-4326-8695-5b96590123ee.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8e79919f-3e66-4326-8695-5b96590123ee.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Flying") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28726,7 +28726,7 @@ Motion-controlled video sequence ("Flying") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e65c7e91-9802-4026-a361-7f8980b4f74a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e65c7e91-9802-4026-a361-7f8980b4f74a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Focus Change") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28742,7 +28742,7 @@ Motion-controlled video sequence ("Focus Change") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/752cf9f2-0d5c-4630-99a0-f35d049825a7.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/752cf9f2-0d5c-4630-99a0-f35d049825a7.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Head Tracking") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28758,7 +28758,7 @@ Motion-controlled video sequence ("Head Tracking") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/02df5000-1315-4d71-bfce-23f4a6cfd9c0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/02df5000-1315-4d71-bfce-23f4a6cfd9c0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Object POV") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28774,7 +28774,7 @@ Motion-controlled video sequence ("Object POV") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/73febe1b-6c58-4ed9-aeaf-9337a2fa58c0.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/73febe1b-6c58-4ed9-aeaf-9337a2fa58c0.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Glamora") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28790,7 +28790,7 @@ Motion-controlled video sequence ("Glamora") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0c047608-b3cf-4ef8-83a7-25a0f136a3aa.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0c047608-b3cf-4ef8-83a7-25a0f136a3aa.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Dolly Left") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28806,7 +28806,7 @@ Motion-controlled video sequence ("Dolly Left") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/38a4496e-a365-4a61-a817-8ea8456d9871.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/38a4496e-a365-4a61-a817-8ea8456d9871.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Overhead") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28822,7 +28822,7 @@ Motion-controlled video sequence ("Overhead") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3d1aeb79-824a-4cbd-b07a-a19e7874dc99.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3d1aeb79-824a-4cbd-b07a-a19e7874dc99.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crane Over The Head + Crash Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28838,7 +28838,7 @@ Motion-controlled video sequence ("Crane Over The Head + Crash Zoom In") featuri
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c47e12c2-3afc-496d-84f5-0834d3f2bc92.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/c47e12c2-3afc-496d-84f5-0834d3f2bc92.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Push To Glass") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28854,7 +28854,7 @@ Motion-controlled video sequence ("Push To Glass") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/da9c1444-88c8-4191-af92-2281be4f1d8d.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/da9c1444-88c8-4191-af92-2281be4f1d8d.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Zoom In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28870,7 +28870,7 @@ Motion-controlled video sequence ("Zoom In") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4f87868d-c5c8-4676-9b05-d5492143d922.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/4f87868d-c5c8-4676-9b05-d5492143d922.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Double Dolly") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28886,7 +28886,7 @@ Motion-controlled video sequence ("Double Dolly") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f5b3e902-7d0e-4f8e-afe8-c3cf2a122416.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f5b3e902-7d0e-4f8e-afe8-c3cf2a122416.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Rap Flex") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28902,7 +28902,7 @@ Motion-controlled video sequence ("Rap Flex") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/41a455c8-6834-4887-8925-e19aeee15cb2.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/41a455c8-6834-4887-8925-e19aeee15cb2.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("3D Rotation") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28918,7 +28918,7 @@ Motion-controlled video sequence ("3D Rotation") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3f78364e-2965-40fa-bbb0-974e27449a47.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3f78364e-2965-40fa-bbb0-974e27449a47.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Arc Left") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28934,7 +28934,7 @@ Motion-controlled video sequence ("Arc Left") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a5bc6138-5876-4539-bac0-019c50dc164a.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a5bc6138-5876-4539-bac0-019c50dc164a.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Snorricam") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28950,7 +28950,7 @@ Motion-controlled video sequence ("Snorricam") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2da4e4da-effc-4acd-af13-44c3d1c883df.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2da4e4da-effc-4acd-af13-44c3d1c883df.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Studio - General") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28966,7 +28966,7 @@ Motion-controlled video sequence ("Studio - General") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0773c3e3-ce50-4019-bccf-b0617e472944.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0773c3e3-ce50-4019-bccf-b0617e472944.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Robo Arm") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28982,7 +28982,7 @@ Motion-controlled video sequence ("Robo Arm") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ca09eb47-a960-4222-8089-75ae9a0e36ac.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ca09eb47-a960-4222-8089-75ae9a0e36ac.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Super Dolly In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -28998,7 +28998,7 @@ Motion-controlled video sequence ("Super Dolly In") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2cc32411-1505-4970-9cb3-948a9519184c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/2cc32411-1505-4970-9cb3-948a9519184c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Tentacles") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29014,7 +29014,7 @@ Motion-controlled video sequence ("Tentacles") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8f7f02c5-5949-488c-9d13-72289f7d895b.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8f7f02c5-5949-488c-9d13-72289f7d895b.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Through Object In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29030,7 +29030,7 @@ Motion-controlled video sequence ("Through Object In") featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f9869382-f2d1-4a08-956a-b10826f22c33.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f9869382-f2d1-4a08-956a-b10826f22c33.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Whip Pan") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29046,7 +29046,7 @@ Motion-controlled video sequence ("Whip Pan") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cd9094ac-1a97-4df4-95ff-931028367872.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/cd9094ac-1a97-4df4-95ff-931028367872.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Timelapse Landscape") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29062,7 +29062,7 @@ Motion-controlled video sequence ("Timelapse Landscape") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1c7da47c-4eed-491e-80fb-be89826ce230.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/1c7da47c-4eed-491e-80fb-be89826ce230.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Wind to Face") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29078,7 +29078,7 @@ Motion-controlled video sequence ("Wind to Face") featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a8caa3db-bcf2-4e30-b5fe-37fafdd59140.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a8caa3db-bcf2-4e30-b5fe-37fafdd59140.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Eyes In") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29094,7 +29094,7 @@ Motion-controlled video sequence ("Eyes In") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0c3977bd-8797-48f2-a15b-ab0ee5e3436e.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/0c3977bd-8797-48f2-a15b-ab0ee5e3436e.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Levitation") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29110,7 +29110,7 @@ Motion-controlled video sequence ("Levitation") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8f982ac1-a4d6-4776-b0d5-59af11d8aed8.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/8f982ac1-a4d6-4776-b0d5-59af11d8aed8.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("YoYo Zoom") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29126,7 +29126,7 @@ Motion-controlled video sequence ("YoYo Zoom") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e502574d-f1b5-4909-a3d7-bf25ff03c0fd.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/e502574d-f1b5-4909-a3d7-bf25ff03c0fd.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("360 Orbit") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29142,7 +29142,7 @@ Motion-controlled video sequence ("360 Orbit") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/08929e1c-2d0c-45f0-8653-00d132a2ad53.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/08929e1c-2d0c-45f0-8653-00d132a2ad53.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Basketball Dunks") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29158,7 +29158,7 @@ Motion-controlled video sequence ("Basketball Dunks") featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d66f83a7-5ab4-4672-93dc-46c2c6c207ec.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/d66f83a7-5ab4-4672-93dc-46c2c6c207ec.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Hyperlapse") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29174,7 +29174,7 @@ Motion-controlled video sequence ("Hyperlapse") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f301e208-ac72-40a4-b648-cbd462c05334.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/f301e208-ac72-40a4-b648-cbd462c05334.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Timelapse Human") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29190,7 +29190,7 @@ Motion-controlled video sequence ("Timelapse Human") featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ffbae751-2843-44ec-976b-0fc3920f5c34.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ffbae751-2843-44ec-976b-0fc3920f5c34.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Datamosh") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29206,7 +29206,7 @@ Motion-controlled video sequence ("Datamosh") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ca3ccb38-9ce3-4249-ba80-0231c70732ae.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/ca3ccb38-9ce3-4249-ba80-0231c70732ae.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Kiss") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29222,7 +29222,7 @@ Motion-controlled video sequence ("Kiss") featuring (the character from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3bd1f657-b20c-4424-b495-a4d62f295471.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/3bd1f657-b20c-4424-b495-a4d62f295471.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Crash Zoom In + Tentacles") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29238,7 +29238,7 @@ Motion-controlled video sequence ("Crash Zoom In + Tentacles") featuring (the ch
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/be98b858-9def-4dd9-801b-9bd8795aedb4.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/be98b858-9def-4dd9-801b-9bd8795aedb4.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Tilt up") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29254,7 +29254,7 @@ Motion-controlled video sequence ("Tilt up") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/385e817a-83ce-4499-8529-787afc897258.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/385e817a-83ce-4499-8529-787afc897258.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Medusa Gorgona") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29270,7 +29270,7 @@ Motion-controlled video sequence ("Medusa Gorgona") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/fa046def-4349-42fa-90d5-2b5df108b598.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/fa046def-4349-42fa-90d5-2b5df108b598.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Building Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29286,7 +29286,7 @@ Motion-controlled video sequence ("Building Explosion") featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a6bd93e8-4726-4149-8308-432b2ac6896c.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/a6bd93e8-4726-4149-8308-432b2ac6896c.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("FPV Drone + Timelapse Landscape") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29302,7 +29302,7 @@ Motion-controlled video sequence ("FPV Drone + Timelapse Landscape") featuring (
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/24e13a90-5e29-4a23-9520-777f8112e181.webp
+- **Preview Video:** https://d1xarpci4ikg0w.cloudfront.net/24e13a90-5e29-4a23-9520-777f8112e181.webp (Silent)
 
 ```text
 Motion-controlled video sequence ("Head Explosion") featuring (the character from the reference image) inside (the environment from the reference image).
@@ -29318,7 +29318,7 @@ Motion-controlled video sequence ("Head Explosion") featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/a422839d-435c-441f-b90d-b036e5bbc4a1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/a422839d-435c-441f-b90d-b036e5bbc4a1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/ed2feec4-65ee-483e-be50-6d50e31e9145.webp
 
 ```text
@@ -29335,7 +29335,7 @@ Motion-controlled video sequence ("Google Veo 3 - General") featuring (the chara
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/834f112f-cf4f-450f-9f28-8b88bac851e2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/834f112f-cf4f-450f-9f28-8b88bac851e2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/13b19e65-0576-4a28-bcef-672ae7756c2f.webp
 
 ```text
@@ -29352,7 +29352,7 @@ Motion-controlled video sequence ("Selfie") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/e9894e56-cd3c-4345-bfb6-889423281916.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/e9894e56-cd3c-4345-bfb6-889423281916.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/4bb06076-101b-4845-a0bc-8ce06d3b6668.webp
 
 ```text
@@ -29369,7 +29369,7 @@ Motion-controlled video sequence ("Selling") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/2fd145c3-c227-464a-9fc8-9970ef8e2df9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/2fd145c3-c227-464a-9fc8-9970ef8e2df9.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/e953b77c-53cc-4890-a107-7998ca3641b9.webp
 
 ```text
@@ -29386,7 +29386,7 @@ Motion-controlled video sequence ("Podcast") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/9b2cdc2c-df88-4b85-9ba7-8d0e6f6ed6d7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/9b2cdc2c-df88-4b85-9ba7-8d0e6f6ed6d7.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/c1d43edb-abf3-49aa-a20b-2c0379ca9de0.webp
 
 ```text
@@ -29403,7 +29403,7 @@ Motion-controlled video sequence ("Car Talking") featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/313efe8e-b103-43fc-a683-1dc175764fa2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/313efe8e-b103-43fc-a683-1dc175764fa2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/ea4af93a-ddc5-4fb8-b398-841cf489847e.webp
 
 ```text
@@ -29420,7 +29420,7 @@ Motion-controlled video sequence ("Mirror selfie") featuring (the character from
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/e590e5fa-8b24-45bd-964b-ab27e6c5ba72.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/e590e5fa-8b24-45bd-964b-ab27e6c5ba72.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/15e7b494-9c3e-463e-89b0-b840062630a1.webp
 
 ```text
@@ -29437,7 +29437,7 @@ Motion-controlled video sequence ("Stream") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/ee1f5d7b-f2cb-488c-bdca-496839dadd95.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/ee1f5d7b-f2cb-488c-bdca-496839dadd95.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/d60d5150-04da-424b-9b37-d607465437c5.webp
 
 ```text
@@ -29454,7 +29454,7 @@ Motion-controlled video sequence ("Static") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/f7c787e3-2b57-4b2b-9729-3ac8eaeb7d48.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/f7c787e3-2b57-4b2b-9729-3ac8eaeb7d48.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/8c3e3959-9c84-46a3-ad52-ae39a6d6cc35.webp
 
 ```text
@@ -29471,7 +29471,7 @@ Motion-controlled video sequence ("Steadicam") featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/7a1bbadd-a5f3-4df0-a368-4eca2130f68b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/7a1bbadd-a5f3-4df0-a368-4eca2130f68b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/c4ba7bb6-dab4-47db-83e2-3ca49b0928b4.webp
 
 ```text
@@ -29488,7 +29488,7 @@ Motion-controlled video sequence ("Angry Mode") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/0b31fb4a-9ea3-4ef8-afe3-b30a4e67f195.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/0b31fb4a-9ea3-4ef8-afe3-b30a4e67f195.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/9e15123c-4eef-46a8-8805-a3b3fa54ceb9.webp
 
 ```text
@@ -29505,7 +29505,7 @@ Motion-controlled video sequence ("Rapping") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/d004d684-6144-4c70-bddf-524389450b42.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/d004d684-6144-4c70-bddf-524389450b42.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/dee9425f-931d-4757-8852-89db216c021f.webp
 
 ```text
@@ -29522,7 +29522,7 @@ Motion-controlled video sequence ("CCTV") featuring (the character from the refe
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/f8e3affe-d127-4e33-adf6-695ea87b14bc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/f8e3affe-d127-4e33-adf6-695ea87b14bc.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/e3d77008-9c78-4033-9701-ea015d64816c.webp
 
 ```text
@@ -29539,7 +29539,7 @@ Motion-controlled video sequence ("Happy Mode") featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/4c948e25-a3b4-4778-b393-fd700a57b8c3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/4c948e25-a3b4-4778-b393-fd700a57b8c3.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/c607adee-77c2-478c-a32e-f35c7876535e.webp
 
 ```text
@@ -29556,7 +29556,7 @@ Motion-controlled video sequence ("Singing") featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/8828db1e-d70e-4ed0-804e-8e141b5ab297.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/8828db1e-d70e-4ed0-804e-8e141b5ab297.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/e0967118-6c93-43da-917f-155c1a6a2f2a.webp
 
 ```text
@@ -29573,7 +29573,7 @@ Motion-controlled video sequence ("Handheld") featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Cinema Motion Engine
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/9ff70b0f-eb4e-4836-8519-7a07778071e2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/9ff70b0f-eb4e-4836-8519-7a07778071e2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/b6a5cb49-5cb9-4255-88b4-5f70b0bf4cdd.webp
 
 ```text
@@ -29590,7 +29590,7 @@ Motion-controlled video sequence ("Crying") featuring (the character from the re
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Kling 2.5 / 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/db7fdfd5-fc07-4a4d-9cbd-a6f323327b4e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/db7fdfd5-fc07-4a4d-9cbd-a6f323327b4e.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/92e6a6f8-577e-49cd-b802-823aa701a831.webp
 
 ```text
@@ -29607,7 +29607,7 @@ Motion-controlled video sequence ("Kling 2.1 - General") featuring (the characte
 - **Image Model:** Soul 2.0 / Nano Banana Pro Start Frame
 - **Video Model:** Kling 2.5 / 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/ea87367f-0d50-479e-8d92-57e5d43f43b5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/ea87367f-0d50-479e-8d92-57e5d43f43b5.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/3082fe56-9c70-41db-9ca7-af7c4eb6041c.webp
 
 ```text
@@ -29624,7 +29624,7 @@ Motion-controlled video sequence ("Werewolf") featuring (the character from the 
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/7c764ec1-9343-48dd-a300-8fb7b2be09a5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/7c764ec1-9343-48dd-a300-8fb7b2be09a5.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #1: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #1. Maintain strict identity and spatial geometry lock.
@@ -29636,7 +29636,7 @@ Kling Motion Control trajectory #1: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/55f89edc-767d-49ca-aad3-6ce882b6ee72.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/55f89edc-767d-49ca-aad3-6ce882b6ee72.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #21: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #21. Maintain strict identity and spatial geometry lock.
@@ -29648,7 +29648,7 @@ Kling Motion Control trajectory #21: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/c6295691-22c7-47ae-9a52-0922358ca984.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/c6295691-22c7-47ae-9a52-0922358ca984.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #3: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #3. Maintain strict identity and spatial geometry lock.
@@ -29660,7 +29660,7 @@ Kling Motion Control trajectory #3: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/e05ab9a7-bd13-4098-9768-100d89dc53ce.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/e05ab9a7-bd13-4098-9768-100d89dc53ce.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #22: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #22. Maintain strict identity and spatial geometry lock.
@@ -29672,7 +29672,7 @@ Kling Motion Control trajectory #22: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/45722083-63ea-41fb-9c41-956abf7a5f9d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/45722083-63ea-41fb-9c41-956abf7a5f9d.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #6: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #6. Maintain strict identity and spatial geometry lock.
@@ -29684,7 +29684,7 @@ Kling Motion Control trajectory #6: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/f3f1068f-60f7-49d9-8256-4ed09c4d20a6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/f3f1068f-60f7-49d9-8256-4ed09c4d20a6.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #8: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #8. Maintain strict identity and spatial geometry lock.
@@ -29696,7 +29696,7 @@ Kling Motion Control trajectory #8: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/38a58318-780d-41c8-98e8-190106e54eb0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/38a58318-780d-41c8-98e8-190106e54eb0.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #27: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #27. Maintain strict identity and spatial geometry lock.
@@ -29708,7 +29708,7 @@ Kling Motion Control trajectory #27: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b7d972dc-fa4b-4024-8158-e3ad85bfb5df.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b7d972dc-fa4b-4024-8158-e3ad85bfb5df.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #5: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #5. Maintain strict identity and spatial geometry lock.
@@ -29720,7 +29720,7 @@ Kling Motion Control trajectory #5: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/d9d7ea02-fdcc-475a-a53e-d3353a8b866e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/d9d7ea02-fdcc-475a-a53e-d3353a8b866e.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #26: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #26. Maintain strict identity and spatial geometry lock.
@@ -29732,7 +29732,7 @@ Kling Motion Control trajectory #26: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/c1571011-b5f8-4cd0-98d1-149be80bd21a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/c1571011-b5f8-4cd0-98d1-149be80bd21a.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #9: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #9. Maintain strict identity and spatial geometry lock.
@@ -29744,7 +29744,7 @@ Kling Motion Control trajectory #9: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/062dcd0d-2b81-4e82-8757-8bb1cd491581.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/062dcd0d-2b81-4e82-8757-8bb1cd491581.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #2: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #2. Maintain strict identity and spatial geometry lock.
@@ -29756,7 +29756,7 @@ Kling Motion Control trajectory #2: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/22287793-7664-4802-b0a3-ba8c0f65f994.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/22287793-7664-4802-b0a3-ba8c0f65f994.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #24: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #24. Maintain strict identity and spatial geometry lock.
@@ -29768,7 +29768,7 @@ Kling Motion Control trajectory #24: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1c1ad507-fd7e-45eb-8f20-5436d3e3f238.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1c1ad507-fd7e-45eb-8f20-5436d3e3f238.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #4: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #4. Maintain strict identity and spatial geometry lock.
@@ -29780,7 +29780,7 @@ Kling Motion Control trajectory #4: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/f232909a-5eff-4515-9547-5478a7c48616.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/f232909a-5eff-4515-9547-5478a7c48616.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #23: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #23. Maintain strict identity and spatial geometry lock.
@@ -29792,7 +29792,7 @@ Kling Motion Control trajectory #23: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1f72d445-36d9-4df6-90e2-b09c299b9de9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1f72d445-36d9-4df6-90e2-b09c299b9de9.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #19: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #19. Maintain strict identity and spatial geometry lock.
@@ -29804,7 +29804,7 @@ Kling Motion Control trajectory #19: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1ad056fe-79aa-4347-afdc-2b4e360fbed1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1ad056fe-79aa-4347-afdc-2b4e360fbed1.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #10: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #10. Maintain strict identity and spatial geometry lock.
@@ -29816,7 +29816,7 @@ Kling Motion Control trajectory #10: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/c079d025-9bc6-401e-8eaa-ec4057e5c304.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/c079d025-9bc6-401e-8eaa-ec4057e5c304.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #28: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #28. Maintain strict identity and spatial geometry lock.
@@ -29828,7 +29828,7 @@ Kling Motion Control trajectory #28: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/75c8909f-7873-44d1-bb02-5f09317a11ad.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/75c8909f-7873-44d1-bb02-5f09317a11ad.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #11: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #11. Maintain strict identity and spatial geometry lock.
@@ -29840,7 +29840,7 @@ Kling Motion Control trajectory #11: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/aa86f373-d5c3-4a81-abe6-12b5959b8534.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/aa86f373-d5c3-4a81-abe6-12b5959b8534.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #25: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #25. Maintain strict identity and spatial geometry lock.
@@ -29852,7 +29852,7 @@ Kling Motion Control trajectory #25: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b0aa5384-f5ef-4804-8d3e-393464bc342e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b0aa5384-f5ef-4804-8d3e-393464bc342e.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #17: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #17. Maintain strict identity and spatial geometry lock.
@@ -29864,7 +29864,7 @@ Kling Motion Control trajectory #17: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b7b1dabf-b6f7-4b6e-b57a-e49c4e49dc32.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b7b1dabf-b6f7-4b6e-b57a-e49c4e49dc32.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #12: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #12. Maintain strict identity and spatial geometry lock.
@@ -29876,7 +29876,7 @@ Kling Motion Control trajectory #12: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/3cbb7bc4-1cb0-4930-ae53-6ad1bf5c2ae6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/3cbb7bc4-1cb0-4930-ae53-6ad1bf5c2ae6.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #13: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #13. Maintain strict identity and spatial geometry lock.
@@ -29888,7 +29888,7 @@ Kling Motion Control trajectory #13: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/fc0bb74c-2a62-4113-99cb-f0ee05aaacf3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/fc0bb74c-2a62-4113-99cb-f0ee05aaacf3.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #7: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #7. Maintain strict identity and spatial geometry lock.
@@ -29900,7 +29900,7 @@ Kling Motion Control trajectory #7: Animate (the character from the reference im
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/7508928a-5c4c-47f2-81c2-592ebbbdfff2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/7508928a-5c4c-47f2-81c2-592ebbbdfff2.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #preset 1: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #preset 1. Maintain strict identity and spatial geometry lock.
@@ -29912,7 +29912,7 @@ Kling Motion Control trajectory #preset 1: Animate (the character from the refer
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/950b8e26-60d5-46c6-b415-f82e717a5c4e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/950b8e26-60d5-46c6-b415-f82e717a5c4e.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #14: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #14. Maintain strict identity and spatial geometry lock.
@@ -29924,7 +29924,7 @@ Kling Motion Control trajectory #14: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/d23fcbf7-23a6-4799-88ec-decdfb653de4.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/d23fcbf7-23a6-4799-88ec-decdfb653de4.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #15: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #15. Maintain strict identity and spatial geometry lock.
@@ -29936,7 +29936,7 @@ Kling Motion Control trajectory #15: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/23dd378e-e15a-4bf8-9d53-f2ecd5641e9d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/23dd378e-e15a-4bf8-9d53-f2ecd5641e9d.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #16: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #16. Maintain strict identity and spatial geometry lock.
@@ -29948,7 +29948,7 @@ Kling Motion Control trajectory #16: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1c4f77b2-0eb4-481a-b415-1765aaf4f866.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/1c4f77b2-0eb4-481a-b415-1765aaf4f866.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #20: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #20. Maintain strict identity and spatial geometry lock.
@@ -29960,7 +29960,7 @@ Kling Motion Control trajectory #20: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/d0a6a5a5-0dde-4d2d-bf78-59966da9bafa.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/d0a6a5a5-0dde-4d2d-bf78-59966da9bafa.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #18: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #18. Maintain strict identity and spatial geometry lock.
@@ -29972,7 +29972,7 @@ Kling Motion Control trajectory #18: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/289b7f9f-27be-4457-b767-62e4a6aa8b71.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/289b7f9f-27be-4457-b767-62e4a6aa8b71.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #preset 2: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #preset 2. Maintain strict identity and spatial geometry lock.
@@ -29984,7 +29984,7 @@ Kling Motion Control trajectory #preset 2: Animate (the character from the refer
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/7107e003-72c2-408a-aebd-fe635f421389.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/7107e003-72c2-408a-aebd-fe635f421389.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #29: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #29. Maintain strict identity and spatial geometry lock.
@@ -29996,7 +29996,7 @@ Kling Motion Control trajectory #29: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b9fbbad6-12ee-4b5d-8559-29b8326e5a37.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/b9fbbad6-12ee-4b5d-8559-29b8326e5a37.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #30: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #30. Maintain strict identity and spatial geometry lock.
@@ -30008,7 +30008,7 @@ Kling Motion Control trajectory #30: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/459929b4-b2a9-467b-80d2-ab5939cb2654.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/459929b4-b2a9-467b-80d2-ab5939cb2654.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #31: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #31. Maintain strict identity and spatial geometry lock.
@@ -30020,7 +30020,7 @@ Kling Motion Control trajectory #31: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/79698ca2-09eb-4d5d-b280-4c5779bf20e2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/79698ca2-09eb-4d5d-b280-4c5779bf20e2.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #32: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #32. Maintain strict identity and spatial geometry lock.
@@ -30032,7 +30032,7 @@ Kling Motion Control trajectory #32: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/98dbdabd-655f-4731-95e0-11d1dc89ae0d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/98dbdabd-655f-4731-95e0-11d1dc89ae0d.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #33: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #33. Maintain strict identity and spatial geometry lock.
@@ -30044,7 +30044,7 @@ Kling Motion Control trajectory #33: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 Keyframe Anchor
 - **Video Model:** Kling Motion Control (3D Trajectory I2V)
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/9f600689-986b-41e8-95cf-3e03b5d377dc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion_control_preset/9f600689-986b-41e8-95cf-3e03b5d377dc.mp4 (Silent)
 
 ```text
 Kling Motion Control trajectory #34: Animate (the character from the reference image) inside (the environment from the reference image) following the exact 3D camera pan/tilt/zoom vector of Motion Control Rig #34. Maintain strict identity and spatial geometry lock.
@@ -30056,7 +30056,7 @@ Kling Motion Control trajectory #34: Animate (the character from the reference i
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/3979e522-6d4c-4a6f-86a9-adde18d3ea22.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/c80e354f-9c4f-4118-bc78-4bc28c38d4d2.webp
 
 ```text
@@ -30072,7 +30072,7 @@ Kling 2.6 I2V sequence in the "Animalization" style featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/bdf7a1a4-a2b1-48b0-8c80-5f0e4f40b1dd.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/db6bcf31-c8bf-49f6-bb13-a6b068e7db2e.webp
 
 ```text
@@ -30088,7 +30088,7 @@ Kling 2.6 I2V sequence in the "Giant Grab" style featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/7689b5b7-2ac6-4e0c-9447-200d84bf16c0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/b6211594-c00b-4c4a-8d29-9b33057be223.webp
 
 ```text
@@ -30104,7 +30104,7 @@ Kling 2.6 I2V sequence in the "Aerial Pullback" style featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/dd160cc5-cc59-48bd-b67e-9c9d7b7b19ba.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/a281244f-8f6a-4238-8244-18e865c1eacb.webp
 
 ```text
@@ -30120,7 +30120,7 @@ Kling 2.6 I2V sequence in the "I Can Fly" style featuring (the character from th
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/4324423d-12f6-4430-b6cb-8b57dce8c992.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/4324423d-12f6-4430-b6cb-8b57dce8c992.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/63c46cd7-e686-4638-8a27-839e9def3eea.webp
 
 ```text
@@ -30136,7 +30136,7 @@ Kling 2.6 I2V sequence in the "Starship Troopers" style featuring (the character
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/b297103b-26e2-4c94-8134-0e8f74dddbe8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/b297103b-26e2-4c94-8134-0e8f74dddbe8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/11f9905f-f577-453d-a314-9349011ec587.webp
 
 ```text
@@ -30152,7 +30152,7 @@ Kling 2.6 I2V sequence in the "Cyborg" style featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/021fb851-f2a0-4002-b436-ca7efd280575.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/021fb851-f2a0-4002-b436-ca7efd280575.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/02e2ea31-b909-475e-9185-c55972c20bfc.webp
 
 ```text
@@ -30168,7 +30168,7 @@ Kling 2.6 I2V sequence in the "Northern Lights" style featuring (the character f
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/2968c6ec-b934-4398-af7b-904f435aaad2.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/2968c6ec-b934-4398-af7b-904f435aaad2.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/41fb6daa-543c-41c7-a87f-234916ba1d78.webp
 
 ```text
@@ -30184,7 +30184,7 @@ Kling 2.6 I2V sequence in the "Mystification" style featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/cf27736b-2dbb-45c1-b941-d82c9a280b8f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/1d775fa4-ac08-4b82-b3c5-e8caaba78beb.webp
 
 ```text
@@ -30200,7 +30200,7 @@ Kling 2.6 I2V sequence in the "Firework" style featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/cdd922c0-7ece-4c8a-8fa6-d10ef0babb6a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/85107570-7dc5-49bf-b6b0-1df287bdf532.webp
 
 ```text
@@ -30216,7 +30216,7 @@ Kling 2.6 I2V sequence in the "Fairies Around" style featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/360e5c4e-eee5-4b36-81dd-87b81780f521.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/360e5c4e-eee5-4b36-81dd-87b81780f521.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/b316dc76-9bcb-4005-84e7-2d8413459859.webp
 
 ```text
@@ -30232,7 +30232,7 @@ Kling 2.6 I2V sequence in the "Sakura Petals" style featuring (the character fro
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/a3d2b489-e4ea-42bc-8bd1-06dc10bc0b65.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/a3d2b489-e4ea-42bc-8bd1-06dc10bc0b65.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/69bb027c-b925-412f-8919-de638686809c.webp
 
 ```text
@@ -30248,7 +30248,7 @@ Kling 2.6 I2V sequence in the "Saint Glow" style featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/244cbbd1-2ecb-423a-aaec-1c00ed560814.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/0ec30147-54df-42d9-a418-6b8faf44bd78.webp
 
 ```text
@@ -30264,7 +30264,7 @@ Kling 2.6 I2V sequence in the "Plasma Explosion" style featuring (the character 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/168595b2-9d37-4e65-adef-e411e5abaf3f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/168595b2-9d37-4e65-adef-e411e5abaf3f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/4b5d0317-5435-49e2-b50a-97b3a7a04c83.webp
 
 ```text
@@ -30280,7 +30280,7 @@ Kling 2.6 I2V sequence in the "Aquarium" style featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/b2db5035-ac85-4741-ab0f-adbab579ca31.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/b2db5035-ac85-4741-ab0f-adbab579ca31.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/05a2419a-64dd-4d3b-ad90-925e2f749b37.webp
 
 ```text
@@ -30296,7 +30296,7 @@ Kling 2.6 I2V sequence in the "Objects Around" style featuring (the character fr
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/73c09d8c-0980-4c37-9f73-05201291a43c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/73c09d8c-0980-4c37-9f73-05201291a43c.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/1b2efb47-195e-4f6e-872b-7afa00f5bdfd.webp
 
 ```text
@@ -30312,7 +30312,7 @@ Kling 2.6 I2V sequence in the "Monstrosity" style featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/8fafe981-5a0e-41c1-ba81-ee056210a736.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/8fafe981-5a0e-41c1-ba81-ee056210a736.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/79985fbb-0353-4a28-a46c-b341458653a9.webp
 
 ```text
@@ -30328,7 +30328,7 @@ Kling 2.6 I2V sequence in the "Visor X" style featuring (the character from the 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/1bb67002-fd4a-420f-af1c-097c185f90b8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/1bb67002-fd4a-420f-af1c-097c185f90b8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/f5489d1d-794f-4851-acbc-280b9cc8e322.webp
 
 ```text
@@ -30344,7 +30344,7 @@ Kling 2.6 I2V sequence in the "Ballet" style featuring (the character from the r
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/840a3d93-564b-43ea-bf5d-46f0a61f12df.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/840a3d93-564b-43ea-bf5d-46f0a61f12df.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/126b2129-53e8-4f35-ad0f-7c68eb0a9cf9.webp
 
 ```text
@@ -30360,7 +30360,7 @@ Kling 2.6 I2V sequence in the "Multiverse" style featuring (the character from t
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/2119052b-0043-478e-b878-a879ff658220.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/2119052b-0043-478e-b878-a879ff658220.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/7dd2589d-922f-479e-8e24-2a9d00fa078c.webp
 
 ```text
@@ -30376,7 +30376,7 @@ Kling 2.6 I2V sequence in the "Air Element" style featuring (the character from 
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Kling 2.6 I2V
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/kling_motion/a214d5d1-2677-4acf-93a4-d4b4a6f32e82.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/kling_motion/bccf47aa-37b9-4264-b3f7-360320e8897e.webp
 
 ```text
@@ -30392,7 +30392,7 @@ Kling 2.6 I2V sequence in the "Ice rose" style featuring (the character from the
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Google Veo 3
 - **Settings:** Aspect Ratio `16:9 / 9:16` | Duration `5s–8s`
-- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/2d0e03e9-d088-4b67-a286-a30d7c87b669.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/veo3_motion/2d0e03e9-d088-4b67-a286-a30d7c87b669.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/veo3_motion/6d4b0fea-47c8-416f-a013-86c013bbdde8.webp
 
 ```text
@@ -30412,7 +30412,7 @@ Google Veo 3 sequence in the "ASMR" style featuring (the character from the refe
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c3fcf814-6542-4b51-a704-3b76153c91c6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c3fcf814-6542-4b51-a704-3b76153c91c6.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/2d4a39c0-21e4-48b8-90ed-83f29598f90c.webp
 
 ```text
@@ -30428,7 +30428,7 @@ Mixed Media video-to-video restyle ("Layer mixed media"): Transform the input vi
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/5e169eba-a6db-41a7-afed-d852615efc07.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/5e169eba-a6db-41a7-afed-d852615efc07.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/20b71097-a115-42b8-b767-35ba25492431.webp
 
 ```text
@@ -30444,7 +30444,7 @@ Mixed Media video-to-video restyle ("Sketch"): Transform the input video featuri
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ecdb540e-d1d6-4562-b29f-0bafe2961cdf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ecdb540e-d1d6-4562-b29f-0bafe2961cdf.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/3792173a-6073-43ac-bffb-22cda9ffa9a0.webp
 
 ```text
@@ -30460,7 +30460,7 @@ Mixed Media video-to-video restyle ("Canvas"): Transform the input video featuri
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/cd6524d8-d06f-4d6c-8883-9177b537840f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/cd6524d8-d06f-4d6c-8883-9177b537840f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/7ef545e5-b424-45cb-a812-990a2773602e.webp
 
 ```text
@@ -30476,7 +30476,7 @@ Mixed Media video-to-video restyle ("Flash comic"): Transform the input video fe
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/2b60f7f8-19ab-4e0a-ad83-a96e4d4fb3d0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/2b60f7f8-19ab-4e0a-ad83-a96e4d4fb3d0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/c09070e1-d568-4ea6-b7a1-406b5a8d9c39.webp
 
 ```text
@@ -30492,7 +30492,7 @@ Mixed Media video-to-video restyle ("Overexposed"): Transform the input video fe
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/e908cd25-8fc5-43b5-9835-f5193fcb1d46.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/e908cd25-8fc5-43b5-9835-f5193fcb1d46.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e030016e-2e12-4444-8c63-47d3213808aa.webp
 
 ```text
@@ -30508,7 +30508,7 @@ Mixed Media video-to-video restyle ("Paper"): Transform the input video featurin
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9f68f799-81a0-47c0-8ed9-437a10c71cb9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9f68f799-81a0-47c0-8ed9-437a10c71cb9.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/448e170c-1c61-4151-b897-fa57c2a4276d.webp
 
 ```text
@@ -30524,7 +30524,7 @@ Mixed Media video-to-video restyle ("Noir"): Transform the input video featuring
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/27b85cfd-0747-4375-969f-b93eb9da19de.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/27b85cfd-0747-4375-969f-b93eb9da19de.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/8376156c-dd55-4321-b3af-5f808eb71b8f.webp
 
 ```text
@@ -30540,7 +30540,7 @@ Mixed Media video-to-video restyle ("Particles"): Transform the input video feat
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/0adfa8b5-7e87-461b-90a8-5542a506d0f6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/0adfa8b5-7e87-461b-90a8-5542a506d0f6.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/c054cfb5-0b35-4d43-9ac3-3ea9bc0f5a87.webp
 
 ```text
@@ -30556,7 +30556,7 @@ Mixed Media video-to-video restyle ("Hand paint"): Transform the input video fea
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9ea0e5af-9f30-4a2e-89ea-54fbf2ad4874.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9ea0e5af-9f30-4a2e-89ea-54fbf2ad4874.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/9f8407e6-7f75-405e-99e3-630164868262.webp
 
 ```text
@@ -30572,7 +30572,7 @@ Mixed Media video-to-video restyle ("Toxic"): Transform the input video featurin
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c694ed05-d2b0-4850-a1e9-2b90dcee95d8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c694ed05-d2b0-4850-a1e9-2b90dcee95d8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e2ec7f9e-a599-4569-a1d7-4342da9479c3.webp
 
 ```text
@@ -30588,7 +30588,7 @@ Mixed Media video-to-video restyle ("Tracking"): Transform the input video featu
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/dd675cab-cc8e-4305-96b7-9a808df33321.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/dd675cab-cc8e-4305-96b7-9a808df33321.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/097b4dcb-ed44-4846-9557-67e709626b9b.webp
 
 ```text
@@ -30604,7 +30604,7 @@ Mixed Media video-to-video restyle ("Ultraviolet"): Transform the input video fe
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c875542d-e074-4975-8c3d-4c9f129ef2a0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/c875542d-e074-4975-8c3d-4c9f129ef2a0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/ea6238e0-f762-4954-bdf3-ee60cb312238.webp
 
 ```text
@@ -30620,7 +30620,7 @@ Mixed Media video-to-video restyle ("Windows"): Transform the input video featur
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d1cdb860-cff9-46de-b75f-4e821317bd30.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d1cdb860-cff9-46de-b75f-4e821317bd30.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/bf57d2d1-1f10-4136-9199-ebfe44ff5f0f.webp
 
 ```text
@@ -30636,7 +30636,7 @@ Mixed Media video-to-video restyle ("Acid"): Transform the input video featuring
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/26bed71d-7789-4a45-8d95-7c01f1474ca1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/26bed71d-7789-4a45-8d95-7c01f1474ca1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/08178a2a-f0bf-4f95-b5ae-8e48fc8015e0.webp
 
 ```text
@@ -30652,7 +30652,7 @@ Mixed Media video-to-video restyle ("Palette"): Transform the input video featur
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/b2836797-7dc2-481c-8929-abc1ddbbb891.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/b2836797-7dc2-481c-8929-abc1ddbbb891.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/94ca24cf-0bc5-48da-9d70-461b0b83d93a.webp
 
 ```text
@@ -30668,7 +30668,7 @@ Mixed Media video-to-video restyle ("Comic"): Transform the input video featurin
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/59a6a0fb-834e-4e86-b41e-5f21ce8ee55a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/59a6a0fb-834e-4e86-b41e-5f21ce8ee55a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/d6648ba5-8188-4842-ac68-e4356dd5f483.webp
 
 ```text
@@ -30684,7 +30684,7 @@ Mixed Media video-to-video restyle ("Akrill"): Transform the input video featuri
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/70c0bc83-9ba2-49c5-9a5d-80fa7c118dcc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/70c0bc83-9ba2-49c5-9a5d-80fa7c118dcc.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e5426b50-caea-4e84-9ea0-275da7da373d.webp
 
 ```text
@@ -30700,7 +30700,7 @@ Mixed Media video-to-video restyle ("Two color"): Transform the input video feat
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f12b80d6-b7dc-48ac-8a77-8eadcee6e3ac.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f12b80d6-b7dc-48ac-8a77-8eadcee6e3ac.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e8956394-cbd6-4e10-9491-899a9c993131.webp
 
 ```text
@@ -30716,7 +30716,7 @@ Mixed Media video-to-video restyle ("Multiverse"): Transform the input video fea
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4f884245-2915-4a24-a19a-b18cd252ab1f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4f884245-2915-4a24-a19a-b18cd252ab1f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/a9a7aaa6-86ea-4cec-b454-8506de1e9c04.webp
 
 ```text
@@ -30732,7 +30732,7 @@ Mixed Media video-to-video restyle ("Fragments"): Transform the input video feat
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4b844a70-1eb9-4ac2-b2ea-9e017f7fa31a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/4b844a70-1eb9-4ac2-b2ea-9e017f7fa31a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/7c9692ba-9b67-4dfa-82c4-4d6f9483026a.webp
 
 ```text
@@ -30748,7 +30748,7 @@ Mixed Media video-to-video restyle ("Origami"): Transform the input video featur
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/7f697ee1-9df8-45c5-8523-005fb7482278.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/7f697ee1-9df8-45c5-8523-005fb7482278.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/7a52a17e-75c5-4d69-b1d3-3e6c217369df.webp
 
 ```text
@@ -30764,7 +30764,7 @@ Mixed Media video-to-video restyle ("Random Glow"): Transform the input video fe
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9b029b09-f910-431e-94c0-b9ca6db41715.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/9b029b09-f910-431e-94c0-b9ca6db41715.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/b837742c-3354-4502-80af-fe0a415fb4f5.webp
 
 ```text
@@ -30780,7 +30780,7 @@ Mixed Media video-to-video restyle ("Vintage"): Transform the input video featur
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ca8b9113-730d-4594-b916-6d530b16df8a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/ca8b9113-730d-4594-b916-6d530b16df8a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/812e4d6b-cb10-47ff-8c6f-942232a3b60b.webp
 
 ```text
@@ -30796,7 +30796,7 @@ Mixed Media video-to-video restyle ("Cannabis"): Transform the input video featu
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/6eee81db-e7d6-4794-9190-39d0a8c1693c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/6eee81db-e7d6-4794-9190-39d0a8c1693c.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/c66d942e-c319-42fe-b25b-eff342516df4.webp
 
 ```text
@@ -30812,7 +30812,7 @@ Mixed Media video-to-video restyle ("Bubbles"): Transform the input video featur
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f48ae4ba-635d-47ed-bbe5-0d519c009106.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f48ae4ba-635d-47ed-bbe5-0d519c009106.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/b8e1d24c-b389-4fe6-88c4-14a5e2bdcb32.webp
 
 ```text
@@ -30828,7 +30828,7 @@ Mixed Media video-to-video restyle ("Magazine"): Transform the input video featu
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/a1a4d75a-b6e9-42fb-af01-be96d279b375.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/a1a4d75a-b6e9-42fb-af01-be96d279b375.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/03511e0e-cf56-44fe-ad6c-bf0dd128573f.webp
 
 ```text
@@ -30844,7 +30844,7 @@ Mixed Media video-to-video restyle ("Cold vision"): Transform the input video fe
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/04bab337-d074-465d-9c5f-27e4eb270225.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/04bab337-d074-465d-9c5f-27e4eb270225.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/59ad84b2-f971-4432-a060-2113c0b9387a.webp
 
 ```text
@@ -30860,7 +30860,7 @@ Mixed Media video-to-video restyle ("Modern"): Transform the input video featuri
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f2163456-4099-4b1e-9f62-2d4953d2b7bf.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f2163456-4099-4b1e-9f62-2d4953d2b7bf.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/e4f288a5-8d1a-4844-8958-80d3176d4b95.webp
 
 ```text
@@ -30876,7 +30876,7 @@ Mixed Media video-to-video restyle ("LSD"): Transform the input video featuring 
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/20397c83-0280-4dc2-950c-5b72a548bd5f.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/20397c83-0280-4dc2-950c-5b72a548bd5f.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/41f316db-8201-4432-b986-ead4fa4e3ea4.webp
 
 ```text
@@ -30892,7 +30892,7 @@ Mixed Media video-to-video restyle ("Broken mirror"): Transform the input video 
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d62537bf-2356-4131-90bb-c398a27c46c7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/d62537bf-2356-4131-90bb-c398a27c46c7.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/2553e368-e35c-4d9f-8b38-d670d94bad62.webp
 
 ```text
@@ -30908,7 +30908,7 @@ Mixed Media video-to-video restyle ("Lava"): Transform the input video featuring
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f300c8f1-9071-4737-abd0-9f7dbd354519.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/f300c8f1-9071-4737-abd0-9f7dbd354519.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/00006660-8b5e-426a-ad0e-51b02c8c14f7.webp
 
 ```text
@@ -30924,7 +30924,7 @@ Mixed Media video-to-video restyle ("Marble"): Transform the input video featuri
 - **Image Model:** Mixed Media Layer Compositor / Soul 2.0
 - **Video Model:** Mixed Media V2V Diffusion
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `5s–15s`
-- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/bcc94f8c-d4f6-4f1c-870c-258a98529418.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/mixed_media_preset/bcc94f8c-d4f6-4f1c-870c-258a98529418.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/mixed_media_preset/a16ff2f4-1ec6-41e7-b64d-f61925d3b262.webp
 
 ```text
@@ -30940,7 +30940,7 @@ Mixed Media video-to-video restyle ("Ocean"): Transform the input video featurin
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4b4f39a7-042a-46a3-9e7c-acf9ea8cc70b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4b4f39a7-042a-46a3-9e7c-acf9ea8cc70b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/801615ee-e768-4e15-b751-335e53dc4d5f.webp
 
 ```text
@@ -30956,7 +30956,7 @@ Vertical 9:16 Reels Studio edit in the "Bold Urban" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c12a7632-017b-46a0-8b68-89fd818b5d66.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c12a7632-017b-46a0-8b68-89fd818b5d66.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/f5767ef4-fb42-4e7d-a830-410226e5aaab.webp
 
 ```text
@@ -30972,7 +30972,7 @@ Vertical 9:16 Reels Studio edit in the "Green Contrast" preset featuring (the ch
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/13d9ab98-997e-4ed2-a92e-065f92efa434.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/13d9ab98-997e-4ed2-a92e-065f92efa434.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/a5c2054e-1a72-45e5-a664-5ec90043aa2e.webp
 
 ```text
@@ -30988,7 +30988,7 @@ Vertical 9:16 Reels Studio edit in the "Urban Serenity" preset featuring (the ch
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fe1700c9-e56f-46f5-bc94-ac4d08975cb1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fe1700c9-e56f-46f5-bc94-ac4d08975cb1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4dae7f31-4992-499f-b125-ea0d0648b115.webp
 
 ```text
@@ -31004,7 +31004,7 @@ Vertical 9:16 Reels Studio edit in the "Warm Glow" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/ab167ed9-6a10-4514-8745-dcf52db87284.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/ab167ed9-6a10-4514-8745-dcf52db87284.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8d607731-02df-47f9-907f-7113890338e3.webp
 
 ```text
@@ -31020,7 +31020,7 @@ Vertical 9:16 Reels Studio edit in the "Yellow Frame" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/2d303c75-e17b-4210-b6af-6d3847c133ce.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/2d303c75-e17b-4210-b6af-6d3847c133ce.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/684be132-d8ec-4a94-8241-9263e25e2302.webp
 
 ```text
@@ -31036,7 +31036,7 @@ Vertical 9:16 Reels Studio edit in the "Monochrome Vibes" preset featuring (the 
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/b7af3fa7-167c-4ea7-b3da-69449062a43b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/b7af3fa7-167c-4ea7-b3da-69449062a43b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/49ab7faf-1694-497a-b731-cb7a2d0173c4.webp
 
 ```text
@@ -31052,7 +31052,7 @@ Vertical 9:16 Reels Studio edit in the "Claymation" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4468670e-1bce-434a-bc71-8a74a6310f12.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4468670e-1bce-434a-bc71-8a74a6310f12.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/e0fbdfc3-9d8a-405a-93d2-391625c2fd9c.webp
 
 ```text
@@ -31068,7 +31068,7 @@ Vertical 9:16 Reels Studio edit in the "Marker Scribble" preset featuring (the c
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/110e4fe4-5739-412e-875f-463972862e47.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/110e4fe4-5739-412e-875f-463972862e47.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/957ac18b-28bc-4e85-86cc-e307c61a5449.webp
 
 ```text
@@ -31084,7 +31084,7 @@ Vertical 9:16 Reels Studio edit in the "Sticker Type" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6fb6d834-ebbb-42c7-b792-3569dd3334d9.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6fb6d834-ebbb-42c7-b792-3569dd3334d9.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/0b7a7a37-47a6-4389-b18a-85813ac7d9b7.webp
 
 ```text
@@ -31100,7 +31100,7 @@ Vertical 9:16 Reels Studio edit in the "Blue Comic" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/0c7cb036-ec9e-4ca4-9bd1-492e06892c9b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/0c7cb036-ec9e-4ca4-9bd1-492e06892c9b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6bf08f01-d01d-489d-94ab-7c41b9e3691a.webp
 
 ```text
@@ -31116,7 +31116,7 @@ Vertical 9:16 Reels Studio edit in the "Red Graffiti" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/50ff8c85-97cd-449a-856e-2a03e2f7f563.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/50ff8c85-97cd-449a-856e-2a03e2f7f563.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/a9f61c78-217e-4f23-a76f-5ba89a958f7f.webp
 
 ```text
@@ -31132,7 +31132,7 @@ Vertical 9:16 Reels Studio edit in the "Watercolor" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/cda31448-32aa-4792-92dc-3ee603037f80.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/cda31448-32aa-4792-92dc-3ee603037f80.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/3192e1f5-bc4c-4b16-8d7b-577d2f6c8517.webp
 
 ```text
@@ -31148,7 +31148,7 @@ Vertical 9:16 Reels Studio edit in the "Pencil Sketch" preset featuring (the cha
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fcf00b8f-0fd5-467f-9f57-24bc083f191b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fcf00b8f-0fd5-467f-9f57-24bc083f191b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c6f52f4e-7b93-49d1-9f3c-8df0b9b7d3bf.webp
 
 ```text
@@ -31164,7 +31164,7 @@ Vertical 9:16 Reels Studio edit in the "Desktop" preset featuring (the character
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fa382c69-dabf-4495-951d-92de7bf43dba.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fa382c69-dabf-4495-951d-92de7bf43dba.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/2e73fcc5-9e3b-4356-a506-7896a126ba36.webp
 
 ```text
@@ -31180,7 +31180,7 @@ Vertical 9:16 Reels Studio edit in the "Acid Green" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/89e02a08-af30-4753-9241-e2c35e3ad46e.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/89e02a08-af30-4753-9241-e2c35e3ad46e.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fad55747-1e4b-41a4-9025-bab846d3a859.webp
 
 ```text
@@ -31196,7 +31196,7 @@ Vertical 9:16 Reels Studio edit in the "Balloon Type" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/7e863439-96e3-4eb5-83f1-58b6e86bfb53.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/7e863439-96e3-4eb5-83f1-58b6e86bfb53.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/735a0fec-5fbd-4d4f-bbea-e668f9678dd3.webp
 
 ```text
@@ -31212,7 +31212,7 @@ Vertical 9:16 Reels Studio edit in the "Blueprint" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/cf4f9927-0cd1-49bb-bfed-d13ef3825a11.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/cf4f9927-0cd1-49bb-bfed-d13ef3825a11.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c3ebf064-719f-413c-843f-eb5dc476a650.webp
 
 ```text
@@ -31228,7 +31228,7 @@ Vertical 9:16 Reels Studio edit in the "Bold Caption" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c4265d8e-a2cf-4e3b-8984-b35cec8166af.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c4265d8e-a2cf-4e3b-8984-b35cec8166af.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/994899e4-b19f-4dbe-9954-fde73f41aab7.webp
 
 ```text
@@ -31244,7 +31244,7 @@ Vertical 9:16 Reels Studio edit in the "Bounding Box" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/2281f89a-066e-45ed-ac18-5d95fe08e44a.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/2281f89a-066e-45ed-ac18-5d95fe08e44a.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/09ea8319-9a3b-4b08-aeec-62c742253388.webp
 
 ```text
@@ -31260,7 +31260,7 @@ Vertical 9:16 Reels Studio edit in the "Circuit" preset featuring (the character
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/a2826d45-5b27-487b-86df-7bad6a161061.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/a2826d45-5b27-487b-86df-7bad6a161061.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/a4b62824-428c-4072-af8e-84c98254af9d.webp
 
 ```text
@@ -31276,7 +31276,7 @@ Vertical 9:16 Reels Studio edit in the "Comic Burst" preset featuring (the chara
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/d6714a54-d1a4-45fe-964f-ea012e851bfd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/d6714a54-d1a4-45fe-964f-ea012e851bfd.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/87e0d337-30be-42c2-9d5a-65916ec4f204.webp
 
 ```text
@@ -31292,7 +31292,7 @@ Vertical 9:16 Reels Studio edit in the "Comic Pop" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/9d2dca52-9349-465a-b9db-ba41c3c0cff6.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/9d2dca52-9349-465a-b9db-ba41c3c0cff6.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/72aab82e-f42d-4414-accb-71513c73c27c.webp
 
 ```text
@@ -31308,7 +31308,7 @@ Vertical 9:16 Reels Studio edit in the "Pink Wash" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/7b115462-c29b-4e35-aa94-4c1343940cd0.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/7b115462-c29b-4e35-aa94-4c1343940cd0.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/25f63f30-7a71-4461-af73-ed5c11efba2d.webp
 
 ```text
@@ -31324,7 +31324,7 @@ Vertical 9:16 Reels Studio edit in the "Gold Stars" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/57801423-33a0-4888-a3e0-c345ccc8806d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/57801423-33a0-4888-a3e0-c345ccc8806d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/bbcc57d4-8bda-4d05-ade5-f828bfbf6425.webp
 
 ```text
@@ -31340,7 +31340,7 @@ Vertical 9:16 Reels Studio edit in the "Graffiti" preset featuring (the characte
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/89a98819-aa67-4ec8-9354-b4ebb0e5a37d.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/89a98819-aa67-4ec8-9354-b4ebb0e5a37d.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/e338a07d-949f-403f-83d1-985ad0a20597.webp
 
 ```text
@@ -31356,7 +31356,7 @@ Vertical 9:16 Reels Studio edit in the "Green Doodle" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/b1fc85fb-c98a-4339-913a-6648d7aa5a87.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/b1fc85fb-c98a-4339-913a-6648d7aa5a87.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/9ae2ed82-ba3a-403d-8e72-407e6c2021ce.webp
 
 ```text
@@ -31372,7 +31372,7 @@ Vertical 9:16 Reels Studio edit in the "Green Pop" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6f709a9d-470c-4fe5-9a9e-205047c968ee.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6f709a9d-470c-4fe5-9a9e-205047c968ee.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/ac05d43d-6d90-41ac-95de-46a382413314.webp
 
 ```text
@@ -31388,7 +31388,7 @@ Vertical 9:16 Reels Studio edit in the "Heart Pop" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8949596a-6762-4599-ada9-0a841aba410b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8949596a-6762-4599-ada9-0a841aba410b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c44b26a0-f7bc-429d-88a0-eb02aea8b70b.webp
 
 ```text
@@ -31404,7 +31404,7 @@ Vertical 9:16 Reels Studio edit in the "Kinetic Type" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/f944bfdd-96a0-4337-83cd-1a7cd19d6de5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/f944bfdd-96a0-4337-83cd-1a7cd19d6de5.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4192bae2-4b07-48f0-a0f4-058003279bb6.webp
 
 ```text
@@ -31420,7 +31420,7 @@ Vertical 9:16 Reels Studio edit in the "Liquid Chrome" preset featuring (the cha
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/10b94098-f029-4a9d-903c-bcb6488bf024.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/10b94098-f029-4a9d-903c-bcb6488bf024.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/52c07ef3-42f0-456e-8c1c-cfbf8897d545.webp
 
 ```text
@@ -31436,7 +31436,7 @@ Vertical 9:16 Reels Studio edit in the "Mascot" preset featuring (the character 
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/41455531-bb3a-4a60-8033-7bc1d1d6193c.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/41455531-bb3a-4a60-8033-7bc1d1d6193c.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/db8c35d6-7f44-47d1-af7b-b3c9d34fd684.webp
 
 ```text
@@ -31452,7 +31452,7 @@ Vertical 9:16 Reels Studio edit in the "Neon Pop" preset featuring (the characte
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/0f4113e4-0e5f-4ace-b658-d2038ab2e567.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/0f4113e4-0e5f-4ace-b658-d2038ab2e567.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/5dc1c587-16e7-416d-8484-232a3954b88a.webp
 
 ```text
@@ -31468,7 +31468,7 @@ Vertical 9:16 Reels Studio edit in the "Neon Type" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/514b645e-f17d-4b3d-bec0-852483df7fbc.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/514b645e-f17d-4b3d-bec0-852483df7fbc.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/313bf6c4-ed77-4f4e-a96c-3dde0ed13f87.webp
 
 ```text
@@ -31484,7 +31484,7 @@ Vertical 9:16 Reels Studio edit in the "Patterned" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/1948e7d2-d764-4ed2-a41c-9371ef40b0d7.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/1948e7d2-d764-4ed2-a41c-9371ef40b0d7.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/57786b23-19c9-4bd6-b650-4b9f5daddb07.webp
 
 ```text
@@ -31500,7 +31500,7 @@ Vertical 9:16 Reels Studio edit in the "Pink Pop" preset featuring (the characte
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/d111b325-182a-48db-ae9b-d85b44c3f2d1.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/d111b325-182a-48db-ae9b-d85b44c3f2d1.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/fada291a-9e29-427f-9152-dd5fb6d0d772.webp
 
 ```text
@@ -31516,7 +31516,7 @@ Vertical 9:16 Reels Studio edit in the "Pink Scribble" preset featuring (the cha
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8c0af29c-5234-42b2-9c3a-ebf6442fcc69.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8c0af29c-5234-42b2-9c3a-ebf6442fcc69.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/5ce2c7fd-6a58-4347-b7b6-248954f3db01.webp
 
 ```text
@@ -31532,7 +31532,7 @@ Vertical 9:16 Reels Studio edit in the "Polka Pop" preset featuring (the charact
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/03e7d1b5-e02e-47be-b97d-bea1bfa65d07.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/03e7d1b5-e02e-47be-b97d-bea1bfa65d07.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/4b825772-5087-4763-b59d-9e2157fd7c9f.webp
 
 ```text
@@ -31548,7 +31548,7 @@ Vertical 9:16 Reels Studio edit in the "Retro Collage" preset featuring (the cha
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/f1417caa-9014-4f81-9b71-ca5d2102f1f3.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/f1417caa-9014-4f81-9b71-ca5d2102f1f3.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/f00d5544-1a99-4b94-ac89-ba529fcb9908.webp
 
 ```text
@@ -31564,7 +31564,7 @@ Vertical 9:16 Reels Studio edit in the "Stacked Type" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/75336ae2-e934-4ef9-b532-9e91df3a5f5b.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/75336ae2-e934-4ef9-b532-9e91df3a5f5b.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/d690c4ee-1dc1-47ef-82c4-93995ab4d248.webp
 
 ```text
@@ -31580,7 +31580,7 @@ Vertical 9:16 Reels Studio edit in the "Star Comic" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6eaa3447-4df5-4c11-bacd-a3374df9fb50.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/6eaa3447-4df5-4c11-bacd-a3374df9fb50.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/90517cb5-743a-41fc-8e0b-485b77deb4bf.webp
 
 ```text
@@ -31596,7 +31596,7 @@ Vertical 9:16 Reels Studio edit in the "Street Art" preset featuring (the charac
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c74a0ef1-3b2b-4ba0-8788-68a2ee3fbde8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/c74a0ef1-3b2b-4ba0-8788-68a2ee3fbde8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/5a9d933c-aeac-4af7-9991-7ae637f66ada.webp
 
 ```text
@@ -31612,7 +31612,7 @@ Vertical 9:16 Reels Studio edit in the "Vintage Paper" preset featuring (the cha
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8c41b28e-8763-4cb9-a025-68690bd714f8.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8c41b28e-8763-4cb9-a025-68690bd714f8.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/b54bebec-f134-43fd-91e5-56e12f525f65.webp
 
 ```text
@@ -31628,7 +31628,7 @@ Vertical 9:16 Reels Studio edit in the "Yellow Burst" preset featuring (the char
 - **Image Model:** Reels Studio Style Keyframe
 - **Video Model:** Reels Studio V2V / Shorts Maker Engine
 - **Settings:** Aspect Ratio `9:16` | Duration `10s–30s`
-- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8d581399-4454-4c64-a1e7-63c547e2d1cd.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/reels_preset_thumbnail/8d581399-4454-4c64-a1e7-63c547e2d1cd.mp4 (Silent)
 - **Preview Image:** https://cdn.higgsfield.ai/reels_preset_thumbnail/27f1031f-87f9-4628-9506-9bbb005347e3.webp
 
 ```text
@@ -32968,7 +32968,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/ad-multiplier/skill-grid/product-ad-source.mp4
+- **Preview Video:** https://static.higgsfield.ai/ad-multiplier/skill-grid/product-ad-source.mp4 (Audio Included)
 
 ```text
 [Built-in Skill: /ad-multiplier (Ad-Multiplier)]
@@ -33050,7 +33050,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/mcp-landing/skills/brandkit.mp4
+- **Preview Video:** https://static.higgsfield.ai/mcp-landing/skills/brandkit.mp4 (Audio Included)
 
 ```text
 [Built-in Skill: /brand-asset-creation (Brand Asset Creation)]
@@ -33276,7 +33276,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/mcp-landing/editorial-motion-graphics.mp4
+- **Preview Video:** https://static.higgsfield.ai/mcp-landing/editorial-motion-graphics.mp4 (Audio Included)
 
 ```text
 [Built-in Skill: /faceless-video (Faceless Studio)]
@@ -33429,7 +33429,7 @@ This title card renders fine but looks cheap — fix the timing and typography s
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/mcp-landing/skills/motion-design.mp4
+- **Preview Video:** https://static.higgsfield.ai/mcp-landing/skills/motion-design.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/ai_employees/Motion%20Designer/111_1_5m.webm
 
 ```text
@@ -33894,7 +33894,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/mcp/v2/ugc-content.mp4
+- **Preview Video:** https://static.higgsfield.ai/mcp/v2/ugc-content.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/ai_employees/UGC%20Creator/final-5_1_5m.webm
 
 ```text
@@ -33916,7 +33916,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/mcp-landing/skills/try-on-ugc-cover.mp4
+- **Preview Video:** https://static.higgsfield.ai/mcp-landing/skills/try-on-ugc-cover.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/ai_employees/Try-On%20UGC%20Stylist/hf_20260505_224646_ed21e387-0496-4a66-aff0-cc7cbba505ba-1_1_5m.webm
 
 ```text
@@ -33938,7 +33938,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/skills-optimized/ugc_2_cover.mp4
+- **Preview Video:** https://static.higgsfield.ai/skills-optimized/ugc_2_cover.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/ai_employees/Tutorial%20UGC%20Creator/hf_20260526_202800_c78d0f6e-793a-4c52-94a3-379dc7f27db3_1_5m.webm
 
 ```text
@@ -33960,7 +33960,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/mcp-landing/ugc-factory/unboxing-ugc.mp4
+- **Preview Video:** https://static.higgsfield.ai/mcp-landing/ugc-factory/unboxing-ugc.mp4 (Audio Included)
 - **Preview Image:** https://cdn.higgsfield.ai/ai_employees/Unboxing%20UGC%20Creator/1_1_5m.webm
 
 ```text
@@ -34017,7 +34017,7 @@ Cut this interview into a 4-minute video, add relevant b-roll and animated infor
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://cdn.higgsfield.ai/skills/7%20montage/1_1mb.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/skills/7%20montage/1_1mb.mp4 (Audio Included)
 
 ```text
 [Built-in Skill: /video-montage (Video Montage)]
@@ -34140,7 +34140,7 @@ Additional Official Prompt Variations:
 - **Image Model:** Soul 2.0 / Nano Banana Pro / GPT Image 2.5
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Veo 3 (Skill Router)
 - **Settings:** Aspect Ratio `9:16 / 16:9 / 1:1` | Duration `Skill Pipeline`
-- **Preview Video:** https://static.higgsfield.ai/skills-landing/website/loomere-polo.mp4
+- **Preview Video:** https://static.higgsfield.ai/skills-landing/website/loomere-polo.mp4 (Audio Included)
 
 ```text
 [Built-in Skill: /website-builder (Website Builder)]
@@ -36216,7 +36216,7 @@ Example -- destructive op:
 - **Image Model:** Soul 2.0 / Nano Banana Pro
 - **Video Model:** Seedance 2.0 / Kling 2.6 / Reels Restyle Engine
 - **Settings:** Aspect Ratio `9:16 / 16:9` | Duration `Agent Pipeline`
-- **Preview Video:** https://cdn.higgsfield.ai/card/7d948d7b-43e8-4fce-b8e6-8557c84075a5.mp4
+- **Preview Video:** https://cdn.higgsfield.ai/card/7d948d7b-43e8-4fce-b8e6-8557c84075a5.mp4 (Audio Included)
 - **Input Reference Video:** https://static.higgsfield.ai/claudesfield/agent-employees/shorts-maker/plastilin.mp4
 - **Preview Image:** https://static.higgsfield.ai/claudesfield/main-page/ugc-creator.webp
 
