@@ -1280,6 +1280,22 @@
       color: var(--text-muted);
     }
 
+  
+    .loading-spinner {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      border: 2px solid rgba(255, 255, 255, 0.2);
+      border-top-color: var(--accent-red);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
   </style>
 </head>
 <body>
@@ -1566,6 +1582,11 @@
         });
         allCards.forEach(c => c.classList.remove('is-playing'));
 
+        // Load src if not present
+        if (!targetVideo.src && targetVideo.dataset.src) {
+          targetVideo.src = targetVideo.dataset.src;
+        }
+
         targetVideo.muted = false;
         targetVideo.play().catch(() => {});
         btn.classList.add('unmuted');
@@ -1655,73 +1676,31 @@
     }
 
     // Card Renderer
-    function renderGrid() {
-      const grid = document.getElementById('recipeGrid');
-      const q = searchQuery.toLowerCase().trim();
-      const likedMap = getLikedMap();
+    // Card Template Builder
+    function createCardHtml(r) {
+      const isVertical = (r.settings?.aspect_ratio && r.settings.aspect_ratio.includes('9:16')) ||
+                         (r.subcategory && r.subcategory.toLowerCase().includes('tiktok')) ||
+                         (r.subcategory && r.subcategory.toLowerCase().includes('ugc'));
 
-      const filtered = recipes.filter(r => {
-        if (activeSection === 'FAVORITES') {
-          if (!likedMap[r.id]) return false;
-        } else if (activeSection !== 'ALL' && r.section !== activeSection) {
-          return false;
-        }
+      const mediaClass = isVertical ? 'media-frame vertical' : 'media-frame';
+      const isLiked = isRecipeLiked(r.id);
+      const likeCount = getRecipeLikes(r.id);
+      const heartClass = isLiked ? 'btn-card-heart liked' : 'btn-card-heart';
 
-        if (!q) return true;
-
-        const haystack = [
-          r.name,
-          r.visible_effect,
-          r.template_prompt,
-          r.example_prompt,
-          r.subcategory,
-          r.model_routing?.video_model,
-          r.model_routing?.image_model
-        ].filter(Boolean).join(' ').toLowerCase();
-
-        return haystack.includes(q);
-      });
-
-      document.getElementById('resultsCount').innerHTML = `Showing <strong>${filtered.length}</strong> scripts`;
-
-      if (filtered.length === 0) {
-        const noResultsMsg = activeSection === 'FAVORITES'
-          ? 'No favorite scripts saved yet. Click the heart ❤️ on any card to save it here!'
-          : 'Try adjusting your search terms or selecting another studio section.';
-
-        grid.innerHTML = `<div style="grid-column: 1/-1; text-align: center; padding: 60px 20px; color: #737373;">
-          <p style="font-size: 1.1rem; color: #fff; margin-bottom: 8px;">No matching scripts found</p>
-          <p style="font-size: 0.9rem;">${noResultsMsg}</p>
-        </div>`;
-        return;
-      }
-
-      grid.innerHTML = filtered.map(r => {
-        const isVertical = (r.settings?.aspect_ratio && r.settings.aspect_ratio.includes('9:16')) ||
-                           (r.subcategory && r.subcategory.toLowerCase().includes('tiktok')) ||
-                           (r.subcategory && r.subcategory.toLowerCase().includes('ugc'));
-
-        const mediaClass = isVertical ? 'media-frame vertical' : 'media-frame';
-        const isLiked = isRecipeLiked(r.id);
-        const likeCount = getRecipeLikes(r.id);
-        const heartClass = isLiked ? 'btn-card-heart liked' : 'btn-card-heart';
-
-        let mediaHtml = '';
-        if (r.preview_video_url) {
-          mediaHtml = `
-            <video id="vid-${r.id}" loop muted playsinline preload="metadata">
-              <source src="${r.preview_video_url}" type="video/mp4">
-            </video>
-            <div class="play-icon">▶</div>
-            ${r.has_audio ? `<button class="audio-btn" onclick="event.stopPropagation(); toggleAudio('${r.id}', this)" title="Listen to audio">🔊 Sound</button>` : `<span class="audio-btn muted-badge" title="Visual Motion Only (Silent Track)">🔇 Mute</span>`}
-          `;
-        } else if (r.preview_image_url) {
-          mediaHtml = `
-            <img src="${r.preview_image_url}" alt="${escapeHtml(r.name)}" loading="lazy">
-            <div class="play-icon">▶</div>
-          `;
-        } else {
-          if (r.section === 'Production Blueprints & Pipeline Specs' || r.id.startsWith('workflow-') || r.id.startsWith('faceless-doc-')) {
+      let mediaHtml = '';
+      if (r.preview_video_url) {
+        mediaHtml = `
+          <video id="vid-${r.id}" loop muted playsinline preload="none" poster="${r.preview_image_url || ''}" data-src="${r.preview_video_url}"></video>
+          <div class="play-icon">▶</div>
+          ${r.has_audio ? `<button class="audio-btn" onclick="event.stopPropagation(); toggleAudio('${r.id}', this)" title="Listen to audio">🔊 Sound</button>` : `<span class="audio-btn muted-badge" title="Visual Motion Only (Silent Track)">🔇 Mute</span>`}
+        `;
+      } else if (r.preview_image_url) {
+        mediaHtml = `
+          <img src="${r.preview_image_url}" alt="${escapeHtml(r.name)}" loading="lazy">
+          <div class="play-icon">▶</div>
+        `;
+      } else {
+        if (r.section === 'Production Blueprints & Pipeline Specs' || r.id.startsWith('workflow-') || r.id.startsWith('faceless-doc-')) {
           mediaHtml = `
             <div class="spec-card-banner">
               <div class="spec-icon">📐</div>
@@ -1749,85 +1728,222 @@
             </div>
           `;
         }
-        }
+      }
 
-        const rawPrompt = r.template_prompt || r.example_prompt || '';
-        const highlightedPrompt = formatPromptHTML(rawPrompt);
+      const rawPrompt = r.template_prompt || r.example_prompt || '';
+      const highlightedPrompt = formatPromptHTML(rawPrompt);
 
-        // Build media download buttons
-        let mediaLinksHtml = '';
-        if (r.preview_video_url) {
-          mediaLinksHtml += `<a href="${r.preview_video_url}" download target="_blank" rel="noopener" class="btn-media-link" title="Download sample video">⬇ Preview MP4</a>`;
-        }
-        if (r.reference_video_url) {
-          mediaLinksHtml += `<a href="${r.reference_video_url}" download target="_blank" rel="noopener" class="btn-media-link ref-link" title="Download input reference video for replacement">⬇ Input Ref Video</a>`;
-        }
+      let mediaLinksHtml = '';
+      if (r.preview_video_url) {
+        mediaLinksHtml += `<a href="${r.preview_video_url}" download target="_blank" rel="noopener" class="btn-media-link" title="Download sample video">⬇ Preview MP4</a>`;
+      }
+      if (r.reference_video_url) {
+        mediaLinksHtml += `<a href="${r.reference_video_url}" download target="_blank" rel="noopener" class="btn-media-link ref-link" title="Download input reference video for replacement">⬇ Input Ref Video</a>`;
+      }
 
-        return `
-          <article class="recipe-card" id="card-${r.id}">
-            <div class="${mediaClass}" onclick="openDetailsModal('${r.id}')">
-              ${mediaHtml}
-              <div class="media-badges">
-                <span class="badge-sub">${escapeHtml(r.subcategory || r.section.split(' ')[0])}</span>
-                <span class="badge-ratio">${escapeHtml(r.settings?.aspect_ratio || '16:9')}</span>
-              </div>
-
-              <!-- Heart / Like button -->
-              <button class="${heartClass}" id="like-btn-${r.id}" onclick="toggleLike('${r.id}', event)" title="Like this recipe">
-                <svg class="heart-svg" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
-                <span id="like-count-${r.id}">${likeCount}</span>
-              </button>
+      return `
+        <article class="recipe-card ${r.preview_video_url ? 'has-video' : ''}" id="card-${r.id}">
+          <div class="${mediaClass}" onclick="openDetailsModal('${r.id}')">
+            ${mediaHtml}
+            <div class="media-badges">
+              <span class="badge-sub">${escapeHtml(r.subcategory || r.section.split(' ')[0])}</span>
+              <span class="badge-ratio">${escapeHtml(r.settings?.aspect_ratio || '16:9')}</span>
             </div>
 
-            <div class="card-body">
-              <h3 class="card-title">${escapeHtml(r.name)}</h3>
-              <p class="card-effect">${escapeHtml(r.visible_effect || '')}</p>
+            <button class="${heartClass}" id="like-btn-${r.id}" onclick="toggleLike('${r.id}', event)" title="Like this recipe">
+              <svg class="heart-svg" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+              <span id="like-count-${r.id}">${likeCount}</span>
+            </button>
+          </div>
 
-              <div class="formula-box" title="Copy-ready script formula">${highlightedPrompt}</div>
+          <div class="card-body">
+            <h3 class="card-title">${escapeHtml(r.name)}</h3>
+            <p class="card-effect">${escapeHtml(r.visible_effect || '')}</p>
 
-              <div class="card-actions-wrapper">
-                <div class="card-actions-primary">
-                  <button class="btn-copy" onclick="copyToClipboard(${JSON.stringify(rawPrompt)}, this)">
-                    📋 Copy Script
-                  </button>
-                  <button class="btn-inspect" onclick="openDetailsModal('${r.id}')">
-                    Inspect
-                  </button>
-                </div>
+            <div class="formula-box" title="Copy-ready script formula">${highlightedPrompt}</div>
 
-                ${mediaLinksHtml ? `<div class="card-actions-media">${mediaLinksHtml}</div>` : ''}
+            <div class="card-actions-wrapper">
+              <div class="card-actions-primary">
+                <button class="btn-copy" onclick="copyToClipboard(${JSON.stringify(rawPrompt)}, this)">
+                  📋 Copy Script
+                </button>
+                <button class="btn-inspect" onclick="openDetailsModal('${r.id}')">
+                  Inspect
+                </button>
               </div>
-            </div>
-          </article>
-        `;
-      }).join('');
 
-      setupVideoObserver();
+              ${mediaLinksHtml ? `<div class="card-actions-media">${mediaLinksHtml}</div>` : ''}
+            </div>
+          </div>
+        </article>
+      `;
     }
 
-    // Video Autoplay Observer (muted only on view)
+    // High-Performance Progressive Render State
+    let currentFilteredRecipes = [];
+    let renderedCount = 0;
+    const BATCH_SIZE = 36;
+    let sentinelObserver = null;
     let videoObserver = null;
+    let currentlyUnmutedVideoId = null;
+
+    function renderGrid() {
+      const grid = document.getElementById('recipeGrid');
+      const q = searchQuery.toLowerCase().trim();
+      const likedMap = getLikedMap();
+
+      if (videoObserver) {
+        videoObserver.disconnect();
+        videoObserver = null;
+      }
+      if (sentinelObserver) {
+        sentinelObserver.disconnect();
+        sentinelObserver = null;
+      }
+
+      currentFilteredRecipes = recipes.filter(r => {
+        if (activeSection === 'FAVORITES') {
+          if (!likedMap[r.id]) return false;
+        } else if (activeSection !== 'ALL' && r.section !== activeSection) {
+          return false;
+        }
+
+        if (!q) return true;
+
+        const haystack = [
+          r.name,
+          r.visible_effect,
+          r.template_prompt,
+          r.example_prompt,
+          r.subcategory,
+          r.model_routing?.video_model,
+          r.model_routing?.image_model
+        ].filter(Boolean).join(' ').toLowerCase();
+
+        return haystack.includes(q);
+      });
+
+      document.getElementById('resultsCount').innerHTML = `Showing <strong>${currentFilteredRecipes.length}</strong> scripts`;
+
+      if (currentFilteredRecipes.length === 0) {
+        const noResultsMsg = activeSection === 'FAVORITES'
+          ? 'No favorite scripts saved yet. Click the heart ❤️ on any card to save it here!'
+          : 'Try adjusting your search terms or selecting another studio section.';
+
+        grid.innerHTML = `<div style="grid-column: 1/-1; text-align: center; padding: 60px 20px; color: #737373;">
+          <p style="font-size: 1.1rem; color: #fff; margin-bottom: 8px;">No matching scripts found</p>
+          <p style="font-size: 0.9rem;">${noResultsMsg}</p>
+        </div>`;
+        return;
+      }
+
+      renderedCount = Math.min(BATCH_SIZE, currentFilteredRecipes.length);
+      const initialCards = currentFilteredRecipes.slice(0, renderedCount).map(createCardHtml).join('');
+
+      grid.innerHTML = initialCards + `
+        <div id="scrollSentinel" style="grid-column: 1/-1; min-height: 80px; display: flex; align-items: center; justify-content: center; color: #737373; font-size: 0.85rem; padding: 30px 0;">
+          ${renderedCount < currentFilteredRecipes.length ? '<span class="loading-spinner"></span> Loading more production scripts...' : '<span style="color:#555;">✓ All ' + currentFilteredRecipes.length + ' scripts loaded</span>'}
+        </div>
+      `;
+
+      setupVideoObserver();
+      setupSentinelObserver();
+    }
+
+    function loadMoreRecipes() {
+      if (renderedCount >= currentFilteredRecipes.length) return;
+
+      const nextBatch = currentFilteredRecipes.slice(renderedCount, renderedCount + BATCH_SIZE);
+      renderedCount += nextBatch.length;
+
+      const grid = document.getElementById('recipeGrid');
+      const sentinel = document.getElementById('scrollSentinel');
+      if (!grid || !sentinel) return;
+
+      const tempDiv = document.createElement('div');
+      tempDiv.innerHTML = nextBatch.map(createCardHtml).join('');
+
+      const newCards = [];
+      while (tempDiv.firstChild) {
+        const cardEl = tempDiv.firstChild;
+        newCards.push(cardEl);
+        grid.insertBefore(cardEl, sentinel);
+      }
+
+      // Observe newly mounted video cards
+      if (videoObserver) {
+        newCards.forEach(c => {
+          if (c.nodeType === 1 && c.classList.contains('has-video')) {
+            videoObserver.observe(c);
+          }
+        });
+      }
+
+      if (renderedCount >= currentFilteredRecipes.length) {
+        sentinel.innerHTML = '<span style="color:#555;">✓ All ' + currentFilteredRecipes.length + ' scripts loaded</span>';
+        if (sentinelObserver) sentinelObserver.disconnect();
+      }
+    }
+
+    function setupSentinelObserver() {
+      if (sentinelObserver) sentinelObserver.disconnect();
+      if (renderedCount >= currentFilteredRecipes.length) return;
+
+      const sentinel = document.getElementById('scrollSentinel');
+      if (!sentinel) return;
+
+      sentinelObserver = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            loadMoreRecipes();
+          }
+        });
+      }, {
+        rootMargin: '800px 0px 800px 0px',
+        threshold: 0.01
+      });
+
+      sentinelObserver.observe(sentinel);
+    }
+
+    // Zero-Leak Video Decoder Lifecycle Observer
     function setupVideoObserver() {
       if (videoObserver) videoObserver.disconnect();
 
       videoObserver = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
-          const video = entry.target;
+          const card = entry.target;
+          const video = card.querySelector('video');
+          if (!video) return;
+
+          const isCurrentAudio = (video.id === 'vid-' + currentlyUnmutedVideoId);
+
           if (entry.isIntersecting) {
+            // Approaching or in viewport: attach source if missing
+            if (!video.src && video.dataset.src) {
+              video.src = video.dataset.src;
+            }
             video.play().catch(() => {});
           } else {
+            // Far out of viewport: pause immediately
             video.pause();
+
+            // Deallocate hardware video decoder if not the user's active sound card
+            if (!isCurrentAudio && video.src) {
+              video.removeAttribute('src');
+              video.load(); // Forces Chromium/WebKit to destroy WebMediaPlayer & release GPU decoder slot
+            }
           }
         });
-      }, { threshold: 0.25 });
+      }, {
+        rootMargin: '300px 0px 300px 0px',
+        threshold: 0.05
+      });
 
-      document.querySelectorAll('.recipe-card video').forEach(v => {
-        videoObserver.observe(v);
+      document.querySelectorAll('.recipe-card.has-video').forEach(c => {
+        videoObserver.observe(c);
       });
     }
-
-    // Modal Inspection
-    let currentModalRecipeId = null;
 
     function openDetailsModal(id) {
       const r = recipes.find(x => x.id === id);
@@ -1972,7 +2088,13 @@
     function closeModal() {
       currentModalRecipeId = null;
       const modalVideo = document.getElementById('modal-video');
-      if (modalVideo) modalVideo.pause();
+      if (modalVideo) {
+        modalVideo.pause();
+        modalVideo.removeAttribute('src');
+        modalVideo.load();
+      }
+      const mediaContainer = document.getElementById('modalMediaContainer');
+      if (mediaContainer) mediaContainer.innerHTML = '';
       document.getElementById('modalBackdrop').classList.remove('open');
       document.body.style.overflow = '';
     }
