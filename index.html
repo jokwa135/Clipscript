@@ -1296,6 +1296,20 @@
     @keyframes spin {
       to { transform: rotate(360deg); }
     }
+  
+    /* Hide any Netlify badges, drawers, feedback widgets or chat bubbles */
+    [id*="netlify"],
+    [class*="netlify"],
+    [data-netlify-drawer],
+    netlify-drawer,
+    iframe[src*="netlify.com"] {
+      display: none !important;
+      visibility: hidden !important;
+      pointer-events: none !important;
+      opacity: 0 !important;
+      width: 0 !important;
+      height: 0 !important;
+    }
   </style>
 </head>
 <body>
@@ -1785,7 +1799,6 @@
     const BATCH_SIZE = 36;
     let sentinelObserver = null;
     let videoObserver = null;
-    let currentlyUnmutedVideoId = null;
 
     function renderGrid() {
       const grid = document.getElementById('recipeGrid');
